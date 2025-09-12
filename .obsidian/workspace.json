@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "dc0ad76c07fc0b8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba9b3a84b4b5ddda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "036e02be835eca8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OCR A Level Physics/Materials/Stress, strain and the Young Modulus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stress, strain and the Young Modulus"
+            }
+          },
+          {
+            "id": "ebe52782ef74a407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OCR A Level Physics/Current And Charge/Current and Charge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Current and Charge"
+            }
+          },
+          {
+            "id": "b9af38f429c0d988",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ALevelPhysicsForOCRAStudentBook"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b580e00666a78d19",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a1db7f5ac65e70b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88f988dc27e44943",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9313af7c98fdd456",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "gradient",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a2518bbd494472f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61dfa758a973c1cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9728a322297cd29d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98b3562157190968",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OCR A Level Physics/6 Materials/6.4 Stress, strain and the Young Modulus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 6.4 Stress, strain and the Young Modulus"
+            }
+          },
+          {
+            "id": "949ebad22e873f35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OCR A Level Physics/6 Materials/6.4 Stress, strain and the Young Modulus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 6.4 Stress, strain and the Young Modulus"
+            }
+          },
+          {
+            "id": "07804541b264385d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5cf1a19bf42ee64a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OCR A Level Physics/6 Materials/6.4 Stress, strain and the Young Modulus.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 6.4 Stress, strain and the Young Modulus"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b9af38f429c0d988",
+  "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Circular Motion/Exploring Centripetal Forces.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook.pdf",
+    "OCR A Level Physics/Resources",
+    "OCR A Level Physics/In Lesson Notes/Investigating Centripetal Force.md",
+    "OCR A Level Physics/In Lesson Notes/Induction Lesson.md",
+    "OCR A Level Physics/Specification/Circular Motion/Centripetal Acceleration.md",
+    "OCR A Level Physics/Specification/Circular Motion/Angular Velocity and The Radian.md",
+    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910025827.png",
+    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910025644.png",
+    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910024011.png",
+    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910022950.png",
+    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910020624.png",
+    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910014553.png",
+    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910013801.png",
+    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910004800.png",
+    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910003404.png",
+    "OCR A Level Physics/In Lesson Notes/Circular Motion.md",
+    "OCR A Level Physics/In Lesson Notes/attachments/Pasted image 20250905111605.png",
+    "OCR A Level Physics/In Lesson Notes/attachments",
+    "OCR A Level Physics/Specification/Circular Motion/attachments",
+    "OCR A Level Physics/Specification/Untitled",
+    "OCR A Level Physics/Specification",
+    "OCR A Level Physics/Specification/Circular Motion",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/I-V Characteristics.md",
+    "OCR A Level Physics/In Lesson Notes",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Potential Difference And e.m.f.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Electron gun.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Circuit Diagrams.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",
+    "OCR A Level Physics/Specification/Current And Charge/Current and Charge.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance and resistivity.md",
+    "OCR A Level Physics/Materials/Deforming Materials.md",
+    "OCR A Level Physics/Materials/Stress, strain and the Young Modulus.md",
+    "OCR A Level Physics/Specification/Current And Charge/Moving Charges.md",
+    "OCR A Level Physics/Specification/Current And Charge/Mean Drift Velocity.md",
+    "OCR A Level Physics/Specification/Current And Charge/Kirchhoff's first law.md",
+    "OCR A Level Physics/Energy, Power And Resistance/flashcards/flashcards.md",
+    "OCR A Level Physics/Energy, Power And Resistance/flashcards",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/The LDR.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/The thermistor.md",
+    "c.md",
+    "Untitled.canvas",
+    "attachments",
+    "2025-08-26.md"
+  ]
+}
