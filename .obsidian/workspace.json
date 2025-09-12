@@ -39,12 +39,14 @@
             "id": "b9af38f429c0d988",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook.pdf"
+                "file": "OCR A Level Physics/Specification/Circular Motion/Exploring Centripetal Forces.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ALevelPhysicsForOCRAStudentBook"
+              "icon": "lucide-file",
+              "title": "Exploring Centripetal Forces"
             }
           }
         ],
@@ -194,11 +196,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9af38f429c0d988",
+  "active": "88f988dc27e44943",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Circular Motion/Exploring Centripetal Forces.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook.pdf",
     "OCR A Level Physics/Resources",
