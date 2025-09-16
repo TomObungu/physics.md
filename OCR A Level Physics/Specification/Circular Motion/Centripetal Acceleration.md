@@ -32,7 +32,7 @@ An object may have the same angular velocity as another but if the other object 
 ![[Pasted image 20250910004800.png]]
 
 ## Centripetal Acceleration
-The accelerating of any object travelling in a circular path at constant speed is called the centripetal acceleration. This acceleration always acts towards the center of the circle, much like centripetal force.
+The acceleration of any object travelling in a circular path at constant speed is called the centripetal acceleration. This acceleration always acts towards the center of the circle, much like centripetal force.
 
 The centripetal acceleration $a$ depends on the speed of the object, $v$, and the radius $r$ of the circular path. As an object travels, the faster the car travels the greater the acceleration. This is same is true if the radius of the motion of travel is smaller. The centripetal acceleration is given by the equation:
 $$

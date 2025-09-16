@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ba9b3a84b4b5ddda",
+        "id": "3eef15d1c597c67c",
         "type": "tabs",
         "children": [
           {
-            "id": "036e02be835eca8c",
+            "id": "3a9a4be927e22ca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Materials/Stress, strain and the Young Modulus.md",
+                "file": "OCR A Level Physics/Specification/Oscillations/Analysing simple harmonic motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stress, strain and the Young Modulus"
-            }
-          },
-          {
-            "id": "ebe52782ef74a407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OCR A Level Physics/Current And Charge/Current and Charge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Current and Charge"
-            }
-          },
-          {
-            "id": "b9af38f429c0d988",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OCR A Level Physics/Specification/Circular Motion/Exploring Centripetal Forces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exploring Centripetal Forces"
+              "title": "Analysing simple harmonic motion"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,34 +171,75 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88f988dc27e44943",
+  "floating": {
+    "id": "717a2cedf87b204b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "724cddc25a885b52",
+        "type": "window",
+        "children": [
+          {
+            "id": "9bee6cde2bb984ce",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "81b5587bdd5d7ffe",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3a9a4be927e22ca4",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Oscillations/Analysing simple harmonic motion.md",
+    "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916214513.png",
+    "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916214430.png",
+    "OCR A Level Physics/Specification/Oscillations/Oscillations and simple harmonic motion.md",
+    "OCR A Level Physics/In Lesson Notes/Investigating Centripetal Force.md",
+    "OCR A Level Physics/Specification/Circular Motion/Angular Velocity and The Radian.md",
+    "OCR A Level Physics/Specification/Circular Motion/Centripetal Acceleration.md",
     "OCR A Level Physics/Specification/Circular Motion/Exploring Centripetal Forces.md",
+    "OCR A Level Physics/Specification/Oscillations/attachments/attachments/Pasted image 20250916205458.png",
+    "OCR A Level Physics/Specification/Oscillations/attachments/attachments/Pasted image 20250916205439.png",
+    "OCR A Level Physics/Specification/Oscillations/attachments/attachments/Pasted image 20250916205425.png",
+    "OCR A Level Physics/Specification/Oscillations/attachments/attachments",
+    "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916203838.png",
+    "OCR A Level Physics/In Lesson Notes/Circular Motion.md",
+    "OCR A Level Physics/In Lesson Notes/Induction Lesson.md",
+    "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916195918.png",
+    "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916195520.png",
+    "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916194812.png",
+    "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916194739.png",
+    "OCR A Level Physics/Specification/Oscillations/attachments",
+    "OCR A Level Physics/Specification/Oscillations",
+    "OCR A Level Physics/Materials/Stress, strain and the Young Modulus.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook.pdf",
     "OCR A Level Physics/Resources",
-    "OCR A Level Physics/In Lesson Notes/Investigating Centripetal Force.md",
-    "OCR A Level Physics/In Lesson Notes/Induction Lesson.md",
-    "OCR A Level Physics/Specification/Circular Motion/Centripetal Acceleration.md",
-    "OCR A Level Physics/Specification/Circular Motion/Angular Velocity and The Radian.md",
-    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910025827.png",
-    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910025644.png",
-    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910024011.png",
-    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910022950.png",
-    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910020624.png",
-    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910014553.png",
-    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910013801.png",
-    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910004800.png",
-    "OCR A Level Physics/Specification/Circular Motion/attachments/Pasted image 20250910003404.png",
-    "OCR A Level Physics/In Lesson Notes/Circular Motion.md",
-    "OCR A Level Physics/In Lesson Notes/attachments/Pasted image 20250905111605.png",
     "OCR A Level Physics/In Lesson Notes/attachments",
     "OCR A Level Physics/Specification/Circular Motion/attachments",
-    "OCR A Level Physics/Specification/Untitled",
     "OCR A Level Physics/Specification",
     "OCR A Level Physics/Specification/Circular Motion",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/I-V Characteristics.md",
-    "OCR A Level Physics/In Lesson Notes",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Potential Difference And e.m.f.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Electron gun.md",
@@ -236,17 +248,13 @@
     "OCR A Level Physics/Specification/Current And Charge/Current and Charge.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance and resistivity.md",
     "OCR A Level Physics/Materials/Deforming Materials.md",
-    "OCR A Level Physics/Materials/Stress, strain and the Young Modulus.md",
     "OCR A Level Physics/Specification/Current And Charge/Moving Charges.md",
     "OCR A Level Physics/Specification/Current And Charge/Mean Drift Velocity.md",
     "OCR A Level Physics/Specification/Current And Charge/Kirchhoff's first law.md",
     "OCR A Level Physics/Energy, Power And Resistance/flashcards/flashcards.md",
-    "OCR A Level Physics/Energy, Power And Resistance/flashcards",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/The LDR.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/The thermistor.md",
     "c.md",
-    "Untitled.canvas",
-    "attachments",
-    "2025-08-26.md"
+    "Untitled.canvas"
   ]
 }
