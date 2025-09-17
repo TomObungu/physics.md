@@ -8,5 +8,9 @@ Revise flash cards
 
 displace has position x
 
-phase difference - displa
+phase difference - difference in displacement for two waves
+
+angular velocity is the physical change in angle per second
+
+angular frequency is 
    
