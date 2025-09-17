@@ -6,5 +6,7 @@
 
 Revise flash cards
 
+displace has position x
 
+phase difference - displa
    
