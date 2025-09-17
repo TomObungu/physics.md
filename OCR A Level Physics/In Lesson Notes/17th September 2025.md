@@ -30,3 +30,6 @@ SHM
 
 
 isochronus means the period t is not dependant on the amplitude. Meaning the time period of of the oscillator is the same regardless of amplitude.
+
+SHM
+There is 
