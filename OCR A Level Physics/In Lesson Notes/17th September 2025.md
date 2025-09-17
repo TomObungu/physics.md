@@ -19,3 +19,10 @@ $A\cos\theta$
 
 motion along y-axis:
 $A\sin \theta$
+
+SHM
+- Maximum displacement (amplitude) at extremes of oscillation
+- Greatest velocity and equilibrium position
+- Acceleration is maximum at extremes of oscillation
+- Acceleration is $\propto$ -x
+- 
