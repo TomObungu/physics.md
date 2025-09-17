@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Oscillations/Analysing simple harmonic motion.md",
+                "file": "OCR A Level Physics/In Lesson Notes/17th September 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analysing simple harmonic motion"
+              "title": "17th September 2025"
             }
           }
         ]
@@ -171,47 +171,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "717a2cedf87b204b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "724cddc25a885b52",
-        "type": "window",
-        "children": [
-          {
-            "id": "9bee6cde2bb984ce",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "81b5587bdd5d7ffe",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "3a9a4be927e22ca4",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Oscillations/Analysing simple harmonic motion.md",
+    "OCR A Level Physics/In Lesson Notes/17th September 2025.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916214513.png",
     "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916214430.png",
     "OCR A Level Physics/Specification/Oscillations/Oscillations and simple harmonic motion.md",
