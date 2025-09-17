@@ -24,5 +24,9 @@ SHM
 - Maximum displacement (amplitude) at extremes of oscillation
 - Greatest velocity and equilibrium position
 - Acceleration is maximum at extremes of oscillation
-- Acceleration is $\propto$ -x
-- 
+- $a$ $\propto$ -$x$
+- Acceleration is 0 at equilibrium position 
+- Acceleration acts opposite to motion
+
+
+isochronus means the period t is not dependant on the amplitude. Meaning the time period of of the oscillator is the same regardless of amplitude.
