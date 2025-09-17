@@ -13,4 +13,9 @@ phase difference - difference in displacement for two waves
 angular velocity is the physical change in angle per second
 
 angular frequency is 
-   
+
+motion along x-axis:
+$A\cos\theta$
+
+motion along y-axis:
+$A\sin \theta$
