@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Oscillations/Untitled.md",
+                "file": "OCR A Level Physics/Specification/Oscillations/Oscillations and simple harmonic motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Oscillations and simple harmonic motion"
             }
           }
         ]
@@ -171,14 +171,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "180fa2595a576552",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1aec36e253ddeb13",
+        "type": "window",
+        "children": [
+          {
+            "id": "af0d9fc40636496f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ffe2262335225c12",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "3a9a4be927e22ca4",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Oscillations/Oscillations and simple harmonic motion.md",
-    "OCR A Level Physics/Specification/Oscillations/Untitled.md",
     "OCR A Level Physics/Specification/Oscillations/Analysing simple harmonic motion.md",
+    "OCR A Level Physics/Specification/Oscillations/Untitled.md",
     "OCR A Level Physics/In Lesson Notes/17th September 2025.md",
     "OCR A Level Physics/In Lesson Notes/Circular Motion.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916214513.png",
     "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916214430.png",
     "OCR A Level Physics/In Lesson Notes/Investigating Centripetal Force.md",
@@ -218,7 +255,6 @@
     "OCR A Level Physics/Specification/Current And Charge/Kirchhoff's first law.md",
     "OCR A Level Physics/Energy, Power And Resistance/flashcards/flashcards.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/The LDR.md",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/The thermistor.md",
     "Untitled.canvas"
   ]
 }
