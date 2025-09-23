@@ -8,5 +8,9 @@ For any point in an electrical circuit, the sum of currents into that point is e
 ![[Pasted image 20250827131228.png]]
 The law can be written as 
 $$
-\Sigma I_{in} = \Sigma I_{out}
+\Sigma I_{in} = \Sigma I_{out} 
+$$
+or
+$$
+I_{1} - I_{2} + I_{3} - I_{4} = 0
 $$

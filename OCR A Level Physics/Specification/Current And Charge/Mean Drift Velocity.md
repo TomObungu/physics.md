@@ -4,7 +4,7 @@ Conductors have a very high number density of order $10^{28}m^{-3}$, insulators 
 ![[Pasted image 20250827133642.png]]
 In order for semiconductors to carry the same amount of current the electrons need to move much faster. This increases the temperature of the semiconductors. 
 ## How fast do charge carriers move?
-Most charge carriers like electrons move slowly. Free electrons repeatedly collide positive metal ions as they drift through the wire towards the positive terminal. The reason why lights turn on so quickly is because all the free electrons in the wire start moving almost all at once
+Most charge carriers like electrons move slowly. **Free electrons repeatedly collide positive metal ions** as they drift through the wire towards the positive terminal. The reason why lights turn on so quickly is because all the free electrons in the wire start moving almost all at once
 
 ##  $I = Anev$
 This is an equation for electric current. $I$ is the the current in amperes, $A$ is the cross sectional area of the conductor in $m^{2}$, $e$ is the elementary charge constant ($1.602 \times 10^{-19}C$), $n$ is the number density of the material, and $v$ is the mean drift velocity.
