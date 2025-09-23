@@ -20,4 +20,4 @@ A common example of an ionic solution is salt (Sodium Chloride, NaCl ) dissolved
 If a positive electrode **(anode)** and a negative electrode **(cathode)** are placed in the solution, ions are attracted to the electrodes. The Na$^{+}$ ions move towards the cathode and the Cl$^{-}$ ions move towards the anode. This movement is a flow of charge - an electric current. 
 
 ## Measuring electric current
-An ammeter is always placed in series. Ammet
+An ammeter is always placed in series. Ammeters should have the lowest possible resistance in order to reduce the effect they have on the current.  
