@@ -11,12 +11,14 @@
             "id": "3a9a4be927e22ca4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                "file": "OCR A Level Physics/Specification/Current And Charge/Kirchhoff's first law.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+              "icon": "lucide-file",
+              "title": "Kirchhoff's first law"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gradient",
+                "query": "conservation ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,10 +172,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "b86573c7b384db65",
+    "type": "floating",
+    "children": [
+      {
+        "id": "38142b79d37c06c4",
+        "type": "window",
+        "children": [
+          {
+            "id": "653d5486a256c53e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "10fc8b767f198a34",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "3a9a4be927e22ca4",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Oscillations/Oscillations and simple harmonic motion.md",
+    "OCR A Level Physics/Specification/Current And Charge/Current and Charge.md",
+    "OCR A Level Physics/Specification/Current And Charge/Kirchhoff's first law.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Current And Charge/Mean Drift Velocity.md",
+    "OCR A Level Physics/Specification/Current And Charge/attachments/Pasted image 20250827121046.png",
+    "OCR A Level Physics/Specification/Current And Charge/Moving Charges.md",
+    "OCR A Level Physics/Specification/Oscillations/Oscillations and simple harmonic motion.md",
     "OCR A Level Physics/Specification/Oscillations/Analysing simple harmonic motion.md",
     "OCR A Level Physics/Specification/Oscillations/Untitled.md",
     "OCR A Level Physics/In Lesson Notes/17th September 2025.md",
@@ -192,7 +237,6 @@
     "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916195918.png",
     "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916195520.png",
     "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916194812.png",
-    "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916194739.png",
     "OCR A Level Physics/Specification/Oscillations/attachments",
     "OCR A Level Physics/Specification/Oscillations",
     "OCR A Level Physics/Materials/Stress, strain and the Young Modulus.md",
@@ -208,12 +252,8 @@
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Electron gun.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Circuit Diagrams.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",
-    "OCR A Level Physics/Specification/Current And Charge/Current and Charge.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance and resistivity.md",
     "OCR A Level Physics/Materials/Deforming Materials.md",
-    "OCR A Level Physics/Specification/Current And Charge/Moving Charges.md",
-    "OCR A Level Physics/Specification/Current And Charge/Mean Drift Velocity.md",
-    "OCR A Level Physics/Specification/Current And Charge/Kirchhoff's first law.md",
     "OCR A Level Physics/Energy, Power And Resistance/flashcards/flashcards.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/The LDR.md",
     "Untitled.canvas"

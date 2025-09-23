@@ -63,6 +63,12 @@ $$
 Q=\pm ne
 $$
 	where $Q$ is the net charge of the object in coulombs, $n$ is the number of electrons (either added or removed) and $e$ is the elementary charge
+
+For example if we had a neutral metal rod and removed two electrons, the rod will become positive charge making the net charge of the rod
+$$
+Q=+2e
+$$
+The net charge before the manipulation of charge carriers is $Q=0$
 #### Quantized values
 The charge on an object is **quantized or discrete** - **these values must only be integer multiples of $e$**
 ## Millikan's experiment
