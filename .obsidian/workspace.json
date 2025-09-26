@@ -171,61 +171,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "b86573c7b384db65",
-    "type": "floating",
-    "children": [
-      {
-        "id": "38142b79d37c06c4",
-        "type": "window",
-        "children": [
-          {
-            "id": "653d5486a256c53e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "10fc8b767f198a34",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              },
-              {
-                "id": "3ac2ccf4f4d5029a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "10fc8b767f198a34",
+  "active": "3a9a4be927e22ca4",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Oscillations/Untitled.md",
     "OCR A Level Physics/Specification/Oscillations/Oscillations and simple harmonic motion.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Circuit Diagrams.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Current And Charge/corrected questions/Q. Which statement is correct, the power dissipated is 12v and 6.0W.md",
     "OCR A Level Physics/Specification/Current And Charge/corrected questions/attachments/Pasted image 20250923144506.png",
     "OCR A Level Physics/Specification/Current And Charge/corrected questions/Q. Mean drift velocity when wires P and Q have different length and diameter.md",
