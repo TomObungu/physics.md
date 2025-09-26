@@ -11,14 +11,12 @@
             "id": "3a9a4be927e22ca4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "OCR A Level Physics/In Lesson Notes/26th September.md",
-                "mode": "source",
-                "source": false
+                "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
               },
-              "icon": "lucide-file",
-              "title": "26th September"
+              "icon": "lucide-file-text",
+              "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
             }
           }
         ]
@@ -171,10 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a9a4be927e22ca4",
+  "active": "88f988dc27e44943",
   "lastOpenFiles": [
-    "OCR A Level Physics/In Lesson Notes/17th September 2025.md",
     "OCR A Level Physics/In Lesson Notes/26th September.md",
+    "OCR A Level Physics/In Lesson Notes/17th September 2025.md",
     "OCR A Level Physics/Specification/Oscillations/Untitled.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Oscillations/Oscillations and simple harmonic motion.md",
