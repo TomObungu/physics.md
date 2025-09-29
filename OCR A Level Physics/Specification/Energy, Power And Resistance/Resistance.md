@@ -20,4 +20,7 @@ y = \frac{2}{x+1} + 1
 When the temperature of wire increases, the positive ions inside the wire have more internal energy and vibrate with greater amplitude about their mean positions. The frequency of the collisions between the charge carriers and ions increases and so the charge carriers do more work which in turn transfers more energy as they travel through the wire. 
 
 
+## Variable resistor
+The reason why a variable resistor works is due to each resistance "step" having an increase in wire length which is turn directly affects the resistance due to $R=\frac{\rho L}{A}$
 
+![[Pasted image 20250929170111.png]]

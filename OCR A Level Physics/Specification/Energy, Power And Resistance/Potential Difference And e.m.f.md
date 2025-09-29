@@ -33,8 +33,15 @@ I=\frac{V}{R} \implies I \approx V \\ \\
 \text{When R is large } e.g. R=9\times10^{5}, V=1 \\ \\
 I=\frac{V}{R} = \frac{1}{9\times 10^{5}}= 1.111\times 10^{-6} =0.00000111\dots \\\implies I\approx 0
 \end{gather*}
-
 $$
+### Why 
+This is due to electric fields and conductivity. At branches on points around the whole circuit, the electric field is determined by $E=\frac{V}{L}$. Where $V$ is the voltage across the branch is the $L$ length of the of the wire. For identical resistors with the same voltage, this equation would yield a constant electric field in each branch.
+
+However the key relationship is $J=\sigma E$, where $J$ is the current density, $\sigma$ is the conductivity, and $E$ is the electric field strength. The conductivity $\sigma$ of a material is determined by its resistivity where $\sigma=\frac{1}{\rho}$. And $\rho$ is directly effected by R due to $\rho=\frac{RA}{L}$ , where $A$ is the area of the wire. You can see that the resistivity is affected by the resistance so areas of the circuit with higher resistance will directly increase the resistivity $\rho\propto R\implies \rho=kR$. This in turn affects the conductivity 
+
+So this means for each branch, the proportion of charge carries that pass through the branch is given by $\frac{1}{kR}$ 
+
+The small proportion that do make it into the branch with higher resistance, the charge carries experience frequent collisions with the resistivity material, e.g. a lattice which causes them to have changes in directions which in turn decreases the mean drift velocity of the charge carriers. Reducing the speed at which the charge carriers travel through the wire and the amount of charge through the wire directly decreases the current. This is the definition of current.
 
 ## Electromotive Force
 Potential difference describes when work is done by the charge carriers. 
@@ -45,6 +52,9 @@ $$
 \varepsilon = \frac{W}{Q}
 $$
 
+The e.m.f would be the energy each unit of charge contains right as it is leaving from the cell. 
+### Why
+At the bottom of the cell, the charge carries have a lower electrical potential energy. 
 ## Calculating energy transfer
 The energy transferred depends on the size of the p.d and the charge passing through the component.
 $$

@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "variable resistor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,12 +210,16 @@
   },
   "active": "3a9a4be927e22ca4",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/I-V Characteristics.md",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/Circuit Diagrams.md",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/Potential Difference And e.m.f.md",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250929160137.png",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Potential Difference And e.m.f.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/I-V Characteristics.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Electron gun.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance and resistivity.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/The thermistor.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250929170111.png",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Circuit Diagrams.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250929160137.png",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",
     "OCR A Level Physics/In Lesson Notes/26th September.md",
     "OCR A Level Physics/In Lesson Notes/17th September 2025.md",
@@ -244,17 +248,13 @@
     "OCR A Level Physics/Specification/Oscillations/attachments/attachments/Pasted image 20250916205439.png",
     "OCR A Level Physics/Specification/Oscillations/attachments/attachments/Pasted image 20250916205425.png",
     "OCR A Level Physics/Specification/Oscillations/attachments/attachments",
-    "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916203838.png",
     "OCR A Level Physics/In Lesson Notes/Induction Lesson.md",
     "OCR A Level Physics/Specification/Oscillations/attachments",
     "OCR A Level Physics/Specification/Oscillations",
-    "OCR A Level Physics/Materials/Stress, strain and the Young Modulus.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook.pdf",
     "OCR A Level Physics/Resources",
     "OCR A Level Physics/In Lesson Notes/attachments",
     "OCR A Level Physics/Specification/Circular Motion/attachments",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/Electron gun.md",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance and resistivity.md",
     "Untitled.canvas"
   ]
 }

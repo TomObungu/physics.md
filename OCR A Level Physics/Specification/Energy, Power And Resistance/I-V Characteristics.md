@@ -1,4 +1,4 @@
-[[Resistance]] [[Potential Difference And e.m.f]] [[Current and Charge]] 
+ [[Resistance]] [[Potential Difference And e.m.f]] [[Current and Charge]] 
 
 Below is circuit diagram needed to collect the data to plot an I-V characteristic of a component.
 
