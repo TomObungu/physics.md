@@ -10,7 +10,7 @@ Knowing from $R = \frac{V}{I}$ this means that $R \propto \frac{1}{I}$ thus as t
 
 As the temperature decreases the positive ions lose energy and thus the electrons return to the outer shell of the metal molecules. 
 #### Circuit diagram for thermistor
-![[Pasted image 20250901120103.png]]
+![[Pasted image 20250929211420.png]]
 
 A thermistor is an electrical component made from a semiconductor with a negative temperature coeffect. As the the temperature of the thermistor increases, its resistance drops.
 
@@ -24,6 +24,8 @@ Uses:
 
 #### Thermistor experiment
 An investigation into how the resistance of a thermistor changes with temperature can be carried using an ohmmeter and water bath. 
+
+- Place the the thermistor 
 
 Alternatively, an ammeter and a voltmeter can be used to measure current in the thermistor and p.d across it different temperatures. The resistance can then be calculated using $R=\frac{V}{I}$
 
