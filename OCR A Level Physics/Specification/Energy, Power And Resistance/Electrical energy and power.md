@@ -53,3 +53,7 @@ $$
 W=Pt
 $$
 Where $P$ is given in Watts and $t$ is the total time in seconds.
+Combing the equations fo p.d and e.m.f. The energy transferred can also be calculated using:
+$$
+W=VQ \qquad W=\varepsilon Q
+$$
