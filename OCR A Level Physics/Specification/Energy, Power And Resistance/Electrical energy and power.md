@@ -52,4 +52,4 @@ Rearranging the equation for Power, $P=\frac{W}{t}$. It is possible to calculate
 $$
 W=Pt
 $$
-Where $P$ is given in Watts.
+Where $P$ is given in Watts and $t$ is the total time in seconds.
