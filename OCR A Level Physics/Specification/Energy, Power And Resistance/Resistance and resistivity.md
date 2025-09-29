@@ -6,12 +6,17 @@ The material of a substance can affect the resistance. Other factors include:
 ## Resistivity
 The term resistivity is used to determine the electrical property of a material. Resistivity is a measure of how difficult is is for charge to travel through a material. The unit for resistivity is ohm meters ($\Omega m$)
 
+It is defined as the resistance, of a material with a unit length  and a 1 unit cross-sectional area. 
+
 ## Resistance and length
 For any given current, increasing the length of the wire will increase the p.d across it. The resistance of a wire is directly proportional to its length L.  $$
 R \propto L
 $$
 ## Resistance and cross-sectional area
 When the cross-sectional area of the wire increases, the resistance drops. Wires with a greater cross-sectional area have a lower resistance.
+
+This is due the to $R=\frac{V}{I}$ and $I=Anev$  thus, $R=\frac{V}{Anev}$
+
 
 The resistance R of a wire is inversely proportional to its cross-sectional area A.
 $$
