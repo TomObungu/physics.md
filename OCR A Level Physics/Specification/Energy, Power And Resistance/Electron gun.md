@@ -11,6 +11,8 @@ Heated filament is placed in a vacuum and a high p.d is applied between the fila
 As electrons accelerate towards the anode and gain kinetic energy, the work done on a single electron is $eV$, where $e$ is the elementary charge and $V$ is the alternating p.d. This is because of the equation $W = VQ$ where $Q$ is represented with the value of $e$. 
 
 by considering the law of the conservation of energy we can derive an equation relating the work done on the electron to its increase in kinetic energy. 
+
+This is because as the electron moves through the electric field, the work done by the electric field is transferred into kinetic energy.
 $$
 \text{work done on an electorn = gain in kinetic energy}
 $$
