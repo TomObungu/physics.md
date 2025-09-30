@@ -1,6 +1,9 @@
 The resistance of a component in a circuit can be determined by measuring the current $I$ and the p.d $V$.
 
 Resistance is the measure of how difficult it is for current to flow through a component in a circuit
+
+## Why
+It takes energy to push an electron through a component. For specific components like resistors, their molecular structure inhibits the flow electrons. This is due to the electrons constantly colliding with the atoms of the material that the resistor is made of as they flow through the component. This collision causes a transfer of electrical and kinetic energy from the electron into thermal energy (heat). 
 ### The Ohm
 An ohm is defined as the resistance of a component when a p.d of 1V is produced per ampere of current.
 $$
