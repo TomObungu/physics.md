@@ -21,6 +21,12 @@ $$
 $$
 Changing the alternating p.d changes the kinetic energy of the electrons within the beam. The greater the p.d the more energy is transferred to the electrons and so the faster they move. 
 
+## Why a large alternating p.d accelerates an electron
+The p.d is alternating in order to attract the electron to the next terminal when it is coming out of the terminal and to repel it to prevent it from returning in the opposite direction
+
+This large p.d is expressed as $eV$ where $V$ is large
+
+This is all turned into kinetic energy in the form as motion with speed $v$
 #### Calculating the velocity of an electron
 *Calculate the velocity of an electron from an electron gun with an accelerating p.d of 4kV*
 
