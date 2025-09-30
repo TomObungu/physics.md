@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance.md",
+                "file": "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resistance"
+              "title": "Diodes"
             }
           }
         ]
@@ -205,13 +205,56 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "a11c156f2853dada",
+        "type": "window",
+        "children": [
+          {
+            "id": "0827c9e097ee6d8b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d406272bcd0c7599",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
   "active": "3a9a4be927e22ca4",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/Electron gun.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930222842.png",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930222827.png",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930222740.png",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930222734.png",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930222721.png",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930222713.png",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930222328.png",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930221808.png",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930221654.png",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930221057.png",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance.md",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Electron gun.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Electrical energy and power.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Potential Difference And e.m.f.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance and resistivity.md",
@@ -219,32 +262,21 @@
     "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250929212533.png",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/I-V Characteristics.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/The thermistor.md",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250929211420.png",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Circuit Diagrams.md",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance.md",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250929203714.png",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250929170111.png",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250929160137.png",
     "OCR A Level Physics/In Lesson Notes/26th September.md",
     "OCR A Level Physics/In Lesson Notes/17th September 2025.md",
     "OCR A Level Physics/Specification/Oscillations/Untitled.md",
     "OCR A Level Physics/Specification/Oscillations/Oscillations and simple harmonic motion.md",
     "OCR A Level Physics/Specification/Current And Charge/corrected questions/Q. Which statement is correct, the power dissipated is 12v and 6.0W.md",
-    "OCR A Level Physics/Specification/Current And Charge/corrected questions/attachments/Pasted image 20250923144506.png",
     "OCR A Level Physics/Specification/Current And Charge/corrected questions/Q. Mean drift velocity when wires P and Q have different length and diameter.md",
-    "OCR A Level Physics/Specification/Current And Charge/corrected questions/attachments/Pasted image 20250923141659.png",
     "OCR A Level Physics/Specification/Current And Charge/corrected questions/attachments",
     "OCR A Level Physics/Specification/Current And Charge/Mean Drift Velocity.md",
     "OCR A Level Physics/Specification/Current And Charge/corrected questions",
     "OCR A Level Physics/Specification/Current And Charge/Kirchhoff's first law.md",
     "OCR A Level Physics/Specification/Current And Charge/Moving Charges.md",
     "OCR A Level Physics/Specification/Current And Charge/Current and Charge.md",
-    "OCR A Level Physics/Specification/Current And Charge/attachments/Pasted image 20250827121046.png",
     "OCR A Level Physics/Specification/Oscillations/Analysing simple harmonic motion.md",
     "OCR A Level Physics/In Lesson Notes/Circular Motion.md",
-    "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916214513.png",
-    "OCR A Level Physics/Specification/Oscillations/attachments/Pasted image 20250916214430.png",
     "OCR A Level Physics/In Lesson Notes/Investigating Centripetal Force.md",
     "OCR A Level Physics/Specification/Circular Motion/Angular Velocity and The Radian.md",
     "OCR A Level Physics/Specification/Circular Motion/Centripetal Acceleration.md",
