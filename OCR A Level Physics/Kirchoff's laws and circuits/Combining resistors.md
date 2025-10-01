@@ -16,7 +16,13 @@ R = R_{1} + R_{2} + R_{3} \dots
 $$
 
 # Current and resistors in parallel
-When resistors are connected in parallel. The total resistance drops. The additional resistor provides another path for the current, effectively increasing the cross-sectional area and so lowing the resistance,
+When resistors are connected in parallel. The total resistance drops. The additional resistor provides another path for the current, effectively increasing the cross-sectional area and so lowing the resistance.
+
+## Why
+Total current through the circuit will be the sum of the current passing through each branch. This because, the current will divide will divide between each branch and flow to all possible routes available before recombining at th
+
+
+
 ## Why
 We known that the total current is equal to the sum of the current in each resistor giving:
 $$

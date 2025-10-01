@@ -68,8 +68,15 @@ In this example, resistor A has a p.d 2V across it along the main branch of the 
 
 It is possible to see that voltage going into a branch will be same across the branches from the same junction.
 
-# Current in parallel circuits
+## Why
+This is because every branch within the parallel circuit is connected to the positive and negative terminal. This means from every emerging branch from the parallel circuit, the difference in joules per columb of charge  between the negative terminal and and positive terminal will still always be equal to the voltage the potential difference of the chemical cell. ![[Pasted image 20251001151127.png]]
+This is because from each branch, the charge carriers will always enter a selection of the available branches with the same joules of energy per coulomb of charge as it is emerging from negative charge off the cell. Once the charge carriers travel through that branch and emerge back to main positive terminal branch. The will have exhuasted 1.5V and return along the positive terminal wire back towards the positive terminal to where they will gain energy again. 
 
+In series, each component is connected to each other so the energy entering into each component will cascade as a result of the previous component using up energy.
 
+However in parallel, this the not same, as each branch is connected directly to the battery. Thus the difference in energy is equal to the difference in energy between the negative terminal and positive terminal which the potential difference. 
 
+This is why adding to identical cells in parallel, will yield a potential difference of the the same voltage for each cell. The difference in potential in each branch will be each to the maximum voltage. However if the cells were not identical, then there would be an imbalance of current between the lower p.d cell and the higher one and the higher p.d cell would send a large current to the lower p.d to try and equalize their pontential. This large current will cause the cells to overheat. 
 
+This is because a higher voltage will cause a higher current due to the charge carriers having more energy. This is Ohm's law:
+![[Pasted image 20251001153446.png]]
