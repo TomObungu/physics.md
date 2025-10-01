@@ -194,12 +194,24 @@
                   "icon": "lucide-file-text",
                   "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
                 }
+              },
+              {
+                "id": "e9c4dc59e180124a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 960,
+        "x": 0,
         "y": 0,
         "width": 960,
         "height": 1040,
@@ -241,6 +253,7 @@
   },
   "active": "3a9a4be927e22ca4",
   "lastOpenFiles": [
+    "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001175846.png",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Kirchoff's laws and circuits/Combining resistors.md",
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001155810.png",

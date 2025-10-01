@@ -48,4 +48,26 @@ I_{3} =  \frac{6}{5} = 1.2 \\ \\
 $$
 ![[Pasted image 20251001155810.png]]
 ## Resistance 
-Therefore, increasing the resistance in a parallel branch will cause the overall current to drop due to the total current within that branch decreasing and therefore decreasing the branch. 
+Therefore, increasing the resistance in a parallel branch will cause the overall current to drop due to the total current within that branch decreasing and therefore decreasing the overall current.
+
+Knowing that sum of the currents is equal to the sum of the current in each resistor, giving $I=I_{1}+I_{2}+I_{3}\dots$, and that the voltage in each parallel circuit is equal.
+
+It is possible to derive the resistance in parallel by dividing by $V$ as $V$ is the same for all.
+$$
+\frac{I}{V}=\frac{I_{1}}{V}+\frac{I_{2}}{V}+\frac{I_{3}}{V}\dots
+$$
+As  $V = IR$, then $R=\frac{V}{I}$ and thus $\frac{1}{R} = \frac{I}{V}$. This gives the equation:
+$$
+\frac{1}{R} = \frac{1}{R_{1}} + \frac{1}{R_{2}} + \frac{1}{R_{3}} \dots
+$$
+Thus this makes it possible to simplify parts of a circuit:
+![[Pasted image 20251001175846.png]]
+Top circuit: 
+$$
+\frac{1}{R}=\frac{1}{15\Omega} + \frac{1}{30\Omega} = \frac{3}{30} \implies R = 10
+$$
+Bottom circuit:
+$$
+8\Omega + \left( \frac{1}{10} + \frac{1}{10} \right)^{-1} = 8 + 5 = 13\Omega
+$$
+
