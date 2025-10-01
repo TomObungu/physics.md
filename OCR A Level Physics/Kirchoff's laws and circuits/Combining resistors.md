@@ -48,4 +48,4 @@ I_{3} =  \frac{6}{5} = 1.2 \\ \\
 $$
 ![[Pasted image 20251001155810.png]]
 ## Resistance 
-Therefore, increasing the resistance in a parallel branch will cause the overall current to drop due to the total 
+Therefore, increasing the resistance in a parallel branch will cause the overall current to drop due to the total current within that branch decreasing and therefore decreasing the branch. 
