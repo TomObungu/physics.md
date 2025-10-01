@@ -1,0 +1,12 @@
+- Circular motion
+- Themal phsyics
+- 1 markers
+- electricty 
+- a bit of evertyhing
+- ideal gas assumption
+- 1 marker on maves - tir
+- suvat question
+- 5 main
+- specic heat capcity of a liquid
+- brownian motion
+- 

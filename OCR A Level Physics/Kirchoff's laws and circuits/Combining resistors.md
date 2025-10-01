@@ -71,15 +71,4 @@ $$
 8\Omega + \left( \frac{1}{10} + \frac{1}{10} \right)^{-1} = 8 + 5 = 13\Omega
 $$
 
-- Circular motion
-- Themal phsyics
-- 1 markers
-- electricty 
-- a bit of evertyhing
-- ideal gas assumption
-- 1 marker on maves - tir
-- suvat question
-- 5 main
-- specic heat capcity of a liquid
-- brownian motion
-- 
+Notice that for this circuit althought the voltage entering into the branch across the circuit is shared

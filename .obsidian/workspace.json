@@ -246,15 +246,17 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "3a9a4be927e22ca4",
+  "active": "677e37fe86375d70",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Kirchoff's laws and circuits/Combining resistors.md",
+    "OCR A Level Physics/Kirchoff's laws and circuits/Kirchoff's Second Law.md",
+    "OCR A Level Physics/Resources/test.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001175846.png",
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001155810.png",
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001155430.png",
@@ -264,7 +266,6 @@
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001154523.png",
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001154347.png",
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001154032.png",
-    "OCR A Level Physics/Kirchoff's laws and circuits/Kirchoff's Second Law.md",
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001153446.png",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Electron gun.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Circuit Diagrams.md",
