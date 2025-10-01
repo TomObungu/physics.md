@@ -48,4 +48,28 @@ $$
 ![[Pasted image 20251001130953.png]]
 
 ## Parallel circuits
-A parallel circuit provides more than one possible route for the charges through branches. How much charge flow down each path depends on 
+A parallel circuit provides more than one possible route for the charges through branches. How much charge flow down each path depends on the resistance of the path. Kirchoff's first law tells us that current into each junction must be equal to the current out of the junction.
+
+
+The greater the resistance of the branch, the lower the current that passes through it. If one of the branches has half the resistance of the other. It will have twice the current though it. 
+
+So two-thirds of the total current will go through the branch will the lower resistance.
+# p.d in parallel circuits
+Each branch forms its own loop. Kirchhoff's second law tells us that around each loop, the e.m.f must be equal to the p.d, this must been the p.d across each branch is equal to the e.m.f from the power supply. 
+
+Thus, if one branch contains several components then the sum of the p.d.s across these components must equal the e.m.f.
+
+![[Pasted image 20251001143824.png]]
+In this circuit, the e.m.f produced must equal to the sum of the voltages of every component. Thus in this case the voltage across each branch for each component will add up to 12V.
+![[Pasted image 20251001143841.png]]
+In this branch, the sum of the total voltage of this component must equal to 5V. Thus for each component in this branch, the voltage must also equal to 5.
+![[Pasted image 20251001144258.png]]
+In this example, resistor A has a p.d 2V across it along the main branch of the cell circuit. So this means that the cumulative voltage remaining that can through the next branheches will be 10V and thus each branch will have a voltage of 10V.
+
+It is possible to see that voltage going into a branch will be same across the branches from the same junction.
+
+# Current in parallel circuits
+
+
+
+
