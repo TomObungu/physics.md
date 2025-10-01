@@ -1,5 +1,5 @@
 [[I-V Characteristics]] [[Circuit Diagrams]]
-A diode only allows current in one particular direction. This is b oecause diodes are made of semiconducting material that is negatively charged at one end and has a positively charged end with holes for the electrons to enter. However due to positive charge attracting the negative electrons causing them to pass through the holes. The electrons cannot renter back into the area of negative charge due to repulsion. Once the electrons enter through the hole through the positive part in the diode, they continue off the rest of the circuit and the flow of electrons continues. 
+A diode only allows current in one particular direction. This is because diodes are made of semiconducting material that is negatively charged at one end and has a positively charged end with holes for the electrons to enter. However due to positive charge attracting the negative electrons causing them to pass through the holes. The electrons cannot renter back into the area of negative charge due to repulsion. Once the electrons enter through the hole through the positive part in the diode, they continue off the rest of the circuit and the flow of electrons continues. 
 ![[Pasted image 20250930224721.png]]
 ## Why
 https://www.youtube.com/watch?v=btOIDQeMrMg
