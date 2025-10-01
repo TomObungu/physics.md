@@ -19,9 +19,13 @@ $$
 When resistors are connected in parallel. The total resistance drops. The additional resistor provides another path for the current, effectively increasing the cross-sectional area and so lowing the resistance.
 
 ## Why
-Total current through the circuit will be the sum of the current passing through each branch. This because, the current will divide will divide between each branch and flow to all possible routes available before recombining at th
+Total current through the circuit will be the sum of the current passing through each branch. This because, the current will divide between each branch and flow to all possible routes available before recombining along  positive terminal wire leading towards the positive terminal 
+![[Pasted image 20251001154032.png]]
+We can see that in this that when we increase the resistance of branch, the current in that branch will be less as the voltage is the same and Ohm's law stating that $I=\frac{V}{R}$ and thus $I\propto \frac{1}{R}$. 
 
-
+If the total current within that branch has decreased, the total current will decrease as the sum off the currents of each branch will decrease. 
+![[Pasted image 20251001154347.png]] 
+However this does not mean each branch is reciev
 
 ## Why
 We known that the total current is equal to the sum of the current in each resistor giving:
