@@ -176,37 +176,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "be249410354a5ada",
-        "type": "window",
-        "children": [
-          {
-            "id": "4dc279be850675b5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "48980f6f0c3808ce",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "a11c156f2853dada",
         "type": "window",
         "children": [
@@ -239,8 +208,10 @@
       }
     ]
   },
-  "active": "3a9a4be927e22ca4",
+  "active": "d406272bcd0c7599",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930234233.png",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930233919.png",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930233908.png",
@@ -251,9 +222,6 @@
     "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930232611.png",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930232533.png",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930232335.png",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/attachments/Pasted image 20250930232131.png",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Electron gun.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Electrical energy and power.md",
