@@ -1,4 +1,4 @@
-- Circular motion
+- ~~Circular motion~~
 - ~~Themal phsyics~~
 - 1 markers
 - electricty -> ev and LED wavelength
