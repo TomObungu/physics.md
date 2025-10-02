@@ -7,8 +7,8 @@
 - 1 marker on waves - tir
 - suvat question + impulse
 - 5 main
-- speciific heat capcity of a liquid
-- brownian motion
+- ~~speciific heat capcity of a liquid~~
+- ~~brownian motion~~
 -
 
 - Revision list
