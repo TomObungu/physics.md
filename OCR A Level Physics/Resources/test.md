@@ -1,12 +1,33 @@
 - Circular motion
 - Themal phsyics
 - 1 markers
-- electricty 
+- electricty -> ev and LED wavelength
 - a bit of evertyhing
 - ideal gas assumption
-- 1 marker on maves - tir
-- suvat question
+- 1 marker on waves - tir
+- suvat question + impulse
 - 5 main
-- specic heat capcity of a liquid
+- speciific heat capcity of a liquid
 - brownian motion
-- 
+-
+
+- Revision list
+- Thermal physics
+	- Specific Heat capacity
+- Ideal gases
+	- Ideal gas assumption
+- Circular motion
+- Quantum Physics
+	- Wavelengths and energy equations
+	- De broglie equation
+	- Total internal refraction
+- SUVAT 
+	- Projectiles
+	- Momentum
+	- Impulse
+General multiple choice questions
+- Finish revising electricity
+- Finish revising quantum physics
+- Finish revising waves
+- Finish any mechanics
+- SHM 

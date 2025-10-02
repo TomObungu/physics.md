@@ -71,4 +71,13 @@ $$
 8\Omega + \left( \frac{1}{10} + \frac{1}{10} \right)^{-1} = 8 + 5 = 13\Omega
 $$
 
-Notice that for this circuit althought the voltage entering into the branch across the circuit is shared
+Notice that for this circuit although the voltage entering into the branch is the same across each branch, the voltage within that branch is shared the components. So for known components with resistances, it is better to work out the voltage of missing component and subtract to find the remaining voltages for each component:
+![[Pasted image 20251002135134.png]]
+In this example, to work out the voltage of D, it is better to calculate C's voltage with the knowledge that the current and voltage entering the branch is $22V$ and $0.25A$
+$$
+V_{c} = 32(0.25) = 8
+$$
+Therefore:
+$$
+V_{D} = 22 - 8 = 14
+$$

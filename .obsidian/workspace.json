@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3eef15d1c597c67c",
+        "id": "a31bef0d6a016047",
         "type": "tabs",
         "children": [
           {
-            "id": "3a9a4be927e22ca4",
+            "id": "956ae2e0f572b6ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Kirchoff's laws and circuits/Combining resistors.md",
+                "file": "OCR A Level Physics/Specification/Thermal Physics/attachments/Solids, liquids and gases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combining resistors"
+              "title": "Solids, liquids and gases"
             }
           }
         ]
@@ -211,7 +211,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 960,
         "y": 0,
         "width": 960,
         "height": 1040,
@@ -260,15 +260,56 @@
         "height": 1040,
         "maximize": true,
         "zoom": 0
+      },
+      {
+        "id": "41eefffffdc075b1",
+        "type": "window",
+        "children": [
+          {
+            "id": "cbd9cc87005cf837",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bf49c7fec4e3d33e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/test.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "test"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "677e37fe86375d70",
+  "active": "956ae2e0f572b6ed",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Thermal Physics/Temperature.md",
+    "OCR A Level Physics/Specification/Thermal Physics/attachments/Solids, liquids and gases.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
-    "OCR A Level Physics/Kirchoff's laws and circuits/Combining resistors.md",
-    "OCR A Level Physics/Kirchoff's laws and circuits/Kirchoff's Second Law.md",
+    "OCR A Level Physics/Specification/Thermal Physics/attachments/Pasted image 20251002141206.png",
+    "OCR A Level Physics/Specification/Thermal Physics/attachments",
     "OCR A Level Physics/Resources/test.md",
+    "OCR A Level Physics/Specification/Thermal Physics/Temperature/Untitled.md",
+    "OCR A Level Physics/Specification/Thermal Physics/Temperature",
+    "OCR A Level Physics/Kirchoff's laws and circuits/Combining resistors.md",
+    "OCR A Level Physics/Specification/Thermal Physics",
+    "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251002135134.png",
+    "OCR A Level Physics/Kirchoff's laws and circuits/Kirchoff's Second Law.md",
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001175846.png",
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001155810.png",
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001155430.png",
@@ -277,8 +318,6 @@
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001155152.png",
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001154523.png",
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001154347.png",
-    "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001154032.png",
-    "OCR A Level Physics/Kirchoff's laws and circuits/attachments/Pasted image 20251001153446.png",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Electron gun.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Circuit Diagrams.md",
     "OCR A Level Physics/Specification/Current And Charge/Kirchhoff's first law.md",
@@ -304,12 +343,7 @@
     "OCR A Level Physics/Specification/Current And Charge/corrected questions/attachments",
     "OCR A Level Physics/Specification/Current And Charge/Mean Drift Velocity.md",
     "OCR A Level Physics/Specification/Current And Charge/corrected questions",
-    "OCR A Level Physics/Specification/Current And Charge/Moving Charges.md",
-    "OCR A Level Physics/Specification/Current And Charge/Current and Charge.md",
     "OCR A Level Physics/Specification/Oscillations/attachments/attachments",
-    "OCR A Level Physics/Specification/Oscillations/attachments",
-    "OCR A Level Physics/Specification/Oscillations",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook.pdf",
     "Untitled.canvas"
   ]
 }
