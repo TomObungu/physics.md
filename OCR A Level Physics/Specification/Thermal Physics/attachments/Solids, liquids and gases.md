@@ -14,5 +14,9 @@ Electrostatic potential is described as the work done per unit charge in bringin
 
 The equation follows the formula for voltage $\Delta W=q\Delta V$. This means the electrostatic potential.
 
-This is because if there is a source of an electric field e.g electrons around the atoms $Q$, if there is an external charge $q$ e.g another atom and an applied force pushes the external charge towards the source of electric . The work required by the electric field to push the external charge away from point A to B will equal to the Force of the electric field $F_{E}$ multiplied by the distance between $A$ and $B$. However, if we consider the work required required for the 
+This is because if there is a source of an electric field e.g electrons around the atoms $Q$. Let's consider an external charge $q$ e.g another atom and an applied force $F_{applied}$ pushes the external charge towards the source of electric field. The work required by the electric field to push the external charge away from point A to B will equal to the Force of the electric field $F_{E}$ multiplied by the distance between $A$ and $B$. However, if we consider the work required required for the applied force to work against the force of the electric field $F_{E}$ we can see that this force will be negative.
+![[Pasted image 20251002150430.png]]
 
+If we take the example of a solid, we can see that when two solid molecules are close together, the electrostatic potential will be a negative value. This because, if we define out zero point of potential to be infinitely far way from the point, the opposing motion to work away from that distance will infinite, just like work required to work against the force of the electric field. 
+
+    
