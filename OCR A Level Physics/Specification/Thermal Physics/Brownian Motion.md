@@ -1,4 +1,4 @@
-Brownin motion was first obss erved in 1827 when Robert Brown looked through a microscope and recorded random movements of fine pollen floating on water. 
+Brownin motion was first observed in 1827 when Robert Brown looked through a microscope and recorded random movements of fine pollen floating on water. 
 
 This explanation for this random motion was made by Albert Einstein in 1905.  He explained these random movements were caused by elastic collisions between the pollen molecules and water, causing the grain molecules to move in haphazard ways. 
 
