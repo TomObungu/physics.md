@@ -2,7 +2,7 @@ The SI unit for the amount of a substance is moles (mol). One mole of any substa
 $$
 N=n\times N_{A}
 $$
-Where $n$ is the number of moles in the substance.
+Where $n$ is the number of moles in the substance and $N_{A}$ is Avogadro constant 
 
 ## Molar mass
 The molar mass, $M$ of a substance is the mass of one mole of the substance. Knowing the molar mass $M$ of a substance allows the mass $m$ of a sample of the substance, if we know the number of moles, $n$. The mass of a substance is calculated by:
