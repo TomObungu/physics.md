@@ -1,0 +1,1 @@
+Brownin motion was first obss erved in 1827 when Robert Brown looked through a microscope and recorded random movements of fine pollen floating on water. 
