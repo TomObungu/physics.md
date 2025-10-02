@@ -6,8 +6,6 @@ The significance of elastic collisions means that the kinetic energy within the 
 
 Brownian motion typically implies that the motion of the pollen grains is random and that the size of the molecules of the liquid are smaller than the pollen grain.
 
--
-
 It is possible to observe Brownian motion through a microscope:
 ![[Pasted image 20251002161801.png]]
 N
