@@ -318,23 +318,23 @@
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "c704a47f1be56404",
+  "active": "a6dd08e2ad38f21a",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",
     "OCR A Level Physics/Specification/Ideal Gases/The kinetic theory of gases.md",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",
     "OCR A Level Physics/Specification/Ideal Gases",
     "OCR A Level Physics/Specification/Thermal Physics/Specific heat capacity.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Resources/test.md",
     "OCR A Level Physics/Specification/Thermal Physics/attachments/Pasted image 20251002200742.png",
     "OCR A Level Physics/Specification/Thermal Physics/Brownian Motion.md",
@@ -374,7 +374,6 @@
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments",
     "OCR A Level Physics/Resources/Untitled/Unttled",
     "OCR A Level Physics/In Lesson Notes/26th September.md",
-    "OCR A Level Physics/In Lesson Notes/17th September 2025.md",
     "Untitled.canvas"
   ]
 }
