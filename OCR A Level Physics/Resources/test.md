@@ -1,9 +1,9 @@
 - Circular motion
-- Themal phsyics
+- ~~Themal phsyics~~
 - 1 markers
 - electricty -> ev and LED wavelength
 - a bit of evertyhing
-- ideal gas assumption
+- ~~ideal gas assumption~~
 - 1 marker on waves - tir
 - suvat question + impulse
 - 5 main
