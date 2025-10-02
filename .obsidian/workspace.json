@@ -237,8 +237,21 @@
                   "icon": "lucide-file-text",
                   "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
                 }
+              },
+              {
+                "id": "fb680c7961cf2264",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.9.14"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.9.14"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -251,7 +264,7 @@
       }
     ]
   },
-  "active": "677e37fe86375d70",
+  "active": "fb680c7961cf2264",
   "lastOpenFiles": [
     "OCR A Level Physics/Kirchoff's laws and circuits/Combining resistors.md",
     "OCR A Level Physics/Kirchoff's laws and circuits/Kirchoff's Second Law.md",
