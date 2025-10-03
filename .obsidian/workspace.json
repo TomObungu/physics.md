@@ -258,7 +258,7 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -327,14 +327,14 @@
       }
     ]
   },
-  "active": "677e37fe86375d70",
+  "active": "a6dd08e2ad38f21a",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Thermal Physics/Specific heat capacity.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Resources/test.md",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Thermal Physics/Specific heat capacity.md",
     "OCR A Level Physics/Specification/Ideal Gases/The kinetic theory of gases.md",
     "OCR A Level Physics/Specification/Ideal Gases/Gas laws.md",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Thermal Physics/Solids, liquids and gases.md",
     "OCR A Level Physics/Specification/Thermal Physics/Brownian Motion.md",
     "OCR A Level Physics/Specification/Thermal Physics/Temperature.md",
