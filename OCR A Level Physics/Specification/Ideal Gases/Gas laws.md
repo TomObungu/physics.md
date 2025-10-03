@@ -89,7 +89,7 @@ by dividing by $\frac{m}{M}$ we get:
 $$
 p = \frac{\rho RT}{M}
 $$
-This molar gas constant $R$ and Molar mass $M$ of the gas as both constant. It is possible to deduce this relationship:
+This molar gas constant $R$ and Molar mass $M$ of the gas are both constant. It is possible to deduce this relationship:
 $$
 \begin{gather*}
 p \propto \rho T \\ \\
