@@ -7,6 +7,35 @@ It takes energy to push an electron through a component. For specific components
 
 The the electrons are continually accelerating due to the work that the electric field does on them. The electric field is stronger within the resistor with high resistance. The electrons gain energy kinetic due to the electric field $eV=\frac{1}{2}mv^{2}$ but immediately collide with atoms of the resistive component. This causes the electrons to lose kinetic energy and then gain it again. This process happens millions of time as the electron travels through the wire. These collisions cause a transfer of electrical energy to heat. 
 
+---
+
+#### Why High resistance yields low current in parallel branches
+Inside the resistor, the electrons continually collide with lattice ions of the resistor. This reduces the mean free time between collisions.:
+$$
+v_{d} = \frac{e\tau}{mE}
+$$
+Where $m$ is the effective mass of the electron and $\tau$ denotes the mean free time between collisions for the electron.
+
+However in parallel circuits, as the voltage is same in each branch, the electric field in each branch is the same. 
+
+So in order for the same electric field, the electrons in the higher resistance branch move slower and the electrons in the lower resistance branch move faster. Thus a lower current in the higher resistance branch and higher in the high resistance branch.
+
+What is the physical interpretation for this?
+
+Well, the same density of electrons enter the high resistance branch due to the mean drift velocity being constant $n$. However the electrons experience a lower drift velocity and drift through the component at a lower rate.
+
+However here is a different number of electrons in each branch.
+
+**This because the electrons that are in the high resistance branch must slowly drift out of the component before new ones can enter into it. In the low resistance branch due to a higher mean free time and thus a higher drift velocity, the electrons do not take as much time to drift out the low resistance component, so a continual new flow of electrons can flow into that branch and thus more electrons flow into that branch**
+
+In other words:
+
+**High-R branch:** Electrons enter but move through slowly (low drift velocity). They take a long time to transit the branch. This creates a "bottleneck." The branch can only accept new electrons at the rate at which old ones exit. This results in a **low flow rate** of electrons (low current).
+
+**Low-R branch:** Electrons zip through quickly (high drift velocity​). The transit time is short. This branch can therefore accept a **high flow rate** of new electrons because it clears them out rapidly.
+
+---
+
 The coulomb of electrons collectively transfer joules of potential energy into heat within the resistor. However the electrons emerge from the resistor with less potential energy but not exactly 0J to ensure they are still drifting through the wire. They then drift back into the low resistance wire back to the terminal ready to gain potential energy 
 
 A high voltage will increase the joules of energy per unit charge of electrons. So initially as the electrons are about to pass into the component, they have a certain amount of energy but due to process described, of starting and stopping due to collisions. 
