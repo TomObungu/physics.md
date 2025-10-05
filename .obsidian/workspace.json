@@ -176,49 +176,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "a11c156f2853dada",
-        "type": "window",
-        "children": [
-          {
-            "id": "0827c9e097ee6d8b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d406272bcd0c7599",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              },
-              {
-                "id": "e9c4dc59e180124a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "3b7a4cc0414083ab",
         "type": "window",
         "children": [
@@ -329,6 +286,7 @@
   },
   "active": "a6dd08e2ad38f21a",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Circuit Diagrams.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Electrical energy and power.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",
@@ -339,7 +297,6 @@
     "OCR A Level Physics/Specification/Circular Motion/Exploring Centripetal Forces.md",
     "OCR A Level Physics/Specification/Ideal Gases/Gas laws.md",
     "OCR A Level Physics/Specification/Thermal Physics/Specific heat capacity.md",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Resources/test.md",
     "OCR A Level Physics/Specification/Ideal Gases/The kinetic theory of gases.md",
@@ -373,7 +330,6 @@
     "OCR A Level Physics/Specification/Current And Charge/Kirchhoff's first law.md",
     "OCR A Level Physics/In Lesson Notes/Circular Motion.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/The LDR.md",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/I-V Characteristics.md",
     "OCR A Level Physics/Kirchoff's laws and circuits/attachments",
     "Untitled.canvas"
   ]
