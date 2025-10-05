@@ -40,7 +40,7 @@ The coulomb of electrons collectively transfer joules of potential energy into h
 
 A high voltage will increase the joules of energy per unit charge of electrons. So initially as the electrons are about to pass into the component, they have a certain amount of energy but due to process described, of starting and stopping due to collisions. 
 
-This is why high voltages can travel through insulators like human skin, as the charge carriers have enough electrical energy which transfers into kinetic energy energy (and therefore a higher mean drift velocity) the charge carriers have a strong accelerating force due to the high energy electric field. This causes the few electrons to  have strong force and literally rip electrons away from their atoms to create new free electrons and positive ions (plasma). These few electrons are then accelerated violently by the strong field, the electric field causes them to gain so much energy and knock more electrons loose. This energy repeats.
+	This is why high voltages can travel through insulators like human skin, as the charge carriers have enough electrical energy which transfers into kinetic energy energy (and therefore a higher mean drift velocity) the charge carriers have a strong accelerating force due to the high energy electric field. This causes the few electrons to  have strong force and literally rip electrons away from their atoms to create new free electrons and positive ions (plasma). These few electrons are then accelerated violently by the strong field, the electric field causes them to gain so much energy and knock more electrons loose. This energy repeats.
 ### The Ohm
 An ohm is defined as the resistance of a component when a p.d of 1V is produced per ampere of current.
 $$
