@@ -12,3 +12,4 @@ $$
 
 ## Gravitational field patterns
 Gravitational force is always attractive, the direction of these gravitational fields is always towards the centre of the object. 
+![[Pasted image 20251015084123.png]]
