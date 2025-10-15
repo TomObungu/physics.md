@@ -248,49 +248,18 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "359747876214b9f1",
-        "type": "window",
-        "children": [
-          {
-            "id": "47e77d7404f8684f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9723a7abba4b879c",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org )"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
-  "active": "9723a7abba4b879c",
+  "active": "c704a47f1be56404",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Fields.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Gravatational Fields",
     "OCR A Level Physics/Resources/test.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Resistance.md",
     "OCR A Level Physics/Specification/Circular Motion/Centripetal Acceleration.md",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Circuit Diagrams.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Electrical energy and power.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",

@@ -4,5 +4,11 @@ Any other object with mass placed in a gravitational field will experience an at
 
 On Earth, this gravitational attraction is called weight. 
 
-## Gravitational field strengnth
-The gravitational fh ield strengt
+## Gravitational field strength
+The gravitational field strength $g$ at a point within a gravitational field is defined as gravitational force exerted per unit mass:
+$$
+g = \frac{F}{m}
+$$
+
+## Gravitational field patterns
+Gravitational force is always attractive, the direction of these gravitational fields is always towards the centre of the object. 
