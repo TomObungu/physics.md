@@ -171,47 +171,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "19afb52fd8eef532",
-    "type": "floating",
-    "children": [
-      {
-        "id": "732e2967630c9f5c",
-        "type": "window",
-        "children": [
-          {
-            "id": "ed28ff56738ca351",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c2dcb732d70abaaf",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c2dcb732d70abaaf",
+  "active": "c704a47f1be56404",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Fields.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Fields.md",
     "OCR A Level Physics/Kirchoff's laws and circuits/Kirchoff's Second Law.md",
     "OCR A Level Physics/In Lesson Notes/15th October.md",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251015084123.png",
