@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/In Lesson Notes/15th October.md",
+                "file": "OCR A Level Physics/Kirchoff's laws and circuits/Kirchoff's Second Law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15th October"
+              "title": "Kirchoff's Second Law"
             }
           }
         ]
@@ -176,49 +176,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "3b7a4cc0414083ab",
-        "type": "window",
-        "children": [
-          {
-            "id": "8990b9af0fe4fd26",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "677e37fe86375d70",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              },
-              {
-                "id": "fb680c7961cf2264",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.9.14"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.9.14"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "732e2967630c9f5c",
         "type": "window",
         "children": [
@@ -251,9 +208,10 @@
       }
     ]
   },
-  "active": "c704a47f1be56404",
+  "active": "c2dcb732d70abaaf",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Kirchoff's laws and circuits/Kirchoff's Second Law.md",
     "OCR A Level Physics/In Lesson Notes/15th October.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Fields.md",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251015084123.png",
@@ -296,7 +254,6 @@
     "OCR A Level Physics/Specification/Thermal Physics/Temperature/Untitled.md",
     "OCR A Level Physics/Specification/Thermal Physics/Temperature",
     "OCR A Level Physics/Kirchoff's laws and circuits/Combining resistors.md",
-    "OCR A Level Physics/Kirchoff's laws and circuits/Kirchoff's Second Law.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Electron gun.md",
     "Untitled.canvas"
   ]
