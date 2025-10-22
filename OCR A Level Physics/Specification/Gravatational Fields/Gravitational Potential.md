@@ -5,7 +5,7 @@ The unit is $Jkg^{-1}$. Infinity refers to the distance. This is not to be confu
 The gravitational force is always attractive and at infinity it is always zero.
 
 ![[Pasted image 20251022083308.png]]
-
+![[Pasted image 20251022122712.png]]
 If the gravitational potential energy is $-20MJ$. It would require $\text{20MJ}$ of work to move an object of unit mass from infinity  to the point. It Would take $40MJ$ to move an object of 2kg.
 
 ## Gravitational Potential in a radial field
