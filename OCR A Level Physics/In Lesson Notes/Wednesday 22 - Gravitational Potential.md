@@ -21,5 +21,20 @@ You can see that there is a radial field around the point mass where the $Vg$ is
   
 ## Gravitational Potential Energy
 $$
-\Delta = 
+\Delta E = mg\Delta h 
 $$
+Definition of GPE is the work done to move a mass of infinity to a point in a gravitational field. 
+Definition of $Vg$ is the work dome per unit mass to move an object from  a point in a field form infinity
+
+$$
+\begin{gather*}
+E = mV_{g} \qquad V_{g} = -\frac{GM}{r} \\ \\
+\implies E = -\frac{GMm}{r}
+\end{gather*}
+$$
+A graph of $F$ against $r$, the area will be the the gpe
+
+As the at a point R the GPE is $-\frac{GMm}{R}$ where $R$ is at from the surface of the Earth. Therefore in order to escape this potential energy you need to add to make it escape to infinity
+E.g. if the GPE is $-65MJ$ then you need to add a KE of  $65MJ$ in order to make 
+
+
