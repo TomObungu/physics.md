@@ -14,7 +14,7 @@ https://youtu.be/XRr1kaXKBsU?si=fDYsobm3YxQOBkOK&t=886
 ### Relativity
 https://www.youtube.com/watch?v=qKZvAwcXceE
 In Einstein's theory of relativity, gravity is not a force but objects with mass curve spacetime. Objects are moving in a straight line in spacetime but they move straight through a curved space time. 
-
+![[Pasted image 20251028210757.png]]
 Watch here: https://www.youtube.com/watch?v=qKZvAwcXceE
 
 The reason why we still use Newton's law of gravitation is because, it is still very accurate use of prediction for most common systems but simpler to use in comparison to the much more conceptually accurate but complex use of relativity.   
@@ -29,3 +29,22 @@ The forces will experience a force $F$ of the same magnitude due to Newton's thi
 
 However the values of acceleration towards each object will differ depending on their mass. This is because $a = \frac{F}{m}$. If you were to take a the Earth and an apple at its surface. Although the force that the apple and the Earth exert on each other is same the same, if you were to divide that force by  the mass of the earth to find the acceleration of the Earth to the apple, the acceleration would be negligible in comparison the the apple. This is because the Earth is much more massive in comparison to the apple. 
 ![[Pasted image 20251028195024.png]]
+
+Newton's law of gravitation states the force bewteen two point masses is:
+- Directly proportional to the product of the masses
+- Inversly proportional to the square of their separation
+Therefore:
+$$
+F \propto \frac{Mm}{r^{2}}
+$$
+We can write the equation using the gravitational constant $G$ as the constant of proportionality for this relationship
+
+A minus sign is also required to show that the gravitational force is an attractive force. The attractive force will always draw the object of focus towards the other object, **in the opposite direction**. Thus the minus sign is necessary.
+![[Pasted image 20251028211504.png]]
+
+Therefore the full equation for Newton's law of gravitation is:
+$$
+F = -\frac{GMm}{r^{2}}
+$$
+
+The attractive force $F$ between objects decreases with distance in an inversely-square relationship $F\propto \frac{1}{r^{2}}$. Double the distance and the force between objects will decrease by a factor of four. 
