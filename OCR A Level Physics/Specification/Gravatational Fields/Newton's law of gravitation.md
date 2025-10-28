@@ -1,8 +1,25 @@
 Most of the time Newton's law of gravitational can be described as a universal law of gravity, as it described the forces between any objects that have mass. The fundamental law can be used to explain the motion of planets around the sun and why objects near the surface of the Earth fall to the ground.
 
 https://www.youtube.com/watch?v=OTMELHUAzSM
-However, for much more massive objeiects e.g. like black holes, Newton's law of universal motion begins to fails. This where other mathematical models like the relativity will be used. It is the same for objects that are extremely far apart or much less massive. However for most cases in our world where the scale is within our planetary solar system, Newton's law of gravitation correctly applied
+However, for much more massive objects e.g. like black holes, Newton's law of universal motion begins to fail.
 
+It is the same for objects that are extremely far apart or much less massive. 
+However for most cases in our world where the scale is within our planetary solar system, Newton's law of gravitation correctly applied. 
+
+This was the case during the time of discovery for Newton's law of gravitation. As our instruments of measurement became sharper, we began to measure much farther than our our solar system and observe different things to what we see in our solar system. But back in 1700s during Newton's time, the furthest scientists could observe was within the reach of of our solar system. Newton's law proved to be accurate for the ranges that scientists could measure and so Newton's law of gravitation was thought to be Universal. 
+
+This where other mathematical models like the relativity will be used. 
+https://youtu.be/XRr1kaXKBsU?si=fDYsobm3YxQOBkOK&t=886
+
+### Relativity
+https://www.youtube.com/watch?v=qKZvAwcXceE
+In Einstein's theory of relativity, gravity is not a force but objects with mass curve spacetime. Objects are moving in a straight line in spacetime but they move straight through a curved space time. 
+
+Watch here: https://www.youtube.com/watch?v=qKZvAwcXceE
+
+The reason why we still use Newton's law of gravitation is because, it is still very accurate use of prediction for most common systems but simpler to use in comparison to the much more conceptually accurate but complex use of relativity.   
+
+## Newton's law of gravitation formula
 
 Consider two objects of masses $M$ and $m$ that are separated by a distance $r$. The two objects must experience a force $F$ of the same magnitude but in opposite directions.
 
