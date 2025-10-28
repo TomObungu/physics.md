@@ -32,7 +32,7 @@ However the values of acceleration towards each object will differ depending on 
 
 Newton's law of gravitation states the force between two point masses is:
 - Directly proportional to the product of the masses
-- Inversly proportional to the square of their separation
+- Inversely proportional to the square of their separation
 Therefore:
 $$
 F \propto \frac{Mm}{r^{2}}
