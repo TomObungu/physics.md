@@ -1,4 +1,4 @@
-Most of the time Newton's law of gravitational can be described as a universal law of gravity, as it described the forces between any objects that have mass. The fundamental law can be used to explain the motion of planets around the sun and why objects near the surface of the Earth fall to the ground.
+Most of the time Newton's law of gravitational can be described as a universal law of gravity, as it described the forces between any objects that have mass. The fundamental law can be used to explain the motion of in our local region of planets around the sun and why objects near the surface of the Earth fall to the ground.
 
 https://www.youtube.com/watch?v=OTMELHUAzSM
 However, for much more massive objects e.g. like black holes, Newton's law of universal motion begins to fail.
