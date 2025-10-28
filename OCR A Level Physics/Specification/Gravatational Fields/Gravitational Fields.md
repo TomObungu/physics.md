@@ -18,5 +18,9 @@ On the surface of the Earth the gravitational field strength is approximately eq
 Gravitational force is always attractive, the direction of these gravitational fields is always towards the centre of the object. This implied gravitational field strength is a vector quantity.
 ![[Pasted image 20251015084123.png]]
 
+## Radial fields
 Gravitational field lines around a spherical mass like a planet form a radial field. The gravitational field strength decreases with distance from the centre of the mass. 
 
+## Uniform fields
+If the field lines are parallel and equidistant, the field line is said to be a uniform gravitational field. The gravitational field close to the surface of a planet is approximately uniform.
+![[Pasted image 20251028190912.png]]
