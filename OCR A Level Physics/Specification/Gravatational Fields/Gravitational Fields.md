@@ -1,11 +1,16 @@
 All objects with a mass create a gravitational field around them. This field extends to infinity but is negligible at long distances. 
+
+## Definition
+A region around an object mass where other masses experience a force. Extending to infinity but diminishing with distance from the centre of mass.
 ![[Pasted image 20251028184309.png]]
 Any other object with mass placed in a gravitational field will experience an attractive force towards the centre of the object. 
+
+
 
 On Earth, this gravitational attraction is called weight. 
 
 ## Gravitational field strength
-The gravitational field strength $g$ at a point within a gravitational field is defined as gravitational force exerted per unit mass:
+The gravitational field strength $g$ at a point within a gravitational field is defined as gravitational force exerted per unit mass at a point within a gravitational field.
 $$
 g = \frac{F}{m}
 $$
@@ -17,7 +22,8 @@ On the surface of the Earth the gravitational field strength is approximately eq
 ## Gravitational field patterns
 Gravitational force is always attractive, the direction of these gravitational fields is always towards the centre of the object. This implied gravitational field strength is a vector quantity.
 ![[Pasted image 20251015084123.png]]
-
+## Gravitational field lines
+Lines of force used to map the gravitational field pattern.
 ## Radial fields
 Gravitational field lines around a spherical mass like a planet form a radial field. The gravitational field strength decreases with distance from the centre of the mass. 
 
