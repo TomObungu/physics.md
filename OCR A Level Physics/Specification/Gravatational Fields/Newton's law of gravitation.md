@@ -48,3 +48,11 @@ F = -\frac{GMm}{r^{2}}
 $$
 
 The attractive force $F$ between objects decreases with distance in an inversely-square relationship $F\propto \frac{1}{r^{2}}$. Double the distance and the force between objects will decrease by a factor of four. 
+
+If we plot this graphically, this will be our outcome:
+![[Pasted image 20251028212708.png]]
+As the gravitational force is negative, the value of $F$ is under the x-axis and as well as that the force begins to approach zero as $r$ approaches $\infty$
+
+# Multiple objects
+If several objects are involved, the resultant force can be determined by vector addition. In 1D interactions, the calculation is simply addition and subtraction, however in 2D space, the vectors need to resolved:
+![[Pasted image 20251028213034.png]]
