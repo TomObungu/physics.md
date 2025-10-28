@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/In Lesson Notes/Wednesday 22 - Gravitational Potential.md",
+                "file": "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Fields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wednesday 22 - Gravitational Potential"
+              "title": "Gravitational Fields"
             }
           }
         ]
@@ -199,7 +199,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 960,
         "y": 0,
         "width": 960,
         "height": 1040,
@@ -208,28 +208,32 @@
       }
     ]
   },
-  "active": "d13c252d0068441a",
+  "active": "ee84e4d2ae056bc0",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Fields.md",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Proof Of Summer Work/Screenshot 2025-08-27 104412.png",
+    "OCR A Level Physics/Proof Of Summer Work/Screenshot 2025-08-27 104355.png",
+    "OCR A Level Physics/Proof Of Summer Work/Screenshot 2025-08-27 104334.png",
+    "OCR A Level Physics/Specification/Kirchoff's laws and circuits/Combining resistors.md",
+    "OCR A Level Physics/Specification/Kirchoff's laws and circuits/Kirchoff's Second Law.md",
+    "OCR A Level Physics/Specification/Current And Charge/Moving Charges.md",
+    "OCR A Level Physics/Specification/Current And Charge/Current and Charge.md",
+    "OCR A Level Physics/Specification/Current And Charge/Mean Drift Velocity.md",
+    "OCR A Level Physics/Specification/Current And Charge/Kirchhoff's first law.md",
+    "OCR A Level Physics/In Lesson Notes/Wednesday 22 - Gravitational Potential.md",
     "OCR A Level Physics/In Lesson Notes/attachments/Pasted image 20251022125046.png",
     "OCR A Level Physics/In Lesson Notes/attachments/Pasted image 20251022124718.png",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
-    "OCR A Level Physics/In Lesson Notes/Wednesday 22 - Gravitational Potential.md",
     "OCR A Level Physics/In Lesson Notes/attachments/Pasted image 20251022124530.png",
-    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential.md",
     "OCR A Level Physics/In Lesson Notes/attachments/Pasted image 20251022123952.png",
     "OCR A Level Physics/In Lesson Notes/attachments/Pasted image 20251022123832.png",
     "OCR A Level Physics/In Lesson Notes/attachments/Pasted image 20251022123522.png",
     "OCR A Level Physics/In Lesson Notes/attachments/Pasted image 20251022123336.png",
-    "OCR A Level Physics/In Lesson Notes/attachments/Pasted image 20251022123046.png",
-    "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251022122712.png",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential Energy.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251022084315.png",
-    "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251022084146.png",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Circuit Diagrams.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Fields.md",
-    "OCR A Level Physics/Kirchoff's laws and circuits/Kirchoff's Second Law.md",
     "OCR A Level Physics/In Lesson Notes/15th October.md",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments",
     "OCR A Level Physics/Specification/Gravatational Fields",
@@ -245,14 +249,9 @@
     "OCR A Level Physics/Specification/Thermal Physics/Specific heat capacity.md",
     "Ideal Gases/The kinetic theory of gases.md",
     "OCR A Level Physics/Specification/Thermal Physics/Solids, liquids and gases.md",
-    "OCR A Level Physics/Specification/Thermal Physics/Brownian Motion.md",
-    "OCR A Level Physics/Specification/Thermal Physics/Temperature.md",
     "Ideal Gases/attachments",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/The thermistor.md",
     "Ideal Gases",
     "OCR A Level Physics/Specification/Thermal Physics/Untitled",
-    "OCR A Level Physics/Specification/Oscillations/Analysing simple harmonic motion.md",
-    "OCR A Level Physics/Specification/Oscillations/Untitled.md",
     "OCR A Level Physics/Specification/Thermal Physics/attachments 1",
     "OCR A Level Physics/Specification/Thermal Physics/attachments",
     "OCR A Level Physics/Specification/Thermal Physics/Temperature",
