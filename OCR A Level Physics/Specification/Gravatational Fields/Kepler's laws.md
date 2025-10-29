@@ -24,11 +24,25 @@ The mean distance between the Earth and the Sun is known as one astronomical uni
 ### Modelling planetary orbits as circles
 As most planets in the solar system have almost circular orbits. We can use the mathematics developed for circular motion along with Newton's law of gravitation to relate to the orbital period $T$ of a planet to its distance $r$ from the Sun.
 
-Modelling the orbit of planet with mass $m$ as a circle and the mass of the sun as $M$. The centripetal force on the planet is provided by gravitational force between it and the Sun. Therefore the gravitational force $F$ on the planet must be equal to the centripetal force:
+Modelling the orbit of planet with mass $m$ as a circle and the mass of the sun as $M$. The centripetal force on the planet is provided by gravitational force between it and the Sun. 
+
+Therefore the gravitational force $F$ = centripetal force:
 $$
 \begin{gather*}
 \frac{mv^{2}}{r} = \frac{GMm}{r^{2}} \\ \\
 v^{2} = \frac{GM}{r}
 \end{gather*}
 $$
-Since the planet is moving in a circle, the speed $v$ of the planet can be determined by dividing the circumference of its orbit by its 
+Since the planet is moving in a circle, the speed $v$ of the planet can be determined by $\frac{2\pi r}{T}$. Substituting this back into the equation:
+$$
+\frac{4\pi^{2}r^{2}}{T^{2}} = \frac{GM}{r}
+$$
+Rearranging for $T^{2}$ gives:
+$$
+T^{2}=\left( \frac{4\pi^{2}}{GM} \right)r^{3}
+$$
+
+This equation is a mathematical version of Kepler's third law as it shows $T^{2}\propto r^{2}$
+- The ratio $\frac{T^{2}}{r^{3}}$ is constant equal to $\frac{4\pi^{2}}{GM}$
+- The gradient of a graph of $T^{2}$ against $r^{3}$ must be equal to $\frac{4\pi^{2}}{GM}$
+Therefore the equation can be used the orbital period of a planet or its distance from the Sun, as long as its velocity is known too. 
