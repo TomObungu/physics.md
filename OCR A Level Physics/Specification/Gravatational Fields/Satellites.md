@@ -18,3 +18,19 @@ $$
 - Scientific research: Looking down onto the Earth to monitor crops, pollution and vegetation
 - Weather and climate
 - Global positioning
+
+## Types of orbit
+Satellites can be placed in different types of orbit.
+- A polar orbit circles the poles. 
+	- Can offer a complete view of the Earth over a given period as the Earth rotates beneath the path of the satellite. 7
+- Low Earth orbits take only a short time to orbit the Earth.
+- Some satellites are placed in orbit above the equator. These include geostationary satellites.
+
+![[Pasted image 20251029113519.png]]
+### Geostationary satellites
+A geostationary satellite is placed in specific orbit so it remains above the same point of Earth whilst the Earth rotates. In order to do this:
+- Be in orbit above the Earth's equator
+- Rotate in the same direction as the Earth's rotation
+- Have an orbital period of 24 hours. 
+
+#### Why must they above the equator?
