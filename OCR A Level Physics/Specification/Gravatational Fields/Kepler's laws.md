@@ -18,7 +18,7 @@ The square of orbital period $T$ of a planet is directly proportional to the cub
 
 This can be written as a relationship as $T^{2}\propto r^{3}$ or mathematically:
 $$\frac{T^{2}}{r^{3}}=k$$
-This relationship can be beneficial for changes in temperature and radius:
+This relationship can be beneficial for problems involving changes in temperature and radius:
 $$
 \frac{T^{2}_{before}}{r^{3}_{before}} = \frac{T^{2}_{after}}{r^{3}_{after}}
 $$
