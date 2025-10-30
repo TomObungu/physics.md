@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Fields.md",
+                "file": "OCR A Level Physics/Specification/Gravatational Fields/Satellites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gravitational Fields"
+              "title": "Satellites"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Satellites"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,12 +236,22 @@
       }
     ]
   },
-  "active": "ee84e4d2ae056bc0",
+  "active": "69632b9dc15bd4c3",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Gravatational Fields/Kepler's laws.md",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational field strength for a point mass.md",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Fields.md",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential.md",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential Energy.md",
+    "OCR A Level Physics/Specification/Gravatational Fields/Newton's law of gravitation.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Satellites.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251030120136.png",
+    "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251030120055.png",
+    "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251030120052.png",
+    "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251030115950.png",
+    "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251030115324.png",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251029113519.png",
-    "OCR A Level Physics/Specification/Gravatational Fields/Kepler's laws.md",
     "OCR A Level Physics/In Lesson Notes/Wednesday 22 - Gravitational Potential.md",
     "OCR A Level Physics/In Lesson Notes/Investigating Centripetal Force.md",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251029105210.png",
@@ -252,20 +261,10 @@
     "OCR A Level Physics/In Lesson Notes/26th September.md",
     "OCR A Level Physics/In Lesson Notes/17th September 2025.md",
     "OCR A Level Physics/In Lesson Notes/15th October.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational field strength for a point mass.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential Energy.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Fields.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/Newton's law of gravitation.md",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251028221130.png",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251028213034.png",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251028212708.png",
-    "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251028211504.png",
-    "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251028210757.png",
-    "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251028195024.png",
-    "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251028195013.png",
     "OCR A Level Physics/Specification/Gravatational Fields/Untitled",
-    "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251028190912.png",
     "OCR A Level Physics/Specification/Kirchoff's laws and circuits/Combining resistors.md",
     "OCR A Level Physics/Specification/Kirchoff's laws and circuits/Kirchoff's Second Law.md",
     "OCR A Level Physics/Specification/Current And Charge/Moving Charges.md",

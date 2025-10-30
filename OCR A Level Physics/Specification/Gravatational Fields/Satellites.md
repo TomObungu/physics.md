@@ -33,4 +33,12 @@ A geostationary satellite is placed in specific orbit so it remains above the sa
 - Rotate in the same direction as the Earth's rotation
 - Have an orbital period of 24 hours. 
 
+Geostationary satellites will orbit the Earth with the same velocity and the apparent figure of the geostationary orbit is that it will remain above the same spot as the Earth moves with it. 
+
 #### Why must they above the equator?
+The first reason for if the satellite were to be at an inclined angle despite having an orbital period of 24 hours, the satellite will not remain above the same spot. It would have a motion of moving north and and south relative to the equator. 
+![[Pasted image 20251030115324.png]]
+This is the same for polar orbits. As the Earth spins on its equator. From an person on the Earth's perspective, a polar orbit will yield the satellite continuously moving north until it disappears  off the horizon before reemerging from the south again. 
+![[Pasted image 20251030115950.png]]
+Now if the orbit was equatorial but not at the same latitude of the equator, the orbit would still not be geostationary. This is because the Earth pulls the orbit towards the centre of it. In order to remain geostationary above a certain latitude the satellite would need additional force to counteract the gravitational force that pulls it towards the centre of the Earth which also pulls it away from the centre at specific latitude. 
+![[Pasted image 20251030120136.png]]
