@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Gravatational Fields/Kepler's laws.md",
+                "file": "OCR A Level Physics/Specification/Stars/Objects in the Universe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kepler's laws"
+              "title": "Objects in the Universe"
             }
           },
           {
@@ -236,16 +236,20 @@
       }
     ]
   },
-  "active": "69632b9dc15bd4c3",
+  "active": "ee84e4d2ae056bc0",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
-    "OCR A Level Physics/Specification/Gravatational Fields/Kepler's laws.md",
+    "OCR A Level Physics/Specification/Stars/Objects in the Universe.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential Energy.md",
+    "OCR A Level Physics/Specification/Stars/Objects in the Universe/Untitled.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Stars/Objects in the Universe",
+    "OCR A Level Physics/Specification/Stars",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential.md",
+    "OCR A Level Physics/Specification/Gravatational Fields/Kepler's laws.md",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251030182240.png",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251030180851.png",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251030180846.png",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251030180810.png",
-    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational field strength for a point mass.md",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments/Pasted image 20251030175856.png",
     "OCR A Level Physics/Specification/Gravatational Fields/Newton's law of gravitation.md",
@@ -276,13 +280,10 @@
     "OCR A Level Physics/Specification/Current And Charge/Kirchhoff's first law.md",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Diodes.md",
-    "OCR A Level Physics/Specification/Energy, Power And Resistance/Circuit Diagrams.md",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments",
     "OCR A Level Physics/Specification/Gravatational Fields",
     "OCR A Level Physics/Specification/Ideal Gases/attachments",
     "OCR A Level Physics/Specification/Ideal Gases",
-    "OCR A Level Physics/Specification/Thermal Physics/Untitled",
-    "OCR A Level Physics/Specification/Thermal Physics/attachments 1",
     "Untitled.canvas"
   ]
 }
