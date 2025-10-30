@@ -64,7 +64,7 @@ $$
 ## Escape velocity of gas atoms in molecules
 In order for a gas molecules to escape the gravitational field of a planet, an individual atom or molecule from a has must have a minimum speed equal to $\sqrt{ \frac{2GM}{r} }$
 
-The average kinetic energy of a single has atom or molecule is given by $\frac{1}{2}m(c_{r.m.s})^{2}$ where $c_{r.m.s}=\frac{3}{2}kT$ and is the root mean speed of the molecules for a given temperature $T$. 
+The average kinetic energy of a single has atom or molecule is given by $\frac{1}{2}mv^{2}=E_{k}$ where $E_{k}=\frac{3}{2}kT$. Solving for $v$ will give the root mean speed of the molecules for a given temperature $T$. 
 
 Thus it is possible that some molecules will be travelling faster than this r.m.s. Molecules travelling with a speed greater than $\sqrt{ \frac{2GM}{r} }$ can escape.
 
@@ -74,4 +74,14 @@ Thus it is possible that some molecules will be travelling faster than this r.m.
 $$
 v = \sqrt{ \frac{2(6.67 \times 10 ^{-11})(6\times 10 ^{24})}{6400\times 10^{3} }} = 11 183.134 = 11.186 kms^{-1} = 11.2kms^{-1}
 $$
-2. 
+2. Using k = $1.38 \times 10^{-23}$as the Boltzmann constant: 
+$$
+\begin{gather*}
+E_{k} = \frac{3}{2}(1.38\times 10 ^{-23})(20+273) = 6.0551\times 10^{-21} = 6.01 \times 10^{-21} J \\ \\
+\text{Solving for } v \text{ to get } c_{r.m.s} : \\
+6.01\times 10 ^{-21} = \frac{1}{2}mv^{2} \\ \\
+v = \sqrt{ \frac{2(6.01\times 10 ^{-21})}{5.3\times 10^{-26} } } = 480ms ^{-1} \\ \\
+\text{This speed is significantly less than the escape velocity} \\ 
+\text{and thus the mean of oxygen molecules remain in the Earth's atmosphere}
+\end{gather*}
+$$
