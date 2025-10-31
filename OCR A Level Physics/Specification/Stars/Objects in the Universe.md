@@ -44,7 +44,14 @@ Our sun is currently in a main sequence star and has been estimated to have live
 ---
 ## Different types of objects
 
-| Objects | Propeties                                                                                                             |
-| ------- | --------------------------------------------------------------------------------------------------------------------- |
-| Planets | - Hass a mas large enough for its gravitation to give it a round shape<br>- No fusion reactions taking place<br>- Has |
-|         |                                                                                                                       |
+| Objects | Propeties                                                                                                                                                       |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Planets | - Hass a mass large enough for its gravitation to give it a round shape<br>- No fusion reactions taking place<br>- Has cleared its orbit of most other objects  |
+|         |                                                                                                                                                                 |
+## Why are planets round
+https://www.youtube.com/watch?v=kwMTwQfPMfM
+As the gravitational force increases, it pulls matter towards the centre of gravitation. The gravitational force is equal and in all directions directed towards the centre. Because of this property, a spherical shape is formed. 
+
+For large masses, like the ones in planet formation, the gravitational force is large enough to overcome the strength of the material the object is made from 
+
+This is why smaller masses like asteroids do not have a spherical shape. This is due to their masses not being sufficient  to provide a gravitational force to overcome 
