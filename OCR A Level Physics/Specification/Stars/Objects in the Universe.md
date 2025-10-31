@@ -52,7 +52,7 @@ Our sun is currently in a main sequence star and has been estimated to have live
 | Planetary satellites | - Body in orbit around a planet                                                                                                                                |
 | Comets               | - Small irregular bodies made of ice, dust and rock<br>- High eccentric elliptical orbits around the sun                                                       |
 | Solar systems        | - Contains the sun and all objects that orbit it                                                                                                               |
-| Galaxies             | - Collection of stars and interstaller dust and gas                                                                                                            |
+| Galaxies             | - Collection of stars and interstellar dust and gas                                                                                                            |
 ## Why are planets round
 https://www.youtube.com/watch?v=kwMTwQfPMfM
 As the gravitational force increases, it pulls matter towards the centre of gravitation. The gravitational force is equal and in all directions directed towards the centre. Because of this property, a spherical shape is formed. 
