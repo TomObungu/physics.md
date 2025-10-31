@@ -52,6 +52,6 @@ Our sun is currently in a main sequence star and has been estimated to have live
 https://www.youtube.com/watch?v=kwMTwQfPMfM
 As the gravitational force increases, it pulls matter towards the centre of gravitation. The gravitational force is equal and in all directions directed towards the centre. Because of this property, a spherical shape is formed. 
 
-For large masses, like the ones in planet formation, the gravitational force is large enough to overcome the strength of the material the object is made from 
+For large masses, like the ones in planet formation, the gravitational force is large enough to overcome the strength of the material the object is made from. In planetary cases, the formation of a planet consists of molten liquid. In the formation phase when the liquid is still molten, the gravitational force overcomes the material of the liquid and the spherical shape of the planet is formed. Once the liquid cools, the planet will take on its rocky spherical shape. 
 
-This is why smaller masses like asteroids do not have a spherical shape. This is due to their masses not being sufficient  to provide a gravitational force to overcome 
+This is why smaller masses like asteroids do not have a spherical shape. This is due to their masses not being sufficient to provide a gravitational force to mould their shape into a sphere at formation. The asteroid will take on whatever shape it had after the onset of its formation e.g. after a planetary collision releasing large clouds of dust. 
