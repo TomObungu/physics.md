@@ -50,7 +50,9 @@ Our sun is currently in a main sequence star and has been estimated to have live
 | Dwarf planets        | - Has not cleared their orbit of other objects. E.g.Pluto there are many bodies of comparable size close to its orbit                                          |
 | Asteriods            | - Too small and uneven to become planets<br>- No ice is present<br>- Near circular orbits round the sun (low eccentricity)                                     |
 | Planetary satellites | - Body in orbit around a planet                                                                                                                                |
-| Comets               | - Small irregular bodies made of ice, dust and rock<br>- High eccentric elliptical orbits                                                                      |
+| Comets               | - Small irregular bodies made of ice, dust and rock<br>- High eccentric elliptical orbits around the sun                                                       |
+| Solar systems        | - Contains the sun and all objects that orbit it                                                                                                               |
+| Galaxies             | - Collection of stars and interstaller dust and gas                                                                                                            |
 ## Why are planets round
 https://www.youtube.com/watch?v=kwMTwQfPMfM
 As the gravitational force increases, it pulls matter towards the centre of gravitation. The gravitational force is equal and in all directions directed towards the centre. Because of this property, a spherical shape is formed. 
