@@ -99,7 +99,7 @@ Read more about black holes here: https://www.unistellar.com/blog/what-is-black-
 --- 
 Supernovae create all elements heavier than iron.
 
-# The Schwarzschild radius
+# The Schwarzschild Radius
 
 The Schwarzschild radius $r_{s}$ of an object is the radius of an imaginary sphere sized such that if all the mass of the object were to be compressed into a sphere, the escape velocity for the object would be greater than the speed of light. 
 
