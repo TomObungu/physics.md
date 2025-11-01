@@ -10,11 +10,13 @@ The core of the red giant will be inert, meaning nuclear fusion will no longer t
 However fusion of hydrogen nuclei continues in a shell **around** the core. This causes the periphery of the star to expand as layers slowly move away from the core. As the layers expand they cool which gives it its distinctive red colour. 
 ### Diagrammatically 
 https://esahubble.org/wordbank/red-giant/#:~:text=As%20the%20core%20collapses%2C%20the,former%20size%20of%20the%20star.
-As you can see that the core of the red giant will remain inert of some form of element whilst fusion happens in a shell around the core.
+As you can see that the core of the red giant will remain inert of typically Helium, whilst fusion of much lighter Hydrogen happens in a shell around the core.
 
-The reason why red giants expand as due to the increased radiant and gas pressure in the shell around the core push outwards. This causes the outer layers of the start to expand dramatically beyond the former size of the star.
+The reason why red giants expand as due to the increased radiant and gas pressure in the shell around the core push outwards. This causes the outer layers of the star to expand dramatically beyond the former size of the star.
 
 As well as that due to the increase volume of the star, the energy at the stars surface becomes more dissipated, which causes the star's bloated surface to cool, turning from white or yellow to red.  
+
+This process doesn't happen instantly but happens over a sustained duration of time. The star will gradually expand into a red giant over millions of years from the moment when the star runs out of Hydrogen in its core.
 
 ![[Pasted image 20251101133919.png]]
 
