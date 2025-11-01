@@ -25,8 +25,12 @@ As time progresses, the layers of the red giant around the core will drift off i
 White dwarfs are very dense often with a mass of our Sun, but with the volume of the Earth. White dwarfs only emit energy as photons from its surface. The surface temperature of a white dwarf can be as much as 30 000K. 
 
 ## Electron degeneracy (Pauli exclusion principle)
-The textbook explains that The Pauli exclusion principle states that two electrons cannot exist in the same "energy state"
+The textbook explains that The Pauli exclusion principle states that two electrons cannot exist in the same "energy state". Which is somewhat misleading.
 
 Watch here: https://youtu.be/INYZy6_HaQE?si=ulyRt9FWFHtiaTdE&t=320
 
-How in quantum mechanics it 
+However in quantum mechanics, Pauli's principle, applies to fermions as a whole (electrons are a type of fermion) and it's not energy states as you would intuitively see in the electron shells within atoms. But moreover it is the **quantum state** of electrons. 
+
+In a heavily simplified model of the atom, 
+
+Watch here: https://www.youtube.com/watch?v=3Gu9TXeNjUo
