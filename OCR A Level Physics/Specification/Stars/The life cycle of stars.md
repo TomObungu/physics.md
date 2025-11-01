@@ -26,3 +26,5 @@ White dwarfs are very dense often with a mass of our Sun, but with the volume of
 
 ## Electron degeneracy (Pauli exclusion principle)
 The Pauli exclusion principle states that two electrons cannot exist in the same energy state. 
+
+Watch here: https://youtu.be/INYZy6_HaQE?si=ulyRt9FWFHtiaTdE&t=320
