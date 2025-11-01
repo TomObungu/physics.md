@@ -103,4 +103,8 @@ Supernovae create all elements heavier than iron.
 
 The Schwarzschild radius $r_{s}$ of an object is the radius of an imaginary sphere sized such that if all the mass of the object were to be compressed into a sphere, the escape velocity for the object would be greater than the speed of light. 
 
-The radius 
+In 1916, Karl Schwharzchild any object schwarzschild used Einstein's theory of general relativity to calculate $r_{s}$ for any object:
+$$
+r_{s} = \frac{2GM}{c^{2}}
+$$
+where $M$ is the mass of the object, $c$ is the speed of light through a vacuum, and $G$ is the gravitational constant. 
