@@ -10,11 +10,12 @@ The core of the red giant will be inert, meaning nuclear fusion will no longer t
 However fusion of hydrogen nuclei continues in a shell **around** the core. This causes the periphery of the star to expand as layers slowly move away from the core. As the layers expand they cool which gives it its distinctive red colour. 
 ### Diagrammatically 
 https://esahubble.org/wordbank/red-giant/#:~:text=As%20the%20core%20collapses%2C%20the,former%20size%20of%20the%20star.
+
 As you can see that the core of the red giant will remain inert of typically Helium, whilst fusion of much lighter Hydrogen happens in a shell around the core.
 
 The reason why red giants expand as due to the increased radiant and gas pressure in the shell around the core push outwards. This causes the outer layers of the star to expand dramatically beyond the former size of the star. 
 
-In the case for a star with the mass of about our sun. Layers above the shell of hydrogen fusion will consist of burning hydrogen and will extended out to be 100 times more than radius our sun.
+In the case for a star with the mass of about our sun. The layer above the shell of hydrogen fusion will consist of burning hydrogen envelope and will extended out to be 100 times more than radius our sun.
 
 As well as that due to the increase volume of the star, the energy at the stars surface becomes more dissipated, which causes the star's bloated surface to cool, turning from white or yellow to red.  
 
@@ -52,16 +53,45 @@ This means the electrons are forced to fill the available energy level. In norma
 
 This forcing of electrons in available energy states causes an outward pressure called **electron degeneracy pressure**. This results in an outward acting force.
 
-This outward acting force balances the inward gravitational force and forms a state of equilibrium  preventing further collapse and resulting in a stable white dwarf star. \[SaveMyExams] 
+This outward acting force balances the inward gravitational force and forms a state of equilibrium  preventing further collapse and resulting in a stable white dwarf star. 
+
+Source: https://www.savemyexams.com/a-level/physics/ocr/17/revision-notes/5-newtonian-world-and-astrophysics/5-10-stellar-evolution/5-10-4-white-dwarfs-and-the-chandrasekhar-limit/
 
 ## Chandrasekhar limit
 Electron degeneracy is only sufficient to prevent gravitational collapse if the core has a mass less than $1.44M$. This is called the **Chandrasekhar** limit. 
 
 # Stars with a higher mass ( > 10 Solar Mass)
 
-Stars with a mass greater than $10M$ will consume hydrogen in their core in much less time. As with stars with smaller masses, when the hydrogen in the core runs low
+Stars with a mass greater than $10M$ will consume hydrogen in their core in much less time. 
+
+## Super red giants
+As with stars with smaller masses, when the hydrogen in the core runs low, the core begins to collapse under gravitational force (as fusion does not occur anymore). However as the cores of these more massive stars are much hotter, the helium nuclei formed from the fusion of hydrogen nuclei are moving fast enough to overcome the electrostatic repulsion, so fusion of helium nuclei into heavier elements occur. The fusion of helium continues until iron is formed.
+
+These changes in the core cause the star to expand, forming a red super giant. Inside, the temperatures and pressures are high enough to fuse even massive nuclei together. Forming a series of shells inside the star
+
+![[Pasted image 20251101193951.png]]
+
+This process continues until the star develops an iron core. Iron nuclei cannot fuse, because such reactions do not produce any energy. 
+
+This causes the star to be very unstable and leads to the death of the star in a catastrophic implosion, due overwhelming gravitational force, of the layers that bounce off the solid core. This leads to a shockwave that ejects all the core material into space. This is a supernova.
+
+## Supernova and beyond
+For massive stars of > 10M, at a critical point, the nuclear fusion taking in place in the core suddenly becomes unable to withstand the crushing gravitational forces. The star collapses in on itself, leading to a supernova. Afterwards, the remnant core is compressed into either a **neutron star** or a **black hole**.
+
+
+### Neutron stars
+If the mass of the remnant core is greater than the Chandrasekhar limit (1.44M). The gravitational collapse continues.
 
 ---
+#### How neutron stars are formed
+The gravitational force overcomes the electron degeneracy pressure and forces the electrons to combine with the protons of the atomic nucleus. When the **protons and electrons combine they become neutrons**. Hence the name **neutron star**
 
+---
+Neutron stars almost made entirely of neutrons and can be very small - just 10km in diameter. They have a typical mass of $2M$ and densities similar to an atomic nucleus.
 
-White Dwarfs & the Chandrasekhar Limit, Katie M, SaveMyExams, November 2024 (Accessed 1st November 2025) : https://www.savemyexams.com/a-level/physics/ocr/17/revision-notes/5-newtonian-world-and-astrophysics/5-10-stellar-evolution/5-10-4-white-dwarfs-and-the-chandrasekhar-limit/
+### Black holes
+If core the star has a mass greater than about $3M$, the gravitational collapse continues to compress the core.
+
+The result is a gravitational field so strong that in order to escape it an object would need an escape velocity greater than the speed of light.
+
+This is because despite the mass of the star being gargantuan of about $3M$, the gravitational force causing the collapse compresses the core - decreasing the radius of the core whilst keeping the mass the same. From the escape velocity equation of $v = \sqrt{ \frac{2GM}{r} }$, if the mass is kept constant but the radius decreases, the escape velocity will increase. 
