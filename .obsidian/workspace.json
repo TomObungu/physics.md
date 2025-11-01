@@ -258,10 +258,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
@@ -269,9 +269,9 @@
   },
   "active": "69632b9dc15bd4c3",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Stars/Objects in the Universe.md",
-    "OCR A Level Physics/Specification/Stars/The life cycle of stars.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Stars/The life cycle of stars.md",
+    "OCR A Level Physics/Specification/Stars/Objects in the Universe.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential Energy.md",
     "OCR A Level Physics/Specification/Stars/Objects in the Universe/Untitled.md",
     "OCR A Level Physics/Specification/Stars/Objects in the Universe",
@@ -309,7 +309,6 @@
     "OCR A Level Physics/Specification/Current And Charge/Moving Charges.md",
     "OCR A Level Physics/Specification/Current And Charge/Current and Charge.md",
     "OCR A Level Physics/Specification/Current And Charge/Mean Drift Velocity.md",
-    "OCR A Level Physics/Specification/Current And Charge/Kirchhoff's first law.md",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Gravatational Fields/attachments",
     "OCR A Level Physics/Specification/Gravatational Fields",
