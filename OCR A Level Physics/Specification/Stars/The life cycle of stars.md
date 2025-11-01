@@ -77,8 +77,6 @@ This causes the star to be very unstable and leads to the death of the star in a
 
 ## Supernova and beyond
 For massive stars of > 10M, at a critical point, the nuclear fusion taking in place in the core suddenly becomes unable to withstand the crushing gravitational forces. The star collapses in on itself, leading to a supernova. Afterwards, the remnant core is compressed into either a **neutron star** or a **black hole**.
-
-
 ### Neutron stars
 If the mass of the remnant core is greater than the Chandrasekhar limit (1.44M). The gravitational collapse continues.
 
@@ -95,3 +93,6 @@ If core the star has a mass greater than about $3M$, the gravitational collapse 
 The result is a gravitational field so strong that in order to escape it an object would need an escape velocity greater than the speed of light.
 
 This is because despite the mass of the star being gargantuan of about $3M$, the gravitational force causing the collapse compresses the core - decreasing the radius of the core whilst keeping the mass the same. From the escape velocity equation of $v = \sqrt{ \frac{2GM}{r} }$, if the mass is kept constant but the radius decreases, the escape velocity will increase. 
+
+Read more about black holes here: https://www.unistellar.com/blog/what-is-black-hole/
+
