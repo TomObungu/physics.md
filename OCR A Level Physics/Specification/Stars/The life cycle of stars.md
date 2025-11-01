@@ -97,7 +97,7 @@ This is because despite the mass of the star being gargantuan of about $3M$, the
 Read more about black holes here: https://www.unistellar.com/blog/what-is-black-hole/
 
 --- 
-Supernovae create all elements heavier than iron.
+Supernovae create all elements heavier than iron. 
 
 # The Schwarzschild Radius
 
