@@ -1,7 +1,7 @@
 # Stars with a low mass
 Stars with lower mass like our Sun will remain in main sequence as their core is cooler than that of a more massive stars. After billions of years, they will run low on hydrogen fuel and move
 ## Red giants
-Stars between $0.5M$ and $10M$, will evolve into red giants. The symbol $M$ denotes 1 Solar mass and has value $1.99\times=10^{30}$. 
+Stars between $0.5M$ and $10M$, will evolve into red giants. The symbol $M$ denotes 1 Solar mass and has value $1.99\times10^{30}$. 
 
 At the start of the red giant phase, the gravitational force is now greater than the reduced force from radiation and gas pressure. This inward force causes the core of the start to collapse. As it shrinks the pressure increases enough to start fusion in a shell around the core.
 
@@ -12,7 +12,9 @@ However fusion of hydrogen nuclei continues in a shell **around** the core. This
 https://esahubble.org/wordbank/red-giant/#:~:text=As%20the%20core%20collapses%2C%20the,former%20size%20of%20the%20star.
 As you can see that the core of the red giant will remain inert of typically Helium, whilst fusion of much lighter Hydrogen happens in a shell around the core.
 
-The reason why red giants expand as due to the increased radiant and gas pressure in the shell around the core push outwards. This causes the outer layers of the star to expand dramatically beyond the former size of the star.
+The reason why red giants expand as due to the increased radiant and gas pressure in the shell around the core push outwards. This causes the outer layers of the star to expand dramatically beyond the former size of the star. 
+
+In the case for a star with the mass of about our sun. Layers above the shell of hydrogen fusion will consist of burning hydrogen and will extended out to be 100 times more than radius our sun.
 
 As well as that due to the increase volume of the star, the energy at the stars surface becomes more dissipated, which causes the star's bloated surface to cool, turning from white or yellow to red.  
 
@@ -33,6 +35,13 @@ Watch here: https://youtu.be/INYZy6_HaQE?si=ulyRt9FWFHtiaTdE&t=320
 
 However in quantum mechanics, Pauli's principle, applies to fermions as a whole (electrons are a type of fermion) and it's not energy states as you would intuitively see in the electron shells within atoms. But moreover it is the **quantum state** of electrons. 
 
-In a heavily simplified model of the atom, 
+In a heavily simplified model of the atom, electrons on the shells of atoms have quantum mechanical properties like spin and principal quantum number which is shell the electron is on and other properties denoted as $n=1,2,3\dots$
+
+What Pauli's principle is saying is that no two electrons can have the exact same set of numbers for these quantum mechanical properties:
+![[Pasted image 20251101184908.png]]
+This means that at least one the numbers for the quantum mechanical configuration must be different.
+
+This is why there is an arrangement of $2,8\dots$ as the numbers of shells increase - On the second shell there are up to 8 possible distinct configurations an electron can have without violating Pauli's exclusion principle. 
+![[Pasted image 20251101185138.png]]
 
 Watch here: https://www.youtube.com/watch?v=3Gu9TXeNjUo
