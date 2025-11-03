@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Stars/Objects in the Universe.md",
+                "file": "OCR A Level Physics/Specification/Stars/The life cycle of stars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objects in the Universe"
+              "title": "The life cycle of stars"
             }
           },
           {
@@ -262,17 +262,17 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "5d3e7f7f96ede71a",
+  "active": "ee84e4d2ae056bc0",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Stars/The Hertzsprung-Russel diagram.md",
     "OCR A Level Physics/Specification/Stars/The life cycle of stars.md",
-    "OCR A Level Physics/Specification/Stars/Objects in the Universe.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Stars/Objects in the Universe.md",
+    "OCR A Level Physics/Specification/Stars/The Hertzsprung-Russel diagram.md",
     "Untitled.md",
     "OCR A Level Physics/Specification/Stars/attachments/Pasted image 20251101221720.png",
     "OCR A Level Physics/Specification/Stars/attachments/Pasted image 20251101220957.png",
