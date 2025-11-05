@@ -15,3 +15,6 @@ Inside protostars, when the molecules are moving fast enough, the atomic nuclei 
 During the red giant phase, the outer layers of the star begin to drift off into space causes a planetary nebula. This is due to the expansion of the red giant 
 
 White dwarfs remain inert with Helium cores due to electron degeneracy pressure being in equilibrium with the gravitational force preventing further collapse. However 
+
+
+When the core of a super redgiant runs out of energy to take in for fusion to continue. The core collapses under gravitational force and everything within the red giant is compressed so quickly that a nuclear explosion occurs and the rebounds off the core of the red giant. 
