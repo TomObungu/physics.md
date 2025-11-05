@@ -18,3 +18,5 @@ White dwarfs remain inert with Helium cores due to electron degeneracy pressure 
 
 
 When the core of a super redgiant runs out of energy to take in for fusion to continue. The core collapses under gravitational force and everything within the red giant is compressed so quickly that a nuclear explosion occurs and the rebounds off the core of the red giant. 
+
+Luminosity - The total power output of the total surface area of a star. The joules per second 
