@@ -63,8 +63,7 @@
               "title": "Satellites"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,15 +246,15 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "5d3e7f7f96ede71a",
   "lastOpenFiles": [
-    "OCR A Level Physics/In Lesson Notes/5 November 2025.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/In Lesson Notes/5 November 2025.md",
     "OCR A Level Physics/In Lesson Notes/attachments/Pasted image 20251105123650.png",
     "Excalidraw/Drawing 2025-11-05 12.33.24.excalidraw.md",
     "Excalidraw",
