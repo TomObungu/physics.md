@@ -20,3 +20,5 @@ The direction of these beams depends on the spacing of lines, or slits of the gr
 Therefore when white light passed through a diffraction grating it splits into its component colours, making gratings especially useful in spectroscopy. 
 
 
+Forming maxima
+
