@@ -22,6 +22,7 @@ The figure below shows the electron energy level within an atom. Each energy lev
 
 When an electron moves from a higher energy level to a lower one, it loses energy. Due to the conservation of energy, when the electron transitions between the levels, a photon is emitted from the atom. This transition is called de-excitement. 
 
+Due to $E \propto f$, the energy released corresponds to the frequency of light released and thus different colours of light within the visible light range. 
 ## Why electrons emit photons
 When electrons lose energy, the energy transfer is not lost but transferred into another form of energy as light. This is due to the quantum mechanical nature of a photon. The energy released from the photon is a pulse of electromagnetic energy. The quantum mechanical properties of the photon cause the energy to have a frequency within visible light. 
 
@@ -31,3 +32,18 @@ $$
 $$
 
 Often the energy is given in terms of electronvolts $eV$. Therefore when given the voltage of the circuit supplying energy, it is possible to form an equation for energy using $E=eV$ and equate it to wavelength and frequency equations above. 
+
+
+## Calculating energy when given the number of photons and the power output
+To calculate the energy of each photon when given $n$ and $P$. Sometimes the power is the radiant energy per second.
+$$
+\begin{gather*}
+\text{Energy of each photon} = \frac{\text{energy radiated per second}}{\text{number of photons emitted per second}} \\ \\
+\implies E = \frac{n}{P}
+\end{gather*}
+$$
+From the onwards you can determine any properties for $E$
+
+## Summary questions
+![[Pasted image 20251106122647.png]] 
+When 
