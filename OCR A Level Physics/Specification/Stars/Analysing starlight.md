@@ -11,6 +11,7 @@ The grating consists of large number of lines ruled on a glass or plastic slide,
 
 Using a large number of lines produces a clearer and brighter interference pattern.
 
+![[Pasted image 20251106172000.png]]
 ### Diffraction of light
 When light passes through a diffraction grating, it is split into a series of narrow beams. 
 
@@ -19,6 +20,6 @@ The direction of these beams depends on the spacing of lines, or slits of the gr
 
 Therefore when white light passed through a diffraction grating it splits into its component colours, making gratings especially useful in spectroscopy. 
 
-
-Forming maxima
+## Forming maxima
+Consider the monochromatic light incident normally at a diffraction grating. The light is diffracted at each slit, and the interference pattern is the result of the superposition of the diffracted waves in the space beyond the grating. Just as with the
 
