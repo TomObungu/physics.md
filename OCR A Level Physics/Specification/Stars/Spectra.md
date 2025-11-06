@@ -25,7 +25,6 @@ An absorption line spectrum is formed when a light from a source that produces a
 
 Only photons with energy exactly equal to the difference between the energy levels of the light is absorbed by the gas. This means that only specific wavelengths are absorbed, which creates dark lines in the spectrum.
 
-
 ### Why
 The photons absorbed by the gas are re-emitted when the electron drops back down to a lower energy level atom, they are emitted in all possible directions, so the intensity in the original direction is greatly reduced. 
 ![[Pasted image 20251106162147.png]]
