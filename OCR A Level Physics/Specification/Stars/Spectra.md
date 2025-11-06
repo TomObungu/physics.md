@@ -25,8 +25,18 @@ An absorption line spectrum is formed when a light from a source that produces a
 
 Only photons with energy exactly equal to the difference between the energy levels of the light is absorbed by the gas. This means that only specific wavelengths are absorbed, which creates dark lines in the spectrum.
 
+
 ### Why
 The photons absorbed by the gas are re-emitted when the electron drops back down to a lower energy level atom, they are emitted in all possible directions, so the intensity in the original direction is greatly reduced. 
 ![[Pasted image 20251106162147.png]]
 
-The absorption line spectrum for any gas is very nearly a negative of its emission line spectrum. A few lines from the emission line spectrum may not be visible in the in the absorption line spectrum, because the excited electrons may return to their ground state in stages
+The absorption line spectrum for any gas is very nearly a negative of its emission line spectrum.
+
+This is because the energy levels involved are the same (for a specific wavelength). The energy of the photon emitted or absorbed by the same is the same.
+
+A few lines from the emission line spectrum may not be visible in the in the absorption line spectrum, because the excited electrons may return to their ground state in stages and re-emit the photons. Whereas absorption lines are mostly caused by electrons starting from their ground state. 
+
+## Detecting elements within stars
+When the light from a star is analysed, it is found to be an absorption line spectrum. Some wavelengths of light are missing - the photons have been absorbed by atoms of cooler gases in out layers of the star.
+
+If we know the line spectrum of a particular element, we can check whether the element is present in the star, 
