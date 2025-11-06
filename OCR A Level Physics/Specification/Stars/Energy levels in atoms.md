@@ -33,6 +33,10 @@ $$
 
 Often the energy is given in terms of electronvolts $eV$. Therefore when given the voltage of the circuit supplying energy, it is possible to form an equation for energy using $E=eV$ and equate it to wavelength and frequency equations above. 
 
+# Energy states in terms of n
+The ground state of the electron will be defined as $n=1$ and will require the most energy to free it from the atom. 
+![[Pasted image 20251106125354.png]]
+
 
 ## Calculating energy when given the number of photons and the power output
 To calculate the energy of each photon when given $n$ and $P$. Sometimes the power is the radiant energy per second.
@@ -46,4 +50,4 @@ From the onwards you can determine any properties for $E$
 
 ## Summary questions
 ![[Pasted image 20251106122647.png]] 
-When 
+When the the electron moves to from the ground state of $n=1$ to $n=3$. The change in energy is greater than when the electron moves form a state of $n=1$ to $n2$ which in turn increases the frequency of energy. As $c=\lambda f$, as $f$ increases, $\lambda$ will decreases and a result will be shorter.
