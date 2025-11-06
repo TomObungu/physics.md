@@ -27,7 +27,7 @@ The zero-order maximum, n = 0, if formed when the path difference is zero, that 
 
 ![[Pasted image 20251106174505.png]]
 
-For the two nth-order maxima, the path difference QY at angle $\theta$ will be equal to $n\lambda$. The distance PQ is the serparation between adjacent lines or the slits in teh grating. This distance is called the grating spacing d. From the angle $PQY$, you can see that:
+For the two nth-order maxima, the path difference QY at angle $\theta$ will be equal to $n\lambda$. The distance PQ is the separation between adjacent lines or the slits in the grating. This distance is called the grating spacing d. From the angle $PQY$, you can see that:
 
 
 ![[Pasted image 20251106174724.png]]
@@ -40,7 +40,7 @@ $$
 where n is an integer with values 0,1,2, etc. The equation is known as the grating equation and can be used to accurately determine the wavelength of monochromatic light
 
 ## Worked example : Finding the grating spacing
-Monochromatic light from a laser of wavelength 532nm is incident normally at a diffractio grating. The angle between the second-order maximum and the zero-order maximum is measured to be $32^\circ$. Calculate d
+Monochromatic light from a laser of wavelength 532nm is incident normally at a diffraction grating. The angle between the second-order maximum and the zero-order maximum is measured to be $32^\circ$. Calculate d
 $$
 \begin{gather*}
 d\sin\theta = n\lambda \\
@@ -48,3 +48,8 @@ d = \frac{n\lambda}{\sin\theta} \\ \\
 d = 2 \times532\times \frac{10^{-9}}{\sin 32}
  = 2\times 10 ^{-6}m\end{gather*}
 $$
+
+## Determining the wavelength of a light 
+A diffraction grating can be used to determine the wavelength of monochromatic light. Measuring the angle between several maxima and the zero-order maximum and then plotting a graph of $\sin\theta$ against $n$ will produce a straight line through the origin with a gradient of $\frac{\lambda}{d}$.
+
+E.g a grating spacing of 600/mm has 600 000 lines / m and so has grading spacing of $1.67\times 10^{-6}$
