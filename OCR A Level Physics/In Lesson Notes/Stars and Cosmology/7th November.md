@@ -7,7 +7,7 @@ Definitions:
 # Different axis for the HR diagram
 
 ### For the x-axis
-Spectral Class - The classification of stars based on their their temperature. Each classification of stars has a different colour and abpsoprtion lines. The classes are ordered from O being the hottest and M being the coolest. 
+Spectral Class - The classification of stars based on their their temperature. Each classification of stars has a different colour and absorption lines. The classes are ordered from O being the hottest and M being the coolest. 
 
 ### For the y-axis
 Absolute Magnitude - A logarithmic s
