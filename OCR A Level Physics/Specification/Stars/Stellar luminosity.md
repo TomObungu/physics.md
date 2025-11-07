@@ -30,4 +30,21 @@ This law is also states the total power radiated per unit surface area of a blac
 
 The total power radiated by a star is called luminosity. 
 
-According to Stefan's law, the equation for luminosity $L$ in watts $(W)$ is given by equation
+According to Stefan's law, the equation for luminosity $L$ in watts $(W)$ is given by equation:
+$$
+L = 4\pi r^{2}\sigma T^{4}
+$$
+where r is the radius of the star in meters (m), T is the surface absolute temperature of the star in kelvin (K), and $\sigma$ is the Stefan constant, $5.67\times 10^{-8}Wm^{-2}K^{-4}$ where $WmK$ is Watts per square meter per kelvin to the fourth power.
+
+Stefan's law shows that the luminosity of a star is directly proportional to:
+- The square of its radius $L\propto r^{2}$
+- Its surface area $L\propto4\pi r^{2}$
+- The fourth power of its surface temperature $L\propto T^{4}$
+
+Using Wien's law and Stefan's law can be used to estimate the radius of a distant star. 
+
+Once the radius is known, the mass and density of the star can be determined using Newton's law of gravitation.
+
+## Worked example 1
+The peak wavelength of radiation emitted by our Sun is about 500nm, its surface temperature is 5800K, and its luminosity is $3.85\times 10^{26}$W. The peak wavelength emitted by a nearby star with a luminosity 10 times that of our sun is 310nm. Show that the radius of this star is approximately $840000km$.
+
