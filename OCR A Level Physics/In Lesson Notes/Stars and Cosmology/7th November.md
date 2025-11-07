@@ -15,3 +15,5 @@ Absolute Magnitude - A logarithmic s
 Brightness - The luminosity when a distance of 10 parsecs away. 
 
 Regardless of what is on the axis, the shape of the HR graph will be the same. 
+
+## Electronvolts
