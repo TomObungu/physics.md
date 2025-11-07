@@ -10,3 +10,24 @@ For example, the specific distribution curves of hot metal sheets modelled as bl
 
 # Wien's displacement law
 This relates the absolute temperature $T$ of a black body to peak wavelength $\lambda_{max}$ at which the intensity is a maximum. The law can be applied to most objects from stars, to filament lamps and even to mammals. 
+
+Wien's law states that $\lambda_{max}$ is inversly proportional to $T$:
+$$
+\lambda_{max} \propto \frac{1}{T}
+$$
+For any black-body emitter:
+$$\lambda_{max}T = k$$ The value of this constant $k$ is is $2.90\times 10^{-3}mK$, where $mK$ is meter-Kelvins and is known as Wien's constant. 
+
+Many objects can be modelled as approximate black bodies. This can help scientists determine the temperatures of objects simply by analysing the electromagnetic radiation they emit.
+
+| Object           | $\lambda_{max}(m)$  | $T(K)$ |
+| ---------------- | ------------------- | ------ |
+| Sun              | $5\times 10^{-7}$   | 5000   |
+| Healthy Human    | $9.4\times 10^{-6}$ | 310    |
+| Wood fire flames | $9.4\times 10^{-6}$ | 1500   |
+# Stefan's (Stefan-Boltzmann) Law
+This law is also states the total power radiated per unit surface area of a black body is directly proportional to the fourth power of the absolute temperature of the black body. 
+
+The total power radiated by a star is called luminosity. 
+
+According to Stefan's law, the equation for luminosity $L$ in watts $(W)$ is given by equation
