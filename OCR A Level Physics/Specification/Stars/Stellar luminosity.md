@@ -18,6 +18,17 @@ $$
 For any black-body emitter:
 $$\lambda_{max}T = b$$ The value of this constant $b$ is is $2.90\times 10^{-3}mK$, where $mK$ is meter-Kelvins and is known as Wien's constant. 
 
+You are not required to know Wien's constant by heart however it is beneficial to do so. In questions they will usually expect you to do this:
+$$
+\lambda_{max}T = k
+$$
+And work out a pseudo-value of Wien's constant to use within the question. Often this value is worked by using a given second value for $\lambda_{max}$ and $T$ (usually of our Sun).
+
+From this it is possible to deduce:
+$$
+\frac{\lambda_{max1}}{T_{1}} = \frac{\lambda_{max_{2}}}{T_{2}}
+$$
+
 Many objects can be modelled as approximate black bodies. This can help scientists determine the temperatures of objects simply by analysing the electromagnetic radiation they emit.
 
 | Object           | $\lambda_{max}(m)$  | $T(K)$ |
@@ -44,6 +55,19 @@ Stefan's law shows that the luminosity of a star is directly proportional to:
 Using Wien's law and Stefan's law can be used to estimate the radius of a distant star. 
 
 Once the radius is known, the mass and density of the star can be determined using Newton's law of gravitation.
+
+From Stefan's law you can deduce that:
+$$
+\begin{gather*}
+L = 4\pi r^{2}\sigma T^{4} \\ \\
+\frac{L}{r^{2}T^{4}} = \underbrace{ 4\pi \sigma }_{ k (\text{constant}) } \\ \\ 
+\frac{L}{r^{2}T^{4}} = k
+\end{gather*}
+$$
+Therefore:
+$$
+\frac{L_{2}}{r_{1}^{2}T_{1}^{4}} = \frac{L_{2}}{r_{2}^{2}T_{2}^{4}} 
+$$
 
 ## Worked example 1
 The peak wavelength of radiation emitted by our Sun is about 500nm, its surface temperature is 5800K, and its luminosity is $3.85\times 10^{26}$W. The peak wavelength emitted by a nearby star with a luminosity 10 times that of our sun is 310nm. Show that the radius of this star is approximately $840000km$.
