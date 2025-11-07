@@ -16,7 +16,7 @@ $$
 \lambda_{max} \propto \frac{1}{T}
 $$
 For any black-body emitter:
-$$\lambda_{max}T = k$$ The value of this constant $k$ is is $2.90\times 10^{-3}mK$, where $mK$ is meter-Kelvins and is known as Wien's constant. 
+$$\lambda_{max}T = b$$ The value of this constant $b$ is is $2.90\times 10^{-3}mK$, where $mK$ is meter-Kelvins and is known as Wien's constant. 
 
 Many objects can be modelled as approximate black bodies. This can help scientists determine the temperatures of objects simply by analysing the electromagnetic radiation they emit.
 
@@ -47,4 +47,23 @@ Once the radius is known, the mass and density of the star can be determined usi
 
 ## Worked example 1
 The peak wavelength of radiation emitted by our Sun is about 500nm, its surface temperature is 5800K, and its luminosity is $3.85\times 10^{26}$W. The peak wavelength emitted by a nearby star with a luminosity 10 times that of our sun is 310nm. Show that the radius of this star is approximately $840000km$.
+
+1. Calculate the temperature of second star with its peak wavelength and Wien's constant $b$
+$$
+\begin{gather*}
+\lambda_{max}=\frac{b}{T} \\ 
+T = \frac{b}{\lambda_{max}} \\ \\
+T = \frac{2.9\times 10^{-3}}{310\times 10^{-9}} = 9354.387\dots K
+\end{gather*}
+$$
+2. Use the luminosity of the Sun multiplied by 10 as L and then substitute the value for $T$ into Stefan's formula and calculate r:
+$$
+\begin{gather*}
+4\pi r^{2}(5.67\times 10^{-8}) (9354.387\dots)^{4} = 10(3.85\times 10^{26}) \\ 
+r = \sqrt{ \frac{10(3.85\times 10 ^{26})}{4\pi(5.67\times 10 ^{ -8})(9354.387\dots)^{4}} } = 8.40 \times 10 ^{8} \\ \\ 
+\text{To get in kilometers} : \frac{8.40 \times 10^{8}}{10^{3}} = 840 000km \\ 
+QED
+\end{gather*}
+$$
+
 
