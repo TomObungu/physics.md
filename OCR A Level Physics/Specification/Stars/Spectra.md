@@ -7,6 +7,8 @@ The technique of analysing the light from stars is the science of spectroscopy. 
 ## Continuous line
 All visible frequencies or wavelengths are present. The atoms of a heated solid metal will produce this type of spectrum.
 
+It is possible to achieve a spectra using a diffraction grating. 
+
 In terms of differentiating the type of metal, the intensities of the the specific frequencies can be differentiated for the different metals. 
 ![[Pasted image 20251106161750.png]]
 ## Emission line

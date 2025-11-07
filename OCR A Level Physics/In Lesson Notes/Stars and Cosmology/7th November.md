@@ -16,4 +16,5 @@ Brightness - The luminosity when a distance of 10 parsecs away.
 
 Regardless of what is on the axis, the shape of the HR graph will be the same. 
 
-## Electronvolts
+## Emission Spectrum
+For absorption spectrum, the photons emitted from the star pass through the cooler gas around it. The photons are absorbed by the cooler gas are re-emitted in random directions and thus the continuous spectrum of the gas ends up having dark spots with the wavelength of the photons being emitted from the star
