@@ -12,9 +12,9 @@ An analogy to represent this is a ball of staircase: The ball cannot exist on th
 - The energy level with the most negative value is known as the ground level or the ground state
 
 When an electron moves from a lower to higher energy level within an atom or a gas, the atom is said to be excited. Raising an electron into higher energy level requires external energy. An example of this external energy could be:
-- Supplying an electric field with an accelerating p.d -> $E=hf$
-- Heating the gas -> $E_{k} = \frac{3}{2}kT$
-- If the gas absorbs photons of a specific frequency -> $E=hf$)
+- Supplying an electric field with an accelerating p.d -> $E=eV=hf$
+- Heating the gas -> $E_{k} = \frac{3}{2}kT=hf$
+- If the gas absorbs photons of a specific frequency -> $E=\phi+KE= hf$)
 
 The figure below shows the electron energy level within an atom. Each energy level has a specific negative value, solidifying that electron energy levels are discrete. 
 

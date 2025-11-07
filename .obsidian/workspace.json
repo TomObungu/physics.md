@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Stars/Spectra.md",
+                "file": "OCR A Level Physics/Specification/Stars/Energy levels in atoms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spectra"
+              "title": "Energy levels in atoms"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,16 +224,16 @@
       }
     ]
   },
-  "active": "efd01ca7c3420531",
+  "active": "ed4a9abf1f4000d5",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Stars/Analysing starlight.md",
+    "OCR A Level Physics/Specification/Stars/Spectra.md",
+    "OCR A Level Physics/In Lesson Notes/7th November.md",
     "OCR A Level Physics/Specification/Stars/The Hertzsprung-Russel diagram.md",
     "OCR A Level Physics/Specification/Stars/The life cycle of stars.md",
-    "OCR A Level Physics/In Lesson Notes/7th November.md",
-    "OCR A Level Physics/Specification/Stars/Spectra.md",
     "OCR A Level Physics/In Lesson Notes/5 November 2025.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational field strength for a point mass.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Satellites.md",
-    "OCR A Level Physics/Specification/Stars/Analysing starlight.md",
     "OCR A Level Physics/Specification/Stars/Energy levels in atoms.md",
     "OCR A Level Physics/Specification/Stars/Objects in the Universe.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
