@@ -17,7 +17,7 @@ In one complete rotation, the distance travelled is the circumference of the cir
 $$
 v=\frac{2\pi r}{T}
 $$
-we can expressed $\omega=\frac{2\pi}{T}$ we can express the speed (linear velocity) as 
+we can expresse $\omega=\frac{2\pi}{T}$ we can express the speed (linear velocity) as 
 $$
 v=r\omega
 $$

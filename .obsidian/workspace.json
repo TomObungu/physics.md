@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Stars/Stellar luminosity.md",
+                "file": "OCR A Level Physics/Specification/Circular Motion/Centripetal Acceleration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stellar luminosity"
+              "title": "Centripetal Acceleration"
             }
           }
         ]
@@ -211,8 +211,11 @@
   },
   "active": "ed4a9abf1f4000d5",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Circular Motion/Angular Velocity and The Radian.md",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Fields.md",
+    "OCR A Level Physics/Specification/Gravatational Fields/Kepler's laws.md",
     "OCR A Level Physics/Specification/Stars/Stellar luminosity.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Stars/Cosomology/Astronomical distances.md",
     "OCR A Level Physics/Specification/Stars/Analysing starlight.md",
     "OCR A Level Physics/Specification/Stars/Cosomology",
@@ -251,9 +254,7 @@
     "Excalidraw/Drawing 2025-11-05 12.33.24.excalidraw.md",
     "OCR A Level Physics/Specification/Energy, Power And Resistance/Electron gun.md",
     "Excalidraw",
-    "Untitled.md",
     "OCR A Level Physics/Specification/Stars/attachments",
-    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential Energy.md",
     "OCR A Level Physics/Specification/Stars/Objects in the Universe",
     "OCR A Level Physics/Specification/Stars",
     "Untitled.canvas"
