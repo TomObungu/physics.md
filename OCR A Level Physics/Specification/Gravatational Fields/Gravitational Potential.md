@@ -63,6 +63,16 @@ A graph of $V_{g}$ around the Earth against distance $r$ from the centre of mass
 - Moving towards the point mass $M$ will result in a decrease in gravitational potential
 - Moving away from the point mass $M$ will result in an increase in gravitational potential
 
+## Calculating velocity using changes in $Vg$
+The change in gravitational potential $\Delta Vg$  for different radii, $r_{1}$ and $r_{2}$ will be the difference in the reciprocals of the the radii. This will be the case as a small mass moves from $r_{1}$ to $r_{2}$:
+$$
+\begin{gather*}
+\Delta Vg = -\frac{GM}{r_{2}}-\left( -\frac{GM}{r_{1}} \right) \\ \\
+\therefore \Delta Vg = 
+\end{gather*}
+
+$$
+
 ## Gravitational Potential with a number of masses
 The gravitational potential energy at any point is equal to the algebraic sum of the gravitational potentials from each mass at that point
 ![[Pasted image 20251022084315.png]]
