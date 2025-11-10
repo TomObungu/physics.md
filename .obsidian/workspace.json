@@ -172,43 +172,6 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "d62214c9012b147f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a58cdb681a049783",
-        "type": "window",
-        "children": [
-          {
-            "id": "175e2886baf606c9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5d3e7f7f96ede71a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "ed4a9abf1f4000d5",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
