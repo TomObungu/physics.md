@@ -11,12 +11,14 @@
             "id": "ed4a9abf1f4000d5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                "file": "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/12th November.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+              "icon": "lucide-file",
+              "title": "12th November"
             }
           }
         ]
@@ -174,8 +176,8 @@
   "lastOpenFiles": [
     "OCR A Level Physics/Specification/Stars/Stellar luminosity.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/12th November.md",
-    "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/7th November.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/7th November.md",
     "OCR A Level Physics/Specification/Stars/Analysing starlight.md",
     "OCR A Level Physics/Specification/Stars/Corrected Questions/Untitled",
     "OCR A Level Physics/Specification/Stars/Corrected Questions",
@@ -206,7 +208,6 @@
     "OCR A Level Physics/In Lesson Notes/Gravitation/Wednesday 22 - Gravitational Potential.md",
     "OCR A Level Physics/Specification/Circular Motion/Centripetal Acceleration.md",
     "OCR A Level Physics/Specification/Circular Motion/Angular Velocity and The Radian.md",
-    "OCR A Level Physics/Specification/Cosomology/Astronomical distances.md",
     "OCR A Level Physics/Specification/Cosomology",
     "OCR A Level Physics/Specification/Stars/attachments/Pasted image 20251107140459.png",
     "OCR A Level Physics/Specification/Stars/attachments/Pasted image 20251107140451.png",
