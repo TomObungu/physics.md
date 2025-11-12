@@ -1,6 +1,6 @@
 # Starter
 Workbook Highlights - 19.4-19.6
-Definitions:
+Definitions To look over:
 - Elements
 - Diffraction grating
 - Monochromatic frequency
