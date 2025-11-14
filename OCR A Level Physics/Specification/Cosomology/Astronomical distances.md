@@ -38,4 +38,4 @@ With precise measures of the angle between the different images of the star, the
 $$
 d=\frac{1}{p}
 $$
-Where $d$ is in parsecs and $p$ is in arc seconds.
+Where $d$ is in parsecs and $p$ is in arcseconds.
