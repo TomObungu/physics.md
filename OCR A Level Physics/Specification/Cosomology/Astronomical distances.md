@@ -22,7 +22,7 @@ The parsec is defined as the distance at which a radius of AU subtends an angle 
 
 One parsec is determined by using simple trigonometry:
 $$
-\tan(1 \ \text{arcsecond}) = \frac{1AU}{1pc} = \frac{1.50\times 10 ^{11}}{\tan\left( \frac{1}{3600} \right)} = 3.1\times 10 ^{16}
+\tan(1 \ \text{arcsecond}) = \frac{1AU}{1pc} \implies 1 pc = \frac{1.50\times 10 ^{11}}{\tan\left( \frac{1}{3600} \right)} = 3.1\times 10 ^{16}
 $$
 Knowing the small angle approximation of $\tan\theta$ is $\tan\theta \approx\theta$m for very small angles like 1 arc second, if the point s is at a distance $S$ is a distance of $d$ parsecs, then the angle subtended is simply $\frac{1}{d}$ arcseconds. This is because the numerator of angle is kept constant at $1AU$. 
 
