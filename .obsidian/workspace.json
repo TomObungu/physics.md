@@ -200,7 +200,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 960,
         "y": 0,
         "width": 960,
         "height": 1040,
@@ -209,14 +209,16 @@
       }
     ]
   },
-  "active": "32e2acc05ceec321",
+  "active": "88f988dc27e44943",
   "lastOpenFiles": [
+    "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/19th November",
+    "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/Untitled",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/19th November 2025.md",
     "OCR A Level Physics/Specification/Cosomology/Astronomical distances.md",
     "OCR A Level Physics/Specification/Cosomology/Hubble's law.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/14th November 2025.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/12th November.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/attachments/Pasted image 20251119001623.png",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/attachments/Pasted image 20251114103645.png",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/attachments",
@@ -248,14 +250,12 @@
     "OCR A Level Physics/Specification/Corrected Concepts/Gravitational Fields/Finding impact velocity using Gravitational Potential.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential.md",
     "OCR A Level Physics/Specification/Corrected Concepts/Gravitational Fields/attachments/Pasted image 20251107191302.png",
-    "OCR A Level Physics/Specification/Corrected Concepts/Gravitational Fields/attachments",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational field strength for a point mass.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Satellites.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Newton's law of gravitation.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential Energy.md",
     "OCR A Level Physics/Specification/Gravatational Fields/corrected questions/Q. Calculate the following ratio.md",
     "OCR A Level Physics/Specification/Gravatational Fields/corrected questions/Q. Calculating speed of impact v of MASCOT on surface of asteriod.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/corrected questions/Q. State whether work is done by gravitational force.md",
     "OCR A Level Physics/Specification/Gravatational Fields/corrected questions/attachments/Pasted image 20251107183233.png",
     "Untitled.canvas"
   ]
