@@ -11,3 +11,6 @@ We are able to detect cosmological redshift by detecting a significant shift in 
 - The redshift on these scales is caused by the stretching of the emitted light as it travels an expanding universe. 
 - The further away a galaxy is, the greater the redshift, the faster they are moving away from each other
 	- Every point in the universe 
+
+
+## 
