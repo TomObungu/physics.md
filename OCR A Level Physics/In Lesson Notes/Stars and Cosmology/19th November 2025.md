@@ -9,3 +9,5 @@ We are able to detect cosmological redshift by detecting a significant shift in 
 - Space-time is expanding in all directions
 - The spacetime in-between galaxies is stretching
 - The redshift on these scales is caused by the stretching of the emitted light as it travels an expanding universe. 
+- The further away a galaxy is, the greater the redshift, the faster they are moving away from each other
+	- Every point in the universe 
