@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Cosomology/The Big Bang theory.md",
+                "file": "OCR A Level Physics/Specification/Circular Motion/Centripetal Acceleration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Big Bang theory"
+              "title": "Centripetal Acceleration"
             }
           }
         ]
@@ -203,7 +203,7 @@
         "x": 0,
         "y": 0,
         "width": 960,
-        "height": 1040,
+        "height": 1018,
         "maximize": false,
         "zoom": 0
       }
@@ -211,9 +211,10 @@
   },
   "active": "62d305c8fb68171f",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Circular Motion/Centripetal Acceleration.md",
     "OCR A Level Physics/Specification/Cosomology/The Big Bang theory.md",
+    "OCR A Level Physics/Specification/Cosomology/Evolution of the Universe.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Circular Motion/Centripetal Acceleration.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/19th November/Independant Work - Ancient Cosmology.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/19th November/19th November 2025.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/19th November 1",
@@ -255,7 +256,6 @@
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational field strength for a point mass.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Satellites.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Newton's law of gravitation.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential Energy.md",
     "OCR A Level Physics/Specification/Gravatational Fields/corrected questions/attachments/Pasted image 20251107183233.png",
     "Untitled.canvas"
   ]
