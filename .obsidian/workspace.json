@@ -11,14 +11,12 @@
             "id": "62d305c8fb68171f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "OCR A Level Physics/Specification/Circular Motion/Centripetal Acceleration.md",
-                "mode": "source",
-                "source": false
+                "file": "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114013139.png"
               },
-              "icon": "lucide-file",
-              "title": "Centripetal Acceleration"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251114013139"
             }
           }
         ]
@@ -200,10 +198,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 960,
         "y": 0,
         "width": 960,
-        "height": 1018,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
@@ -211,34 +209,37 @@
   },
   "active": "62d305c8fb68171f",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Cosomology/The Big Bang theory.md",
     "OCR A Level Physics/Specification/Cosomology/Evolution of the Universe.md",
+    "OCR A Level Physics/Specification/Cosomology/The Big Bang theory.md",
+    "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114013139.png",
+    "Excalidraw/The Doppler Effect.md",
+    "Excalidraw/Hubble's law.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251121020751.png",
+    "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251121020459.png",
+    "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114005727.png",
+    "Evolution Of the Universe.md",
     "OCR A Level Physics/Specification/Circular Motion/Centripetal Acceleration.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/19th November/Independant Work - Ancient Cosmology.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/19th November/19th November 2025.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/19th November 1",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/19th November",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/Untitled",
-    "OCR A Level Physics/Specification/Cosomology/Astronomical distances.md",
-    "OCR A Level Physics/Specification/Cosomology/Hubble's law.md",
+    "Excalidraw/Astronomical distances.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/14th November 2025.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/12th November.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/attachments/Pasted image 20251119001623.png",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/attachments/Pasted image 20251114103645.png",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/attachments",
-    "OCR A Level Physics/Specification/Cosomology/The Doppler Effect.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Kepler's laws.md",
     "OCR A Level Physics/In Lesson Notes/Untitled.md",
     "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114013647.png",
     "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114013208.png",
-    "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114013139.png",
     "Excalidraw/Drawing 2025-11-14 01.30.02.excalidraw.md",
     "Excalidraw/Drawing 2025-11-05 12.33.24.excalidraw.md",
     "OCR A Level Physics/Specification/Cosomology/Untitled",
     "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114011345.png",
     "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114010820.png",
-    "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114005727.png",
     "OCR A Level Physics/Specification/Cosomology/attachments",
     "OCR A Level Physics/Specification/Stars/Energy levels in atoms.md",
     "Untitled.md",
@@ -252,11 +253,7 @@
     "OCR A Level Physics/Specification/Corrected Concepts/Gravitational Fields/Area under a graph of g against r.md",
     "OCR A Level Physics/Specification/Corrected Concepts/Gravitational Fields/Finding impact velocity using Gravitational Potential.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential.md",
-    "OCR A Level Physics/Specification/Corrected Concepts/Gravitational Fields/attachments/Pasted image 20251107191302.png",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational field strength for a point mass.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/Satellites.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/Newton's law of gravitation.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/corrected questions/attachments/Pasted image 20251107183233.png",
     "Untitled.canvas"
   ]
 }

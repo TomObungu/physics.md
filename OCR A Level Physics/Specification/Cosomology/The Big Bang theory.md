@@ -23,4 +23,3 @@ t \approx \frac{1}{H_{0}}
 $$
 # The ESA Planck mission
 The European Space Agency launched the Planck space observatory. It's mission was to measure precisely the tiny variations in the CBM. The data collected by the Planck mission suggests that the value for the Hubble constant is $67.80kms ^{ -1} Mpc ^{-1}$.
-
