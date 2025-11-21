@@ -11,12 +11,14 @@
             "id": "62d305c8fb68171f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114013139.png"
+                "file": "OCR A Level Physics/Specification/Cosomology/Evolution of the Universe.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251114013139"
+              "icon": "lucide-file",
+              "title": "Evolution of the Universe"
             }
           }
         ]
@@ -198,7 +200,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 960,
+        "x": 0,
         "y": 0,
         "width": 960,
         "height": 1040,
@@ -207,14 +209,14 @@
       }
     ]
   },
-  "active": "62d305c8fb68171f",
+  "active": "32e2acc05ceec321",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Cosomology/Evolution of the Universe.md",
     "OCR A Level Physics/Specification/Cosomology/The Big Bang theory.md",
     "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114013139.png",
     "Excalidraw/The Doppler Effect.md",
     "Excalidraw/Hubble's law.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251121020751.png",
     "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251121020459.png",
     "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114005727.png",
