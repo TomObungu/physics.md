@@ -172,47 +172,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "7adb595e78472079",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1a29c91928e59e2d",
-        "type": "window",
-        "children": [
-          {
-            "id": "f8c01edd3245ed57",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "32e2acc05ceec321",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "32e2acc05ceec321",
+  "active": "62d305c8fb68171f",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Stars/Stellar luminosity.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Stars/Stellar luminosity.md",
     "OCR A Level Physics/Specification/Stars/The Hertzsprung-Russel diagram.md",
     "OCR A Level Physics/Specification/Cosomology/Astronomical distances.md",
     "OCR A Level Physics/Specification/Cosomology/Evolution Of the Universe 1.md",
