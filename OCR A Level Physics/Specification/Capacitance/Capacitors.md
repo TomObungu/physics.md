@@ -23,3 +23,5 @@ $$
 Q \propto V
 $$
 The unit Farad $1 F =  1$ coulomb per volt $CV^{-1}$.
+
+Watch here: https://www.youtube.com/watch?v=X4EUwTwZ110
