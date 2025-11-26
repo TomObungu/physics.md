@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Capacitance/Capacitors.md",
+                "file": "OCR A Level Physics/Specification/Capacitance/Capacitors In Circuits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capacitors"
+              "title": "Capacitors In Circuits"
             }
           }
         ]
@@ -212,6 +212,10 @@
   "active": "62d305c8fb68171f",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Capacitance/Capacitors In Circuits.md",
+    "OCR A Level Physics/Specification/Capacitance/attachments/Pasted image 20251126003007.png",
+    "OCR A Level Physics/Specification/Capacitance/attachments/Pasted image 20251126002904.png",
+    "OCR A Level Physics/Specification/Capacitance/attachments",
     "OCR A Level Physics/Specification/Capacitance/Capacitors.md",
     "OCR A Level Physics/Specification/Capacitance.md",
     "OCR A Level Physics/Specification/Capacitance",
@@ -242,20 +246,16 @@
     "OCR A Level Physics/Specification/Gravatational Fields/Kepler's laws.md",
     "OCR A Level Physics/In Lesson Notes/Untitled.md",
     "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114013647.png",
-    "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114013208.png",
     "Excalidraw/Drawing 2025-11-14 01.30.02.excalidraw.md",
     "Excalidraw/Drawing 2025-11-05 12.33.24.excalidraw.md",
     "OCR A Level Physics/Specification/Cosomology/Untitled",
-    "OCR A Level Physics/Specification/Cosomology/attachments/Pasted image 20251114011345.png",
     "OCR A Level Physics/Specification/Cosomology/attachments",
     "OCR A Level Physics/Specification/Stars/Energy levels in atoms.md",
     "Untitled.md",
     "Cosmology",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/7th November.md",
     "OCR A Level Physics/Specification/Stars/Analysing starlight.md",
     "OCR A Level Physics/Specification/Corrected Concepts/Gravitational Fields/Area under a graph of g against r.md",
-    "OCR A Level Physics/Specification/Corrected Concepts/Gravitational Fields/Finding impact velocity using Gravitational Potential.md",
     "Untitled.canvas"
   ]
 }

@@ -1,5 +1,6 @@
 Capacitors are electrical components in which charge is separated. A capacitor consists of two metallic plates separated from each other by an insulator, often known as a dielectric, such as air paper, ceramic or mica (natural silicate insulator). 
 
+A dielectric is an electrical insulator that can store energy in an electric field by becoming polarised. 
 ## Storing charge
 When a capacitor is connected to the cell, electrons flow for a short time and cause a brief current. The electrons cannot travel between the plates because of insulation. This very brief current means electrons are removed from plate A and deposited at plate B. Plate A gains a positive charge and plate B acquires a negative charge.  
 
@@ -24,4 +25,4 @@ Q \propto V
 $$
 The unit Farad $1 F =  1$ coulomb per volt $CV^{-1}$.
 
-Watch here: https://www.youtube.com/watch?v=X4EUwTwZ110
+Watch here: https://www.youtube.com/watch?v=X4EUwTwZ110&t=20s
