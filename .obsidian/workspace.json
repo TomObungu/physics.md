@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Capacitance/Capacitors In Circuits.md",
+                "file": "OCR A Level Physics/Specification/Capacitance/Discharging capacitors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capacitors In Circuits"
+              "title": "Discharging capacitors"
             }
           }
         ]
@@ -177,15 +177,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "c81dca4546e9b2a4",
+        "id": "f02a177ee3e74ea1",
         "type": "window",
         "children": [
           {
-            "id": "2f86813f66767408",
+            "id": "166bdef7b3ec73c4",
             "type": "tabs",
             "children": [
               {
-                "id": "d4eedb30174c8b44",
+                "id": "9797ecc599ebcb7a",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -212,9 +212,10 @@
   "active": "62d305c8fb68171f",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Capacitance/Discharging capacitors.md",
+    "OCR A Level Physics/Specification/Capacitance/Capacitors In Circuits.md",
     "OCR A Level Physics/Specification/Capacitance/Energy Stored by capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/Capacitors.md",
-    "OCR A Level Physics/Specification/Capacitance/Capacitors In Circuits.md",
     "OCR A Level Physics/Specification/Capacitance/attachments/Pasted image 20251126013503.png",
     "OCR A Level Physics/Specification/Capacitance/attachments/Pasted image 20251126012900.png",
     "OCR A Level Physics/Specification/Capacitance/attachments/Pasted image 20251126012506.png",
@@ -255,7 +256,6 @@
     "OCR A Level Physics/Specification/Stars/Energy levels in atoms.md",
     "Untitled.md",
     "Cosmology",
-    "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/7th November.md",
     "Untitled.canvas"
   ]
 }

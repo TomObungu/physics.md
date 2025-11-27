@@ -1,0 +1,1 @@
+Physical quantities that decrease by the same factor in equal time interval have a constant-ratio pattern us called exponential decay. 
