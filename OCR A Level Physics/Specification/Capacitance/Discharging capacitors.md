@@ -1,1 +1,1 @@
-Physical quantities that decrease by the same factor in equal time interval have a constant-ratio pattern us called exponential decay. 
+Physical quantities that decrease by the same factor in equal time interval have a constant-ratio pattern us called exponential decay. The p.d across a capacitor decreases exponentially over time 
