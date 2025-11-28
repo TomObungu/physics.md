@@ -15,7 +15,7 @@ Below are $V-t$, $I-t$ and $Q-t$ graphs. These graphs all show exponential decay
 
 The equations for these quantities are:
 $$
-V = V_{0}e^{\frac{1}{CR}} \qquad I = I_{0}e^{\frac{1}{CR}} \qquad Q=Q_{0}^{\frac{1}{CR}}
+V = V_{0}e^{\frac{-t}{CR}} \qquad I = I_{0}e^{\frac{-t}{CR}} \qquad Q=Q_{0}e^{\frac{-t}{CR}}
 $$
 Where $V_{0},I_{0}$ and $Q_{0}$ are the initial values for voltage, charge and current of the capacitor before being discharged and $RC$ is the time constant with value resistance multiplied by capacitance.
 # Constant-ratio property of exponential decay
@@ -33,7 +33,7 @@ As well as that we know that current is the rate of change of charge, thus $I=\f
 $$
 \frac{\Delta Q}{\Delta t} = -\frac{Q}{CR}
 $$
-The equation for exponential decay of charge is an solution to this equation. 
+The equation for exponential decay of charge is a solution to this equation. 
 
 # Iterative modelling
 The equation $\frac{\Delta Q}{\Delta t} = -\frac{Q}{CR}$ can be used for model the decay of $Q$ on the capacitor.
