@@ -23,7 +23,9 @@ Where $V_{0},I_{0}$ and $Q_{0}$ are the initial values for voltage, charge and c
  ![[Pasted image 20251127231748.png]]
 
 ## Time constant
-The time constant of a capacitor resistor circuit is equal to to the capacitance and resistance. In general the time constant $\tau$ is the time taken for the p.d or current to decrease to a value of $e^{-1}$
+The time constant of a capacitor resistor circuit is equal to to the capacitance and resistance. 
+
+In general the time constant $\tau$ is the time taken for the p.d or current to decrease to a value of $e^{-1}$. When the value of $x=x_{0}e^{-\frac{t}{RC}}$, $x$ be it charge, current or voltage will equal to $e^{-1}$ when the charge in the capacitor is fully discharged.
 # Modelling exponential decay
 As charge can be show that $I =\frac{V}{R}$ and $Q=VC$. Thus current may be written as:
 $$
@@ -52,9 +54,10 @@ An example table of the processes:
 Taking the equation $V=V_{0}e^{-\frac{t}{CR}}$:
 $$
 \begin{gather*}
-\ln V = \ln V_{0}e^{-\frac{t}{CR}} \\ \\
+\ln V = \ln (V_{0}e^{-\frac{t}{CR}}) \\ \\
 = \ln V_{0} + \ln e^{-\frac{t}{CR}} \\ \\
 = \ln V_{0}  - \frac{t}{CR}
 \end{gather*}
 $$
-Compare this with the equation of a straight line $u-mc+c$ a graph of $\ln V_{0}$ against $t$ gives gradient $-\frac{1}{CR}$ and y-intercept $V_{0}$
+
+Compare this with the equation of a straight line $y=mc+c$ a graph of $\ln V$ against $t$ gives gradient $-\frac{1}{CR}$ and y-intercept $V_{0}$
