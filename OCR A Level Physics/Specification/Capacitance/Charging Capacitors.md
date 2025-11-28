@@ -3,7 +3,7 @@ Electronic devices take in alternating voltage and convert them into smooth dire
 A battery provides constant e.m.f, $V_{0}$ , the capacitor has capacitance $C$ and the resistance has resistance $R$. When the switch closes, charge in the capacitor increases. Due to Kirchhoff's law, the p.d $V_{R}$ across the resistor and the p.d $V_{C}$ across the capacitor must add up to $V_{0}$.  So $V_{R}$ must decrease as $V_{C}$ increases with time. After some time, the capacitor will be fully charged with a p.d of $V_{0}$ and $V_{R}$ will be zero. When this happens $I$ in the circuit will be $0$.
 ![[Pasted image 20251127234939.png]]
 # Important equations
-The current $I$ in the circuit decrease exponentially and is given by:
+The current $I$ in the circuit decreases exponentially and is given by:
 $$
 I = I_{0}e^{-\frac{-t}{CR}}
 $$
