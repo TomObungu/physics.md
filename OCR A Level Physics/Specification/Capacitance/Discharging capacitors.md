@@ -36,4 +36,25 @@ $$
 The equation for exponential decay of charge is an solution to this equation. 
 
 # Iterative modelling
-The equation $\frac{\Delta Q}{\Delta t} = -\frac{Q}{CR}$ can be used for model the decay of $Q$ on the capacitor
+The equation $\frac{\Delta Q}{\Delta t} = -\frac{Q}{CR}$ can be used for model the decay of $Q$ on the capacitor.
+
+1. Start with a known value for the initial charge $Q_{0}$ and a known value for the time constant $CR$
+2. Choose a time interval $\Delta t$ which is small compared to the time constant
+3. Calculate the charge leaving the capacitor $\Delta Q$, in time interval $\Delta t$, using:
+$$
+\Delta Q = \frac{\Delta t}{CR} \times Q
+$$
+4. Calculate the charge $Q$ left on the capacitor at the end of the period $\Delta t$ by subtracting $\Delta Q$ from the previous stage
+5. Repeat the process 
+An example table of the processes:
+![[Pasted image 20251127234241.png]]
+## Dealing with logarithms and experimental results
+Taking the equation $V=V_{0}e^{-\frac{t}{CR}}$:
+$$
+\begin{gather*}
+\ln V = \ln V_{0}e^{-\frac{t}{CR}} \\ \\
+= \ln V_{0} + \ln e^{-\frac{t}{CR}} \\ \\
+= \ln V_{0}  - \frac{t}{CR}
+\end{gather*}
+$$
+Compare this with the equation of a straight line $u-mc+c$ a graph of $\ln V_{0}$ against $t$ gives gradient $-\frac{1}{CR}$ and y-intercept $V_{0}$
