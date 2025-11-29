@@ -5,7 +5,7 @@ For any two capacitors in parallel with capacitance $C_{1}$ and $C_{2}$ connecte
 ![[Pasted image 20251126003007.png]]
 
 
-- The p.d across each capacitor is the same
+- The p.d $V$ across each capacitor is the same
 - Electrical charge is conserved. The total charge is equal to the sum of the individual charge stored by the capacitors $Q=Q_{1} + Q_{2} + Q_{3}$ 
 - The total capacitance is the sum of the individual capacitance of the capacitors $C = C_{1} + C_{2} + C_{3}$
 ## Capacitors in Series
