@@ -172,15 +172,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+  "floating": {
+    "id": "7ece41ce3f457342",
+    "type": "floating",
+    "children": [
+      {
+        "id": "85e228620daa10c9",
+        "type": "window",
+        "children": [
+          {
+            "id": "992cfdd5f8f93c61",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "412a98ebd142db21",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "62d305c8fb68171f",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Capacitance/Charging Capacitors.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Capacitance/Discharging capacitors.md",
+    "OCR A Level Physics/Specification/Capacitance/Charging Capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/Capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/Capacitors In Circuits.md",
     "OCR A Level Physics/Specification/Capacitance/Uses Of capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/Energy Stored by capacitors.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Capacitance/attachments/Pasted image 20251128003417.png",
     "OCR A Level Physics/Specification/Capacitance/attachments/Pasted image 20251128001619.png",
     "OCR A Level Physics/Specification/Capacitance/attachments/Pasted image 20251128001244.png",

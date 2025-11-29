@@ -25,7 +25,9 @@ Where $V_{0},I_{0}$ and $Q_{0}$ are the initial values for voltage, charge and c
 ## Time constant
 The time constant of a capacitor resistor circuit is equal to to the capacitance and resistance. 
 
-In general the time constant $\tau$ is the time taken for the p.d or current to decrease to a value of $e^{-1}$. When the value of $x=x_{0}e^{-\frac{t}{RC}}$, $x$ be it charge, current or voltage will equal to $e^{-1}$ when the charge in the capacitor is fully discharged.
+In general the time constant $\tau$ is the time taken for the p.d or current to decrease to a value of the initial value multiplied by $e^{-1}$. When the value of $x=x_{0}e^{-\frac{t}{RC}}$, $x$ be it charge, current or voltage, will equal to $xe^{-1}$ when the charge in the capacitor is fully discharged.
+
+That is the time constant $RC$ is the time taken for the capacitor to be fully discharged
 # Modelling exponential decay
 As charge can be show that $I =\frac{V}{R}$ and $Q=VC$. Thus current may be written as:
 $$
