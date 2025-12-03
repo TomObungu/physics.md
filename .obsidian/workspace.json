@@ -172,14 +172,51 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "62d305c8fb68171f",
+  "floating": {
+    "id": "2cc62e7742538e64",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e7f75dfa73d0f1a5",
+        "type": "window",
+        "children": [
+          {
+            "id": "a76c9f07c7c48531",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "143d59940166451c",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "143d59940166451c",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Capacitance/Discharging capacitors.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Capacitance/Charging Capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/Capacitors In Circuits.md",
     "OCR A Level Physics/Specification/Capacitance/Capacitors.md",
     "OCR A Level Physics/Specification/Circular Motion/Exploring Centripetal Forces.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
-    "OCR A Level Physics/Specification/Capacitance/Discharging capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/Uses Of capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/Energy Stored by capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/attachments/Pasted image 20251128003417.png",
@@ -216,7 +253,6 @@
     "OCR A Level Physics/Specification/Gravatational Fields/Kepler's laws.md",
     "OCR A Level Physics/In Lesson Notes/Untitled.md",
     "Excalidraw/Drawing 2025-11-14 01.30.02.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-05 12.33.24.excalidraw.md",
     "OCR A Level Physics/Specification/Cosomology/Untitled",
     "OCR A Level Physics/Specification/Cosomology/attachments",
     "Cosmology",
