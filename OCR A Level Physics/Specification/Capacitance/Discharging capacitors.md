@@ -37,7 +37,7 @@ As well as that we know that current is the rate of change of charge, thus $I=\f
 $$
 \frac{\Delta Q}{\Delta t} = -\frac{Q}{CR}
 $$
-The equation for exponential decay of charge is a solution to this equation. 
+The equation for exponential decay of $Q=Q_{0}e^{\frac{-t}{RC}}$ of charge is a solution to this equation. 
 
 # Iterative modelling
 The equation $\frac{\Delta Q}{\Delta t} = -\frac{Q}{CR}$ can be used for model the decay of $Q$ on the capacitor.
