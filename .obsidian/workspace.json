@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Capacitance/Discharging capacitors.md",
+                "file": "OCR A Level Physics/Specification/Electric Fields/Electric Fields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discharging capacitors"
+              "title": "Electric Fields"
             }
           }
         ]
@@ -200,10 +200,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
@@ -212,6 +212,8 @@
   "active": "62d305c8fb68171f",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Electric Fields/Electric Fields.md",
+    "OCR A Level Physics/Specification/Electric Fields",
     "OCR A Level Physics/Specification/Capacitance/Discharging capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/Charging Capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/Capacitors In Circuits.md",
@@ -252,10 +254,8 @@
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/attachments",
     "OCR A Level Physics/Specification/Gravatational Fields/Kepler's laws.md",
     "OCR A Level Physics/In Lesson Notes/Untitled.md",
-    "Excalidraw/Drawing 2025-11-14 01.30.02.excalidraw.md",
     "OCR A Level Physics/Specification/Cosomology/Untitled",
     "OCR A Level Physics/Specification/Cosomology/attachments",
-    "Cosmology",
     "Untitled.canvas"
   ]
 }
