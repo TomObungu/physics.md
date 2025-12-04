@@ -204,15 +204,15 @@
         "y": 120,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "143d59940166451c",
+  "active": "62d305c8fb68171f",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Capacitance/Discharging capacitors.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Capacitance/Discharging capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/Charging Capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/Capacitors In Circuits.md",
     "OCR A Level Physics/Specification/Capacitance/Capacitors.md",
