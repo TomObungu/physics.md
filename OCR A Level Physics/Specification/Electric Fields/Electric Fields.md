@@ -11,7 +11,7 @@ Read here: https://www.noaa.gov/jetstream/lightning/how-lightning-is-created
 
 Lightning is as a result of a build of electric charge and the release of that energy.
 
-Lightning forms when separate positive and negative charged within a cloud. Clouds are small dust-born ice crystals and water molecules. During a storm, air is moving around and cause the particles within the cloud to collide. Charge begins to build when negatively charged electrons from upward moving water molecules are transferred to downwards moving, heaver ice and dust molecules. This causes the bottom of the storm cloud more negatively charged and the top of the storm cloud more positively charged. 
+Lightning forms when separate positive and negative charged within a cloud. Clouds are small dust-born ice crystals and water molecules. During a storm, air is moving around and causes the particles within the cloud to collide. Charge begins to build when negatively charged electrons from upward moving water molecules are transferred to downwards moving, heaver ice and dust molecules. This causes the bottom of the storm cloud more negatively charged and the top of the storm cloud more positively charged. 
 
 ![[lightn1 1.gif]]
 
@@ -34,9 +34,27 @@ As the difference in charge continues to increase, surface charges are polarised
 
 When that threshold is reached, the strength of the electric field overpowers the atmosphere's insulating properties and lighting results.
 
-A channel of negative charged called a 'stepped leader' will descend from the bottom of the storm cloud toward the ground due to electrostatic attraction. 
+A channel of negative charged called a 'stepped leader' will descend from the bottom of the storm cloud toward the ground due to electrostatic attraction. 'Stepped leaders' will descend from the ground at about 50 meters per microsecond. Meanwhile, the approaching positively charged channel is called a 'streamer'.
 
 ![[strike2 1.png]]
+
+The stepped leader only sense charges within about 50 meters of the leader tip. As a result the stepped leader surges ahead 50 meters based solely on the charges in the air immediate surrounding the tip. Each surge of charge of leader causes repeated ionisation of the air molecules and produces a small flash of light. 
+
+Ionisation causes electrons to be removed from the atom in molecules in the air. As these electrons are removed from the atoms, they release energy in the form of light. This what gives lightning its luminosity.
+
+Read here: https://www.weather.gov/safety/lightning-science-initiation-stepped-leader
+
+![[Animation_9a.gif]]
+
+Read here: https://www.noaa.gov/jetstream/lightning/how-lightning-is-created/jetstream-max-lightning-process-keeping-in-step
+
+When a stepped leader reaches out to a 'streamer' and connects. The resulting electrical transfer causes more ionisation of air molecules and is what we see as lightning 
+
+![[strike3(1).png]]
+
+It is the electric field that causes the negatively charged particles to accelerate through the air.
+
+![[Animation_6a.gif]]
 ## Detecting electric fields
 Electrons and protons are charged particles. Both create electric fields and so affect each other. A gold leaf will become positively charged when in momentary contact will a positively charged ball. The gold leaf monetarily transfers negatively electrons to the positively charged ball however overall charge of the ball does not change. 
 
