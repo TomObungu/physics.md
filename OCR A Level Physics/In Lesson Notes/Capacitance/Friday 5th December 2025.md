@@ -13,7 +13,8 @@ $$
 I_{T} = I_{1} + I_{2} + I_{3} \dots (\text{Kirchoff's first law}) \\ \\ 
 Q \propto I \\ \\
 \therefore Q_{T} = Q_{1} + Q_{2} + Q_{3} \dots \\ \\
-Q_{T} = V_{T}C_{T} \\ \\
-\therefore  V_{T}C_{T} =  V__{}
+Q_{T} = VC_{T} \\ \\ (\text{Voltage is the same in a parallel circuit}) \\ \\
+\therefore  VC_{T} =  VC_{1} + VC_{2} +VC_{3}\dots \\ \\
+\therefore C_{T} = C_{1} + C_{2} + C_{3}\dots
 \end{gather*} 
 $$
