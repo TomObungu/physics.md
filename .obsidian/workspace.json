@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "427a6b0273d9000e",
+        "id": "c769e52501721389",
         "type": "tabs",
         "children": [
           {
-            "id": "62d305c8fb68171f",
+            "id": "99c4ac350edc38c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OCR A Level Physics/In Lesson Notes/News article.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "News article"
+              "title": "New tab"
             }
           }
         ]
@@ -209,15 +205,15 @@
       }
     ]
   },
-  "active": "143d59940166451c",
+  "active": "88f988dc27e44943",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Capacitance/Capacitors.md",
-    "OCR A Level Physics/In Lesson Notes/News article.md",
+    "OCR A Level Physics/In Lesson Notes/Capacitance/News article.md",
     "OCR A Level Physics/Specification/Capacitance/Charging Capacitors.md",
     "OCR A Level Physics/In Lesson Notes/Capacitance/Friday 5th December 2025.md",
     "OCR A Level Physics/Specification/Capacitance/Capacitors In Circuits.md",
     "OCR A Level Physics/In Lesson Notes/Capacitance",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Capacitance/Energy Stored by capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/Discharging capacitors.md",
     "OCR A Level Physics/Specification/Electric Fields/Coulomb's law.md",
@@ -255,7 +251,6 @@
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/19th November",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/Untitled",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/14th November 2025.md",
-    "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/12th November.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/attachments",
     "Untitled.canvas"
   ]
