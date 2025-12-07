@@ -64,7 +64,7 @@ $$
 E = \frac{F}{Q}
 $$
 
-where $F$ is the force experience by the positive charged $Q$. The $SI$ unit for electric field strength is $NC$.
+where $F$ is the force experience by the positive charged $Q$. The $SI$ unit for electric field strength is $NC^{-1}$.
 
 As electric field strength is a vector, the direction of the electric field is the direction in which a positive charge would move when placed at the point. Electric fields point away from positive charges and towards negative charged. 
 

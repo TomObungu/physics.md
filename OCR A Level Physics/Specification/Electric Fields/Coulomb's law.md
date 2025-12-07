@@ -10,10 +10,24 @@ and:
 $$
 F \propto \frac{1}{r^{2}}
 $$
+
 Thus we can write the equation as:
 $$
 F = k \frac{Qq}{r^{2}}
 $$
+And we can also deduce that:
+$$
+\begin{gather*}
+\frac{F}{\frac{Qq}{r^{2}}} = k \\ \\ 
+\frac{Fr^{2}}{Qq} = k
+\end{gather*}
+$$
+Therefore:
+$$
+\frac{F_{1}r_{1}^{2}}{Q_{1}q_{1}} = \frac{F_{2}r_{2}^{2}}{Q_{2}q_{2}}
+$$
+
+
 The value of $k$ is the permittivity of free space $\varepsilon_{0}$.  $\varepsilon_{0}$ is equal to :
 $$
  k =\frac{1}{4\pi\varepsilon_{0}} = 8.85 \times 10 ^{-12}

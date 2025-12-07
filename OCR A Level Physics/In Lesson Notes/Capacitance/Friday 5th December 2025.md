@@ -3,7 +3,7 @@ $$
 \begin{gather*} 
 V_{T} = V_{1} + V_{2} + V_{3} \dots \text{(Kirchoff's second law)} \\ \\ 
 V = \frac{Q}{C} \\ \\
-\therefore V= \frac{Q}{C_{T}}  = \frac{Q}{C_{1}} +\frac{Q}{C_{2}} + \frac{Q}{C_{3}}\dots \\ \\
+\therefore V= \frac{Q}{C_{T}}  = \frac{Q}{C_{1}} +\frac{Q} {C_{2}} + \frac{Q}{C_{3}} \dots\text{ (Current is constant in series circuit) } \\ \\
 \therefore \frac{1}{C_{T}} = \frac{1}{C_{1}} + \frac{1}{C_{2}} + \frac{1}{C_{3}}\dots
 \end{gather*}
 $$
