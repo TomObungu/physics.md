@@ -4,6 +4,8 @@ Some calculators and digital clocks use liquid crystal displays. The display is 
 
 # Electric field between two parallel plates
 Two oppositely charged parallel plates produce a uniform electric field in the region between the plates.
+
+For an ideal parallel-plate capacitor, the electric field between the plates is uniform, however near the edges (Fringing Field): The field lines curve outwards at the edges of the plates.
 ![[Pasted image 20251208161430.png]]
  The electric field strength $E$ for the arrangement is uniform and is related to the $V$ across the plates and their separation $d$.  A small test charge $Q$ will experience a constant force $F$ given by the equation $F=EQ$.  The charge will gain energy as it moves from the positive plate to the negative plate. 
 
