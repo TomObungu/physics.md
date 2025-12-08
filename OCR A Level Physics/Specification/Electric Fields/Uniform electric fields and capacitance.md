@@ -1,2 +1,2 @@
 ## LCD Displays
-Some calculators and digital clocks use liquid crystal displays. The display is formed by applying electric fields across the display. When there is a current across the conductive later, the liquid crystals in the layer respond to the current's uniform electri 
+Some calculators and digital clocks use liquid crystal displays. The display is formed by applying electric fields across the display. When there is a current across the conductive later, the liquid crystals in the layer respond to the current's uniform electric 
