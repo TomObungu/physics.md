@@ -177,15 +177,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "01ac12db891db6c3",
+        "id": "592f0203ed7c1e18",
         "type": "window",
         "children": [
           {
-            "id": "87a5023f8d0c0a7b",
+            "id": "6d0f80f7f29e8cc6",
             "type": "tabs",
             "children": [
               {
-                "id": "f5f9367dd7980049",
+                "id": "0180b43a400f5f96",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -211,17 +211,22 @@
   },
   "active": "99c4ac350edc38c5",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Capacitance/Capacitors.md",
     "OCR A Level Physics/Specification/Electric Fields/Uniform electric fields and capacitance.md",
-    "OCR A Level Physics/Specification/Electric Fields/Coulomb's law.md",
     "OCR A Level Physics/Specification/Electric Fields/Electric Fields.md",
+    "OCR A Level Physics/Specification/Electric Fields/Coulomb's law.md",
+    "OCR A Level Physics/Specification/Electric Fields/attachments/Pasted image 20251208170501.png",
+    "OCR A Level Physics/Specification/Electric Fields/attachments/Pasted image 20251208165225.png",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Electric Fields/attachments/Pasted image 20251208162136.png",
+    "OCR A Level Physics/Specification/Electric Fields/attachments/Pasted image 20251208161430.png",
+    "OCR A Level Physics/Specification/Electric Fields/attachments/Pasted image 20251208161146.png",
     "OCR A Level Physics/Specification/Ideal Gases/Gas laws.md",
     "OCR A Level Physics/Specification/Ideal Gases/The kinetic theory of gases.md",
     "OCR A Level Physics/Specification/Circular Motion/Exploring Centripetal Forces.md",
     "OCR A Level Physics/Specification/Circular Motion/Centripetal Acceleration.md",
     "OCR A Level Physics/Specification/Circular Motion/Angular Velocity and The Radian.md",
     "OCR A Level Physics/In Lesson Notes/Capacitance/Friday 5th December 2025.md",
-    "OCR A Level Physics/Specification/Capacitance/Capacitors.md",
     "OCR A Level Physics/In Lesson Notes/Capacitance/News article.md",
     "OCR A Level Physics/Specification/Capacitance/Charging Capacitors.md",
     "OCR A Level Physics/Specification/Capacitance/Capacitors In Circuits.md",
@@ -233,11 +238,6 @@
     "OCR A Level Physics/Specification/Electric Fields/attachments/Pasted image 20251204180529.png",
     "OCR A Level Physics/Specification/Electric Fields/attachments/Pasted image 20251204175943.png",
     "OCR A Level Physics/Specification/Electric Fields/attachments/Pasted image 20251204175830.png",
-    "OCR A Level Physics/Specification/Electric Fields/attachments/Pasted image 20251204174729.png",
-    "OCR A Level Physics/Specification/Electric Fields/attachments/Pasted image 20251204122828.png",
-    "OCR A Level Physics/Specification/Electric Fields/attachments/Animation_6a.gif",
-    "OCR A Level Physics/Specification/Electric Fields/attachments/strike3(1).png",
-    "OCR A Level Physics/Specification/Electric Fields/attachments/Animation_9a.gif",
     "OCR A Level Physics/Specification/Electric Fields/attachments",
     "OCR A Level Physics/Specification/Electric Fields",
     "OCR A Level Physics/Specification/Capacitance/Uses Of capacitors.md",
