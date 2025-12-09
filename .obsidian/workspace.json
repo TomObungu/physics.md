@@ -200,16 +200,47 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 960,
         "y": 0,
         "width": 960,
         "height": 1040,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "fa39d8433f10e24e",
+        "type": "window",
+        "children": [
+          {
+            "id": "eb2a66c4a9b0b10e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bbca71fecb673c57",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "99c4ac350edc38c5",
+  "active": "bbca71fecb673c57",
   "lastOpenFiles": [
     "OCR A Level Physics/Specification/Electric Fields/corrected quesitons/Q. Draw the electric field pattern between the two plates.md",
     "OCR A Level Physics/Specification/Electric Fields/Uniform electric fields and capacitance.md",
