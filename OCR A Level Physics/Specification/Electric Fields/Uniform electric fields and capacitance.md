@@ -57,7 +57,7 @@ C = k \frac{A}{d}
 $$
 The constant of proportionality of this relationship is the permittivity of free space free space $\varepsilon_{0}$ . Thus the equation for the capacitance of a parallel plate capacitor is:
 $$
-C = \frac{\varepsilon_{0} a}{d}
+C = \frac{\varepsilon_{0} A}{d}
 $$
 ## But what is permittivity? 
 Permittivity is the measure of a material's ability to oppose the formation of an electric field within. It quantifies how easily an electric field can be permitted to form in a substance.

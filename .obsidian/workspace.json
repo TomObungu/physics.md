@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Electric Fields/Determining the permittivity of free space.md",
+                "file": "OCR A Level Physics/Specification/Electric Fields/Uniform electric fields and capacitance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Determining the permittivity of free space"
+              "title": "Uniform electric fields and capacitance"
             }
           }
         ],
@@ -187,19 +187,59 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5090b7ae1481c004",
+  "floating": {
+    "id": "2cc62e7742538e64",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2ec0b3fd495c6f0c",
+        "type": "window",
+        "children": [
+          {
+            "id": "7c8ac44d31f9d73f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5daab34854f5b256",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5daab34854f5b256",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Electric Fields/Uniform electric fields and capacitance.md",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential Energy.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Field Strength/Area under a graph of g against r.md",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Field Strength/Gravitational field strength for a point mass.md",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential/Gravitational Potential.md",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Field Strength",
+    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential/Finding impact velocity using Gravitational Potential.md",
     "OCR A Level Physics/Specification/Electric Fields/Determining the permittivity of free space.md",
-    "OCR A Level Physics/Specification/Corrected Concepts/Gravitational Fields/Area under a graph of g against r.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential",
-    "OCR A Level Physics/Specification/Corrected Concepts/Gravitational Fields/Finding impact velocity using Gravitational Potential.md",
     "OCR A Level Physics/Specification/Ideal Gases/Gas laws.md",
     "Untitled.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Newton's law of gravitation.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential/Gravitational Potential.md",
     "OCR A Level Physics/Specification/Capacitance/Discharging capacitors.md",
-    "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential Energy.md",
     "OCR A Level Physics/In Lesson Notes/Electric Fields/10th December 2025.md",
     "OCR A Level Physics/Specification/Electric Fields/Coulomb's law.md",
     "OCR A Level Physics/Specification/Electric Fields/Electric Fields.md",
@@ -207,7 +247,6 @@
     "OCR A Level Physics/In Lesson Notes/Electric Fields",
     "OCR A Level Physics/Specification/Electric Fields/corrected quesitons/Q. Find the electric field strength at points 5cm and 10cm above the lower plate, stating the direction..md",
     "OCR A Level Physics/Specification/Electric Fields/corrected quesitons/Q. Draw the electric field pattern between the two plates.md",
-    "OCR A Level Physics/Specification/Electric Fields/Uniform electric fields and capacitance.md",
     "OCR A Level Physics/Specification/Electric Fields/corrected quesitons/attachments/Pasted image 20251208181544.png",
     "OCR A Level Physics/Specification/Electric Fields/Millikan's experiment revisited.md",
     "OCR A Level Physics/Specification/Electric Fields/corrected quesitons/attachments/Pasted image 20251208181152.png",
@@ -228,12 +267,10 @@
     "OCR A Level Physics/Specification/Circular Motion/Angular Velocity and The Radian.md",
     "OCR A Level Physics/In Lesson Notes/Capacitance/News article.md",
     "OCR A Level Physics/Specification/Capacitance/Charging Capacitors.md",
-    "OCR A Level Physics/Specification/Capacitance/Capacitors In Circuits.md",
     "OCR A Level Physics/In Lesson Notes/Capacitance",
     "OCR A Level Physics/Specification/Electric Fields/attachments",
     "OCR A Level Physics/Specification/Electric Fields",
     "OCR A Level Physics/Specification/Capacitance/attachments",
-    "OCR A Level Physics/Specification/Capacitance",
     "Untitled.canvas"
   ]
 }
