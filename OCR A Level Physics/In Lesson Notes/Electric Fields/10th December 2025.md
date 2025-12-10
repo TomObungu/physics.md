@@ -12,3 +12,8 @@ Much like a gravatational field, we use
 	- Normal to the charge object
 		- Ensure that lines first come out straight and  perpendicular 
 	- Uniform fields must be straight but curve outwards at the edges of the uniform field. 
+
+## Electric field lines directions
+- Electric fields can be repulse or attractive
+	- If the electric field is negative this means, that the two test charges are opposite charges so the force will be in opposite directions and attractive them
+- 
