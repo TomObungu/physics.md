@@ -39,6 +39,8 @@ You can predict the motion of the particle in the electric field by analysing it
 ### Horizontal Motion of particle
 - There is no acceleration, hence the horizontal velocity $V_{H}$ of the particle remains constant, with velocity $v$
 - The time spent is equal $t=\frac{L}{v}$ where $L$ is the horizontal length the electron travels in the uniform electric field
+	- However the electron will not always strike the lower plate after time $t$:
+		![[Pasted image 20251211043957.png]]
 
 ## Vertical Motion of particle
 - The vertical acceleration $a$ of the particle is given by the equation:
