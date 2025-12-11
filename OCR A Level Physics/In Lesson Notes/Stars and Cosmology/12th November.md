@@ -8,7 +8,7 @@ The higher the frequency of black body radiation emitted will yield each photon 
 $$
 \Delta E = hf
 $$
-We know that. This is the inverse square law@
+We know that. This is the inverse square law
 $$
 I = \frac{P}{4\pi r^{2}}
 $$

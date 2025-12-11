@@ -11,10 +11,14 @@
             "id": "99c4ac350edc38c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OCR A Level Physics/In Lesson Notes/Electric Fields/10th December 2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "10th December 2025"
             }
           },
           {
@@ -219,8 +223,15 @@
       }
     ]
   },
-  "active": "5daab34854f5b256",
+  "active": "99c4ac350edc38c5",
   "lastOpenFiles": [
+    "OCR A Level Physics/In Lesson Notes/Induction Lesson.md",
+    "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/5 November 2025.md",
+    "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/12th November.md",
+    "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/7th November.md",
+    "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/14th November 2025.md",
+    "OCR A Level Physics/Specification/Cosomology/The Doppler Effect.md",
+    "OCR A Level Physics/Specification/Cosomology/Hubble's law.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Electric Fields/Uniform electric fields and capacitance.md",
     "OCR A Level Physics/Specification/Electric Fields/Electric Potential and Electric Potential Energy.md",
@@ -254,15 +265,9 @@
     "OCR A Level Physics/Specification/Ideal Gases/Gas laws.md",
     "Untitled.md",
     "OCR A Level Physics/Specification/Capacitance/Discharging capacitors.md",
-    "OCR A Level Physics/In Lesson Notes/Electric Fields/10th December 2025.md",
-    "OCR A Level Physics/In Lesson Notes/Capacitance/Friday 5th December 2025.md",
     "OCR A Level Physics/In Lesson Notes/Electric Fields",
-    "OCR A Level Physics/Specification/Electric Fields/corrected quesitons/Q. Find the electric field strength at points 5cm and 10cm above the lower plate, stating the direction..md",
-    "OCR A Level Physics/Specification/Electric Fields/corrected quesitons/Q. Draw the electric field pattern between the two plates.md",
     "OCR A Level Physics/Specification/Electric Fields/corrected quesitons/attachments",
     "OCR A Level Physics/Specification/Electric Fields/corrected quesitons",
-    "OCR A Level Physics/Specification/Capacitance/Capacitors.md",
-    "OCR A Level Physics/Specification/Ideal Gases/The kinetic theory of gases.md",
     "OCR A Level Physics/In Lesson Notes/Capacitance",
     "OCR A Level Physics/Specification/Electric Fields/attachments",
     "OCR A Level Physics/Specification/Electric Fields",
