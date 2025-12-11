@@ -220,11 +220,44 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "9cd028bdb46425b9",
+        "type": "window",
+        "children": [
+          {
+            "id": "730468e4a2d7deea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "377b9e20ef7a2315",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "99c4ac350edc38c5",
+  "active": "377b9e20ef7a2315",
   "lastOpenFiles": [
+    "OCR A Level Physics/In Lesson Notes/Electric Fields/10th December 2025.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/In Lesson Notes/Induction Lesson.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/5 November 2025.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/12th November.md",
@@ -232,7 +265,6 @@
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/14th November 2025.md",
     "OCR A Level Physics/Specification/Cosomology/The Doppler Effect.md",
     "OCR A Level Physics/Specification/Cosomology/Hubble's law.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Electric Fields/Uniform electric fields and capacitance.md",
     "OCR A Level Physics/Specification/Electric Fields/Electric Potential and Electric Potential Energy.md",
     "OCR A Level Physics/Specification/Electric Fields/Electric Fields.md",
@@ -263,8 +295,6 @@
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential/Finding impact velocity using Gravitational Potential.md",
     "OCR A Level Physics/Specification/Gravatational Fields/Gravitational Potential",
     "OCR A Level Physics/Specification/Ideal Gases/Gas laws.md",
-    "Untitled.md",
-    "OCR A Level Physics/Specification/Capacitance/Discharging capacitors.md",
     "OCR A Level Physics/In Lesson Notes/Electric Fields",
     "OCR A Level Physics/Specification/Electric Fields/corrected quesitons/attachments",
     "OCR A Level Physics/Specification/Electric Fields/corrected quesitons",
