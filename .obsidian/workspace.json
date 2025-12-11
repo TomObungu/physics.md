@@ -245,19 +245,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "377b9e20ef7a2315",
+  "active": "99c4ac350edc38c5",
   "lastOpenFiles": [
-    "OCR A Level Physics/In Lesson Notes/Electric Fields/10th December 2025.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/In Lesson Notes/Electric Fields/10th December 2025.md",
     "OCR A Level Physics/In Lesson Notes/Induction Lesson.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/5 November 2025.md",
     "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/12th November.md",
