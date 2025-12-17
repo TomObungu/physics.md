@@ -191,37 +191,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "2ec0b3fd495c6f0c",
-        "type": "window",
-        "children": [
-          {
-            "id": "7c8ac44d31f9d73f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5daab34854f5b256",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "9cd028bdb46425b9",
         "type": "window",
         "children": [
@@ -254,10 +223,10 @@
       }
     ]
   },
-  "active": "5daab34854f5b256",
+  "active": "377b9e20ef7a2315",
   "lastOpenFiles": [
-    "OCR A Level Physics/In Lesson Notes/Electric Fields/12th December.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/In Lesson Notes/Electric Fields/12th December.md",
     "OCR A Level Physics/In Lesson Notes/Electric Fields/attachments/Pasted image 20251212100525.png",
     "Excalidraw/Drawing 2025-11-05 12.33.24.excalidraw.md",
     "OCR A Level Physics/Specification/Electric Fields/Electric Potential and Electric Potential Energy.md",
