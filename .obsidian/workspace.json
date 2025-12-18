@@ -186,44 +186,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "2cc62e7742538e64",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9cd028bdb46425b9",
-        "type": "window",
-        "children": [
-          {
-            "id": "730468e4a2d7deea",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "377b9e20ef7a2315",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "377b9e20ef7a2315",
+  "active": "99c4ac350edc38c5",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/In Lesson Notes/Electric Fields/12th December.md",
