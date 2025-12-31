@@ -16,3 +16,9 @@ A graph of $h$ against $t^{2}$ will be a straight line with a gradient equal to 
 $$
 g = 2 \times \text{gradient}
 $$
+
+## Using light gates and taking pictures
+You can determine the speed of a falling object, for example, a metal plate, using a light gate connected to either a timer or a data logger. This can be used to calculate a value for $g$. 
+
+You can also take stroboscopic images of a falling object. The images of the falling object are taken at regular intervals. The equation of the motion $s=ut + \frac{1}{2}at^{2}$ can be used to determine $g$. 
+
