@@ -1,0 +1,3 @@
+- Centre Of Gravity - The point in where the entire weight of the object appears to act
+- Centre of mass - The point through which any externally applied force produces straight-line motion. - 
+- Pressure is the **normal force** exerted on a surface per unit cross-sectional area:

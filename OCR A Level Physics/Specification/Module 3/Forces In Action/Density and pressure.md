@@ -12,7 +12,7 @@ In order to determine the density, you need to determine the mass of the substan
 - If the solid is regular, its volume can be determine from the water displaced when it is completely submerged. The volume of the displaced water can be measured directly using a measuring cylinder
 
 # Pressure
-The pressure is the **normal force** exerted on a surface per unit cross-sectional area:
+Pressure is the **normal force** exerted on a surface per unit cross-sectional area:
 $$
 \text{pressure} = \frac{\text{normal force}}{\text{cross sectional area}}
 $$
