@@ -78,7 +78,7 @@
 - Investigating drag: [[Drag and terminal velocity]]
 	- Question links:
 		- Q17: https://www.ocr.org.uk/Images/621258-question-paper-modelling-physics.pdf
-		- 
+		- Q9: https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Fpmt.physicsandmathstutor.com%2Fdownload%2FPhysics%2FA-level%2FTopic-Qs%2FOCR-A%2F3-Forces-and-Motion%2F3.2-Forces-in-Action%2FSet-O%2F3.2%20Forces%20in%20Action%20-%20Equilibrium%20QP.pdf
 - Investigating Hooke's law: [[Springs and Hooke's law]]
 	- Question links:
 		- Q2: https://www.ocr.org.uk/Images/493463-question-paper-depth-in-physics.pdf
