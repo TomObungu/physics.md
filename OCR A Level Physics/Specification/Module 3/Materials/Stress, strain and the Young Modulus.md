@@ -36,7 +36,7 @@ The stress point labelled UTS represents the ultimate tensile strength. This is 
 
 Beyond this point, necking occurs - a process where the material becomes longer and thinner at its weakest point. The material eventually snaps at its breaking point, labelled B. The stress value at the point of fracture is known as the breaking strength of the material. 
 
-A strong material is one with a high ultimate tensile strength. For example copper is stronger than lead, but mild steel is stronger than copper. This means mild steel has a higher ultimate tensile strength than copper.#
+A strong material is one with a high ultimate tensile strength. For example copper is stronger than lead, but mild steel is stronger than copper. This means mild steel has a higher ultimate tensile strength than copper.
 
 ## The Young Modulus E
 #YoungModulus 
