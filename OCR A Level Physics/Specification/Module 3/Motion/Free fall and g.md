@@ -22,3 +22,9 @@ You can determine the speed of a falling object, for example, a metal plate, usi
 
 You can also take stroboscopic images of a falling object. The images of the falling object are taken at regular intervals. The equation of the motion $s=ut + \frac{1}{2}at^{2}$ can be used to determine $g$. 
 
+
+# Motion graphs for a projectile a free fall
+- Below are the graphs of motion for an elastic projectile that is released with initial velocity and air resistance is negligible. 
+
+- The graphs show the motion of the ball reaching its maximum height before accelerating in free fall. 
+ ![[Pasted image 20260101140801.png]]
