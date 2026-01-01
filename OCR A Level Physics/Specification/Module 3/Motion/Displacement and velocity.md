@@ -10,4 +10,12 @@ v  = \frac{\Delta s}{\Delta t}
 $$
 
 # Displacement-time graph
-- The gradient of a s-t graph is equal to the velocity
+- A curved line on a displacement time graph indicates accelerating motion
+![[Pasted image 20260101135545.png]]
+
+
+# Velocity-time graph
+- A curved line on a **velocity** time graph indicates non-uniform acceleration
+- A straight line with a gradient represents uniform acceleration
+- A straight horizontal line represents constant velocity.
+![[Pasted image 20260101135658.png]]
