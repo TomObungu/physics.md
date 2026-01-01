@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 3/Materials/6.1 Springs and Hooke's law.md",
+                "file": "OCR A Level Physics/Specification/Module 3/Materials/Springs and Hooke's law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.1 Springs and Hooke's law"
+              "title": "Springs and Hooke's law"
             }
           }
         ],
@@ -230,9 +230,9 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 0,
+        "y": 520,
         "width": 960,
-        "height": 1040,
+        "height": 520,
         "maximize": false,
         "zoom": 0
       },
@@ -263,7 +263,7 @@
         "x": 0,
         "y": 0,
         "width": 960,
-        "height": 1040,
+        "height": 520,
         "maximize": false,
         "zoom": 0
       }
@@ -271,13 +271,17 @@
   },
   "active": "e11c8628ac3bb3c4",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 3/Materials/attachments/Pasted image 20260101034904.png",
+    "OCR A Level Physics/Specification/Module 3/Materials/attachments/Pasted image 20260101034807.png",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 3/Materials/Springs and Hooke's law.md",
+    "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Kinetic energy and gravitational potential Energy.md",
+    "OCR A Level Physics/Specification/Module 3/Work, Energy and power/attachments/Pasted image 20260101033923.png",
     "OCR A Level Physics/Specification/Module 3/Materials/Deforming Materials.md",
-    "OCR A Level Physics/Specification/Module 3/Materials/6.1 Springs and Hooke's law.md",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Power and efficiency.md",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/attachments/Pasted image 20260101032308.png",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Conservation Of energy.md",
-    "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Kinetic energy and gravitational potential Energy.md",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/attachments/Pasted image 20260101031556.png",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Work done and energy.md",
     "OCR A Level Physics/Specification/Module 3/Definitions and practicals.md",
@@ -295,7 +299,6 @@
     "OCR A Level Physics/Specification/Module 3/Forces In Action/Free-body diagram.md",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/attachments/Pasted image 20260101024358.png",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/attachments",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/attachments/Pasted image 20260101012751.png",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/attachments/Pasted image 20260101012743.png",
@@ -303,8 +306,6 @@
     "OCR A Level Physics/Specification/Module 3/Forces In Action/attachments/Pasted image 20260101011823.png",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/Triangle of forces.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/attachments/Pasted image 20260101010659.png",
-    "OCR A Level Physics/Specification/Module 3/Forces In Action/attachments/Pasted image 20260101010049.png",
-    "OCR A Level Physics/Specification/Module 3/Forces In Action/attachments/Pasted image 20260101005815.png",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/attachments",
     "OCR A Level Physics/Specification/Module 3/Forces In Action",
     "OCR A Level Physics/Specification/Module 3/Fo.md",
@@ -316,7 +317,6 @@
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/Temperature.md",
     "OCR A Level Physics/Specification/Module 6",
     "OCR A Level Physics/Specification/Module 3",
-    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Solids, liquids and gases.md",
     "Untitled.canvas"
   ]
 }
