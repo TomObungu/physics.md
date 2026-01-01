@@ -25,6 +25,14 @@ $$
 F = kx
 $$
 The value $k$ is a constant for the spring known as the force constant. The unit is $Nm^{-1}$
+This means that:
+$$
+\frac{F}{x} = k 
+$$
+Therefore:
+$$
+\frac{F_{1}}{x_{1}} = \frac{F_{2}}{x_{2}}
+$$
 
 
 # Investigating Hooke's Law
