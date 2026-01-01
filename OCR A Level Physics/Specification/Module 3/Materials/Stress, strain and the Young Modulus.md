@@ -87,7 +87,7 @@ The Young Modulus is the gradient of the linear section of the graph.
 ![[Pasted image 20250826121230.png]]
 
 ## Stress-strain graphs
-Stress-strain graph for a **brittle material**, e.g. cast iron or glass. A brittle material shows elastic behavior up to its braking point, without any plastic deformation. 
+Stress-strain graph for a **brittle material**, e.g. cast iron or glass. A brittle material shows elastic behavior up to its breaking point, without any plastic deformation. 
 ![[Pasted image 20250826120855.png]]
 Stress-strain graph for polymeric material -  material the consists of long molecular chains. e.g. rubber or polythene. Both rubber and polythene can stretch a great deal however rubber is elastic behavior with a hysteresis loop whilst polythene shows plastic behavior.
 ### Rubber
