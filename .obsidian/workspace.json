@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 3/Forces In Action/Centre Of Mass.md",
+                "file": "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/Q. Which diagram shows the correct v-t graph in the new situation?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Centre Of Mass"
+              "title": "Q. Which diagram shows the correct v-t graph in the new situation?"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Displacement and velocity"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,14 +268,19 @@
       }
     ]
   },
-  "active": "619f7484787039c9",
+  "active": "99c4ac350edc38c5",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 3/Motion/Car stopping distances.md",
+    "OCR A Level Physics/Specification/Module 3/Motion/Untitled.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/Q. Which diagram shows the correct v-t graph in the new situation?.md",
+    "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments/Pasted image 20260101120658.png",
+    "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 3/Forces In Action/Centre Of Mass.md",
     "OCR A Level Physics/Specification/Module 3/Motion/Displacement and velocity.md",
     "OCR A Level Physics/Specification/Module 3/Motion/Distance and speed.md",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/Q. Determine the value of g from light gate and small ball.md",
-    "OCR A Level Physics/Specification/Module 3/Motion/Untitled.md",
     "OCR A Level Physics/Specification/Module 3/Motion/corrected questions",
     "OCR A Level Physics/Specification/Module 3/Motion/attachments/Pasted image 20260101110002.png",
     "OCR A Level Physics/Specification/Module 5/Gravatational Fields/corrected questions/Q. A scientist uses a rocket to study the Earth's atmosphere.md",
@@ -293,7 +297,6 @@
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Conservation Of energy.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/Moments and equilibrium.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/Archimedes Princple.md",
-    "OCR A Level Physics/Specification/Module 3/Motion/Car stopping distances.md",
     "OCR A Level Physics/Specification/Module 3/Motion/Free fall and g.md",
     "OCR A Level Physics/Specification/Module 3/Motion/Projectile Motion.md",
     "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum/Linear Momentum.md",
@@ -301,22 +304,17 @@
     "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum/Collisions in two dimensions.md",
     "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum/attachments/Pasted image 20260101084253.png",
     "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum/attachments/Pasted image 20260101083943.png",
-    "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum/Newton's second law of motion.md",
-    "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum/Newton's first and third laws of motion.md",
     "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum/attachments/Pasted image 20260101082257.png",
     "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum/attachments",
     "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum",
     "OCR A Level Physics/Specification/Module 3/Materials/attachments/Pasted image 20260101040435.png",
     "OCR A Level Physics/Specification/Module 3/Materials/attachments/Pasted image 20260101034904.png",
     "OCR A Level Physics/Specification/Module 3/Materials/attachments/Pasted image 20260101034807.png",
-    "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Kinetic energy and gravitational potential Energy.md",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/attachments/Pasted image 20260101033923.png",
-    "OCR A Level Physics/Specification/Module 3/Work, Energy and power/attachments/Pasted image 20260101032308.png",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/attachments",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/attachments",
     "OCR A Level Physics/Specification/Module 3/Forces In Action",
-    "OCR A Level Physics/Specification/Module 3/Motion/attachments",
     "Untitled.canvas"
   ]
 }
