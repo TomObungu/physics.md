@@ -5,4 +5,5 @@ $$
 \text{work done} = \text{energy transferd}
 $$
 # Principle of conservation of energy 
-The principle 
+The principle of conservation of energy states that the total energy of a closed system remains constant - energy can never be created or destroyed, but it can be transferred from one to another. 
+

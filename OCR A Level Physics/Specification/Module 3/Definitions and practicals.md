@@ -22,6 +22,7 @@
 
 - Braking distance - The distance travelled from the time the brake is applied until the vehicle stops
 
+- The principle of conservation of energy states that the total energy of a closed system remains constant - energy can never be created or destroyed, but it can be transferred from one to another. 
 
 # Practicals
 - Determining g: [[Free fall and g]]
