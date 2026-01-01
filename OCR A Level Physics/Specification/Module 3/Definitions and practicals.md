@@ -70,6 +70,16 @@
 
 # Practicals
 - Determining g: [[Free fall and g]]
+	- Question links: 
+		- Q4: https://www.ocr.org.uk/Images/726707-question-paper-modelling-physics.pdf
+		- Q18: https://www.ocr.org.uk/Images/667295-question-paper-modelling-physics.pdf
+		- Q18: https://www.ocr.org.uk/Images/703919-question-paper-modelling-physics.pdf
 - Investigating drag: [[Drag and terminal velocity]]
+	- Question links:
+		- Q17: https://www.ocr.org.uk/Images/621258-question-paper-modelling-physics.pdf
 - Investigating Hooke's law: [[Springs and Hooke's law]]
+	- Question links:
+		- Q2: https://www.ocr.org.uk/Images/493463-question-paper-depth-in-physics.pdf
 - Determining Young Modulus: [[Stress, strain and the Young Modulus]]
+	- Question links:
+		- Q57: https://pmt.physicsandmathstutor.com/download/Physics/A-level/Topic-Qs/OCR-A/3-Forces-and-Motion/3.4-Materials/Set-N/3.4%20Materials%20QP.pdf?utm_source=chatgpt.com
