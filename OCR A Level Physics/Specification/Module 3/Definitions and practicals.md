@@ -27,3 +27,4 @@
 # Practicals
 - Determining g: [[Free fall and g]]
 - Investigating drag: [[Drag and terminal velocity]]
+- Investigating Hooke's law: [[Springs and Hooke's law]]

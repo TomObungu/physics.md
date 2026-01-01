@@ -31,4 +31,7 @@ The value $k$ is a constant for the spring known as the force constant. The unit
 Below is a simple apparatus used to investigate the extension $x$ of a helical spring:
 ![[Pasted image 20260101034807.png]]
 
-Attach the spring to one end using a clamp, boss and clamp stand secured to the bench using a G-clamp. Set up a metre rule with a resolution of 1mm close to the spring. 
+Attach the spring to one end using a clamp, boss and clamp stand secured to the bench using a G-clamp. Set up a metre rule with a resolution of 1mm close to the spring.  Suspend slotted masses from the spring and record the total mass added and the new length of the string.
+Plot a graph of $F=mg$ and $x$ of the string. The gradient of the line will be $k$.
+
+
