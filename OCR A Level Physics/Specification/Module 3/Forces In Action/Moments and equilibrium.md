@@ -27,3 +27,13 @@ $$
 # Worked Example Equilibrium
 ![[Pasted image 20260101005017.png]]![[Pasted image 20260101005024.png]]
 
+![[Pasted image 20260101005815.png]]
+$$
+\begin{gather*}
+\tan\theta = \frac{0.4}{0.6} \\ \\
+\theta = \arctan\left( \frac{0.4}{0.6} \right) = 33.6800\dots \\ \\
+\text{Taking moments about A}: \\ \\
+0.3(28) = 0.6T\sin\theta \\ \\
+T = \frac{0.3(28)}{0.6\sin(33.6900\dots)} = 25.2N
+\end{gather*}
+$$
