@@ -8,6 +8,8 @@ The term drag is used for resistive force experienced by an object moving throug
 - The viscosity of the fluid 
 
 # Terminal velocity
+The maximum velocity of an object that occurs when the
+resistive and driving forces acting on the object are equal to each other.
 
 ## Just before falling
 ![[Pasted image 20260101004001.png]]
@@ -35,5 +37,6 @@ The gradient of the graph is equal to the acceleration.
 
 
 # Investigating Drag
+[[inver]]
 ![[Pasted image 20260101004316.png]]
 Using a motion sensor connected to a data-logger or a laptop. The falling object is attached to light polystyrene ball by a thin and passed over a pulley. The object is then dropped through a cylinder of liquid such a water or glycerol. The 

@@ -12,4 +12,3 @@ When air resistance is negligible, all projectiles on Earth will have an acceler
 - Horizontally: the velocity remains constant at $v\cos\theta$
 - Vertically: The initial velocity is $v\sin\theta$
 - Acceleration is $-g$.
-- 

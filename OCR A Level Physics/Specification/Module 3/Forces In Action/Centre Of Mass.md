@@ -10,4 +10,3 @@ It is possible to determine the centre of gravity of a flat object using the fol
 2. Use a plumb-line to draw a straight vertical line on the object
 3. Suspend the object from a different suspension point and use a plumb line to draw a straight vertical line on the object again
 4. The intersection of these points is the centre of gravity
-5. 
