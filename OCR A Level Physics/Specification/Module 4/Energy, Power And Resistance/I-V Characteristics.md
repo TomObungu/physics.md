@@ -2,7 +2,7 @@
 
 Below is circuit diagram needed to collect the data to plot an I-V characteristic of a component.
 
-Using a potentiometer rather than a rheostat (variable resistor) is superior due to the potentiometer allowing a wide range of voltages, whils the rheostat's resistance and voltage are independent meaning the voltage is fixed. Further if the component has a changing resistance, then, then a potentiometer can be adjusted to ensure the resistance in the circuit is kept constant to allow a stable reading of the component.
+Using a potentiometer rather than a rheostat (variable resistor) is superior due to the potentiometer allowing a wide range of voltages, whilst the rheostat's resistance and voltage are independent meaning the voltage is fixed. Further if the component has a changing resistance, then, then a potentiometer can be adjusted to ensure the resistance in the circuit is kept constant to allow a stable reading of the component.
 
 Further you can take the values of V and then plot them with I to from the I-V characteristics of the component.
 

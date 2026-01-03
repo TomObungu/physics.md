@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Analysing circuits.md",
+                "file": "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/I-V Characteristics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analysing circuits"
+              "title": "I-V Characteristics"
+            }
+          },
+          {
+            "id": "39795214310a8481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/I-V Characteristics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I-V Characteristics"
             }
           },
           {
@@ -49,7 +63,8 @@
               "title": "Displacement and velocity"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,12 +283,29 @@
       }
     ]
   },
-  "active": "c0ced5aee2c3bc88",
+  "active": "619f7484787039c9",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Analysing circuits.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/I-V Characteristics.md",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Internal Resistance.md",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "Excalidraw/Drawing 2026-01-03 20.09.59.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-05 12.33.24.excalidraw.md",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Electron gun.md",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Electrical energy and power.md",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Circuit Diagrams.md",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Diodes.md",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Potential Difference And e.m.f.md",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103200508.png",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103200239.png",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103195422.png",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Analysing circuits.md",
     "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Combining resistors.md",
+    "OCR A Level Physics/Specification/Module 4/Definitions and Practicals.md",
+    "OCR A Level Physics/Specification/Module 4/Current And Charge/Kirchhoff's first law.md",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Kirchoff's Second Law.md",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103193758.png",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103193750.png",
     "OCR A Level Physics/Specification/Module 3/Definitions and practicals.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/Q. Calculate the vertical lift force F acting on the model due to the airflow.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/attachments/Pasted image 20260101160850.png",
@@ -284,12 +316,7 @@
     "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments/Pasted image 20260101152053.png",
     "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments/Pasted image 20260101152032.png",
     "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments/Pasted image 20260101152025.png",
-    "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments/Pasted image 20260101152000.png",
-    "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments/Pasted image 20260101151938.png",
-    "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments/Pasted image 20260101151927.png",
     "OCR A Level Physics/Specification/Module 3/Motion/Free fall and g.md",
-    "OCR A Level Physics/Specification/Module 3/Motion/attachments/Pasted image 20260101140801.png",
-    "OCR A Level Physics/Specification/Module 3/Motion/attachments/Pasted image 20260101140631.png",
     "OCR A Level Physics/Specification/Module 3/Motion/Acceleration.md",
     "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/Q. Suggest one improvement the student could make..md",
     "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/Q. On the axes below, sketch a graph of height h, against time, t to represent the motion of the ball..md",
@@ -298,19 +325,7 @@
     "OCR A Level Physics/Specification/Module 3/Motion/Displacement and velocity.md",
     "OCR A Level Physics/Specification/Module 3/Motion/Car stopping distances.md",
     "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments",
-    "OCR A Level Physics/Specification/Module 3/Forces In Action/Centre Of Mass.md",
-    "OCR A Level Physics/Specification/Module 3/Motion/Distance and speed.md",
     "OCR A Level Physics/Specification/Module 3/Motion/corrected questions",
-    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/corrected questions/Q. A scientist uses a rocket to study the Earth's atmosphere.md",
-    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/corrected questions/Q. Calculate the following ratio.md",
-    "OCR A Level Physics/Specification/Module 3/Materials/Stress, strain and the Young Modulus.md",
-    "OCR A Level Physics/Specification/Module 3/Materials/Elastic Potential Energy.md",
-    "OCR A Level Physics/Specification/Module 3/Materials/Deforming Materials.md",
-    "OCR A Level Physics/Specification/Module 3/Materials/Springs and Hooke's law.md",
-    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/corrected questions/Q. State whether work is done by gravitational force.md",
-    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/corrected questions/Q. Calculating speed of impact v of MASCOT on surface of asteriod.md",
-    "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Work done and energy.md",
-    "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Conservation Of energy.md",
     "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum/attachments",
     "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/attachments",
