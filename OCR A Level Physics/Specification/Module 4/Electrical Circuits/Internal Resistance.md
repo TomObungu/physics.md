@@ -28,4 +28,29 @@ The same two cells connected in parallel produce the same e.m.f as one cell, but
 ![[Pasted image 20260103200508.png]]
 
 # Determining e.m.f and internal resistance
-You can determine the internal resistance of a cell using a potentiometer  to vary the values of $I$ 
+You can determine the internal resistance of a cell using a potentiometer  to vary the values of $I$  and $V$  by varying the value of $R$. 
+![[Pasted image 20260103202528.png]]
+Since $\varepsilon=V+Ir$ and the equation of a straight line graph is $y=mx+c$. We can rearrange the equation for:
+$$
+V = -Ir + \varepsilon
+$$
+ Sketching a graph of V against I will give a straight line with
+
+- gradient $-r$ 
+- y-intercept $\varepsilon$
+
+![[Pasted image 20260103202540.png]]
+
+Thus the internal resistance can be found by multiplying the gradient by $-1$.
+
+# Graphs of $V$ against $I$:
+Increasing the e.m.f will yield the y-intercepting doubling, however the gradient will remain the same signifying the internal resistance is the same. This matches the scenario of putting cells in series
+![[Pasted image 20260103202743.png]]
+
+Decreasing the internal results in the same y-intercept but half the gradient. This matches the scenario of putting cells in parallel:
+![[Pasted image 20260103202843.png]]
+
+## High or low internal resistance
+Many applies such as car batteries, phones and laptops have low internal resistance to allow them to be recharged using higher currents without overheating or wasting a lot of energy, so that recharging is fast. 
+
+In contrast, high voltage power supplies used in classrooms have a very high internal resistance. This acts as a safety feature, preventing the power supply from delivering a fatal electric current. 

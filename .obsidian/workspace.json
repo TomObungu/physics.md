@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/I-V Characteristics.md",
+                "file": "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Potential Divider ciruits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I-V Characteristics"
+              "title": "Potential Divider ciruits"
             }
           },
           {
@@ -283,19 +283,25 @@
       }
     ]
   },
-  "active": "619f7484787039c9",
+  "active": "39795214310a8481",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/I-V Characteristics.md",
     "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Internal Resistance.md",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Potential Divider ciruits.md",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103202843.png",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103202743.png",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103202540.png",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103202528.png",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103202524.png",
     "Excalidraw/Drawing 2026-01-03 20.09.59.excalidraw.md",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Potential Difference And e.m.f.md",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/I-V Characteristics.md",
     "Excalidraw/Drawing 2025-11-05 12.33.24.excalidraw.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Electron gun.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Electrical energy and power.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Circuit Diagrams.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Diodes.md",
-    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Potential Difference And e.m.f.md",
     "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103200508.png",
     "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103200239.png",
     "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103195422.png",
@@ -308,14 +314,9 @@
     "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103193750.png",
     "OCR A Level Physics/Specification/Module 3/Definitions and practicals.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/Q. Calculate the vertical lift force F acting on the model due to the airflow.md",
-    "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/attachments/Pasted image 20260101160850.png",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/Q. Calculate the kinetic of the ball as it hits the ground.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions",
-    "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments/Pasted image 20260101152234.png",
-    "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments/Pasted image 20260101152053.png",
-    "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments/Pasted image 20260101152032.png",
-    "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments/Pasted image 20260101152025.png",
     "OCR A Level Physics/Specification/Module 3/Motion/Free fall and g.md",
     "OCR A Level Physics/Specification/Module 3/Motion/Acceleration.md",
     "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/Q. Suggest one improvement the student could make..md",
