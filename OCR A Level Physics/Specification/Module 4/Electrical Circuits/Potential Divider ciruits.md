@@ -24,3 +24,8 @@ or $$
 \frac{V_{1}}{V_{2}} = \frac{R_{1}}{R_{2}}
 $$
 
+# Loading a potential divider
+Loading refers to connecting a component or circuit to $V_{out}$, that is, placing a component in parallel to $R_{2}$. This lowers the the resistance part of the potential divider, which lowers the fraction of the total p.d across the this part of the circuit and so lowers $V_{out}$.
+
+Adding a large load to the circuit has little effect on $V_{out}$, but if the load has a small resistance $V_{out}$ is significantly reduced. 
+

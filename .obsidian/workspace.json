@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Potential Divider ciruits.md",
+                "file": "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Sensing circuits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potential Divider ciruits"
+              "title": "Sensing circuits"
             }
           },
           {
@@ -249,45 +249,15 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "1470de61a1dd6829",
-        "type": "window",
-        "children": [
-          {
-            "id": "8fbdf6c992279f6b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c0ced5aee2c3bc88",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
   "active": "39795214310a8481",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Potential Divider ciruits.md",
+    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Sensing circuits.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Potential Divider ciruits.md",
     "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103204439.png",
     "OCR A Level Physics/Specification/Module 4/Electrical Circuits/attachments/Pasted image 20260103204238.png",
     "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Internal Resistance.md",
