@@ -1,4 +1,4 @@
-The SI unit for the amount of a substance is moles (mol). One mole of any substance contains $6.02 \times 10^{23}$ individual atoms or molecules. Therefor the total number of atoms or molecules in a substance, $N$, is given by the equation:
+The SI unit for the amount of a substance is moles (mol). One mole of any substance contains $6.02 \times 10^{23}$ individual atoms or molecules. Therefore the total number of atoms or molecules in a substance, $N$, is given by the equation:
 $$
 N=n\times N_{A}
 $$
