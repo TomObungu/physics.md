@@ -11,4 +11,8 @@ This means magnetism could be pseudo-force as it relies on the basis of electric
 3. Magnetic field is stronger when the magnetic field lines are closer together. 
 
 # Electromagnetism
-- A current 
+- A current in a coiled wire creates magnetic field lines similar to a bar magnet due to the concentric circles around the wires forming circles around the circular hoop of the wore and the net vector force going through the centre of the circular loop.
+
+- This net magnetic field forms the shape of a bar magnet
+  
+  ![[Pasted image 20260107121515.png]]
