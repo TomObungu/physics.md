@@ -126,3 +126,16 @@ $$
 \frac{p_{1}}{\rho_{1}T_{1}} = \frac{p_{2}}{\rho_{2}T_{2}}
 $$
 
+## Summary
+Assuming the temperature is constant,
+$$
+p \propto  V
+$$
+Assuming the volume is kept constant,
+$$
+p \propto T
+$$
+Assuming the pressure is constant,
+$$
+V \propto T
+$$
