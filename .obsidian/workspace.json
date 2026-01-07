@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Understanding Magnetic Fields.md",
+                "file": "OCR A Level Physics/In Lesson Notes/Magnetic Fields/7th January 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Magnetic Fields"
+              "title": "7th January 2026"
+            }
+          },
+          {
+            "id": "31137e3462b987a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Magnetic Fields.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magnetic Fields"
             }
           },
           {
@@ -63,7 +77,8 @@
               "title": "Displacement and velocity"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,9 +297,15 @@
       }
     ]
   },
-  "active": "893ecab6d8068195",
+  "active": "31137e3462b987a9",
   "lastOpenFiles": [
+    "OCR A Level Physics/In Lesson Notes/Magnetic Fields/7th January 2026.md",
+    "OCR A Level Physics/In Lesson Notes/Magnetic Fields/attachments/Pasted image 20260107115417.png",
+    "OCR A Level Physics/In Lesson Notes/Magnetic Fields/attachments",
+    "Excalidraw/Drawing 2026-01-07 11.53.06.excalidraw.md",
+    "OCR A Level Physics/In Lesson Notes/Magnetic Fields",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Understanding Magnetic Fields.md",
+    "OCR A Level Physics/In Lesson Notes/Untitled",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Progressive waves.md",
@@ -301,7 +322,6 @@
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260105090543.png",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260105085948.png",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260105085915.png",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260105085824.png",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/I-V Characteristics.md",
@@ -324,11 +344,6 @@
     "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/Q. Calculate the kinetic of the ball as it hits the ground.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions",
-    "OCR A Level Physics/Specification/Module 3/Motion/Free fall and g.md",
-    "OCR A Level Physics/Specification/Module 3/Motion/Acceleration.md",
-    "OCR A Level Physics/Specification/Module 3/Motion/corrected questions/attachments",
-    "OCR A Level Physics/Specification/Module 3/Motion/corrected questions",
-    "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum/attachments",
     "Untitled.canvas"
   ]
 }
