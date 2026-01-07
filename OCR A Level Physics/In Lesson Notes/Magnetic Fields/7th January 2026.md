@@ -16,3 +16,10 @@ This means magnetism could be pseudo-force as it relies on the basis of electric
 - This net magnetic field forms the shape of a bar magnet
   
   ![[Pasted image 20260107121515.png]]
+
+$$
+\begin{gather*}
+F = BIL\sin\theta \\ \\
+\vec{B} = \frac{F}{IL\sin\theta}
+\end{gather*}
+$$
