@@ -49,4 +49,20 @@ $$
 $$
 
 # Worked Example 1
-Calculate the 
+Calculate the the $r.m.s$ speed of oxygen molecules in a room at a temperature of $20 ^\circ$. The mass of oxygen molecule $= 5.3 \times 10^{-26}$
+
+$$
+\begin{gather*}
+\frac{1}{2} m \bar{c^{2}} = \frac{3}{2}kT \\ \\
+\bar{c^{2}} = \frac{3kT}{m} = \frac{3(1.38 \times 10^{-23})(273+20)}{5.3 \times 10 ^{ -26}}= 228871 
+\end{gather*}
+$$
+Remember that:
+$$
+c_{r.m.s} = \sqrt{ \bar{c^{2}} }
+$$
+Therefore:
+$$
+C_{r.m.s} = \sqrt{ 228871 } = 478 (3 \ s.f)
+$$
+

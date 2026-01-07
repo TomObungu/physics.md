@@ -14,7 +14,8 @@ $$
 - $$
 \bar{c^{2}} =\frac{\sum c^{2}}{N}
 $$
-- The root mean square speed or r.m.s speed $c_{r.m.s}=\sqrt{ \bar{c^{2}} }$
+- The root mean square speed or r.m.s speed:
+-$$c_{r.m.s}=\sqrt{ \bar{c^{2}} }$$
 
 For 4 atoms with velocities $-200ms ^{-1}$, $+ 300 ms ^{-1}$, $-430 ms ^{-1}$ and $+330 ms ^{-1}$, you can show that the mean velocity is $0 ms ^{-1}$, the mean speed is $315$ and the $r.m.s$ is $325$.
 
@@ -24,5 +25,3 @@ $$
 pV = \frac{1}{3}N\bar{c^{2}}
 $$
 Where $p$ is the pressure exerted by the gas, $V$ is the volume of the gas, $N$ is the number of atoms or molecules in the gas, $m$ is the mass of each atom and $\bar{c^{2}}$ is the $r.m.s$. 
-
-
