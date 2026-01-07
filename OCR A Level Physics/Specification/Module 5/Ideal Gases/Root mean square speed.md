@@ -25,3 +25,8 @@ $$
 pV = \frac{1}{3}N\bar{c^{2}}
 $$
 Where $p$ is the pressure exerted by the gas, $V$ is the volume of the gas, $N$ is the number of atoms or molecules in the gas, $m$ is the mass of each atom and $\bar{c^{2}}$ is the $r.m.s$. 
+
+
+# Why molecules with larger mass have much smaller speed than air
+Larger particles e.g. smoke and air molecules have the same mean kinetic energy at a specific temperature. As the mass of a smoke particle is much larger than an air molecules, according to $\bar{c^{2}} = \frac{3kT}{m}$, the $r.m.s$ speed of the more massive smoke particles is much less of the air molecules. 
+
