@@ -13,9 +13,11 @@ Where $n$ is the number of moles and $M$ is the molar mass.
 
 It is possible to determine the molar mass of an element from the mass number (also known as the nucleon number). 
 
+The molar mass of a substance will be value of the atomic number in grams.
+
 Helium-4 has has a mass number of 4. As a result it has a molar mass of $0.004kgmol^-1$. Similary, one mole of uranium-238 would have a molar mass of $0.238kg$ ($238g$). 
 
-However it cumulative for every distinct element within molecules. For example, $CO_{2}$ has one carbon atom of mass number 12 and two oxygen molecules with mass 16. Therefore the molar mass of $CO_{2}$ is ($0.016 + 0.016 + 0.012$) which is $0.044kg$
+However the molar mass is cumulative for every distinct element within molecules. For example, $CO_{2}$ has one carbon atom of mass number 12 and two oxygen molecules with mass 16. Therefore the molar mass of $CO_{2}$ is ($0.016 + 0.016 + 0.012$) which is $0.044kg$
 ## The kinetic theory of gases
 The kinetic theory of matter is a model used to describe the behaviour of the atoms or molecules in an ideal gas. Real gases have complex behaviour, so in order to keep the model simple, a number of assumptions are made about the atom or molecules in an ideal gas.
 
