@@ -26,7 +26,7 @@ The kinetic theory of matter is a model used to describe the behaviour of the at
 - Electrostatic force between molecules is negligible except during collisions
 - The volume of the molecules is negligible compared to the volume of the container
 - The time within a collision is negligible compared to the time between collisions
-- The has contains a very large number of atoms or molecules moving in random direction and random speeds. 
+- The gas has contains a very large number of atoms or molecules moving in random direction and random speeds. 
 
 Using these assumptions and Newton's laws of motion, we can explain how the atom or molecules in an ideal gas cause pressure.
 
