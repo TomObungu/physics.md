@@ -1,6 +1,6 @@
-Water has a large specific heat capacity. It can absorb a large amount of water energy without a significant change in its temperature. 
+Water has a large specific heat capacity. It can absorb a large amount of energy without a significant change in its temperature. 
 
-The specific heat capacity of a substance
+The specific heat capacity of a substance is defined as the energy required per unit mass to change the temperature by 1K
 
 # Determining specific heat capacity
 To calculate the specific heat capacity, you need to setup this circuit. 

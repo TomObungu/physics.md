@@ -4,7 +4,6 @@ Within the domains of a bar magnet, there are regions that have polarity. Inside
 
 This means magnetism could be pseudo-force as it relies on the basis of electrically charged electrons
 
-
 ## Magnetic field lines
 1. Use them to map field patterns
 2. The arrows show the direction of a free north pole would move
