@@ -293,46 +293,15 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "9345b8b3b0e7139c",
-        "type": "window",
-        "children": [
-          {
-            "id": "7154bf151be84dc1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b4f485d799a703d2",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org )"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
-  "active": "b4f485d799a703d2",
+  "active": "893ecab6d8068195",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 5/Cosomology/Evolution of the Universe.md",
     "OCR A Level Physics/Specification/Module 5/Stars/Stellar luminosity.md",
     "OCR A Level Physics/Specification/Module 5/Stars/Spectra.md",
-    "OCR A Level Physics/Specification/Module 5/Cosomology/Evolution of the Universe.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/Hubble's law.md",
     "OCR A Level Physics/Specification/Module 5/Circular Motion/Angular Velocity and The Radian.md",
     "OCR A Level Physics/Specification/Module 5/Stars/Energy levels in atoms.md",
