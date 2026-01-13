@@ -103,7 +103,7 @@ The accumulated electrons create a uniform electric field of magnitude $E$where:
 $$
 E = \frac{V_{H}}{d}
 $$
-Since $V=\frac{W}{Q}$, the work done by the eleThe Hall voltage $V_{H}$ is given by the equation
+Since $V=\frac{W}{Q}$, the work done to move the electrons from the one side of the semiconductor is $W = Fd = BILd$ . The total charge of the electrons equal to the number density multiplied by $e$ and $t$ and $d$. $Q = nted$of the semiconductor. The Hall voltage $V_{H}$ is given by the equation
 $$
-V_{H} = 
+V_{H} = \frac{BILd}{nted} = \frac{BI}{nte}
 $$

@@ -260,7 +260,7 @@
         "y": 114,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -296,8 +296,11 @@
       }
     ]
   },
-  "active": "99c4ac350edc38c5",
+  "active": "893ecab6d8068195",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Charged particles in magnetic fields.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Understanding Magnetic Fields.md",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Uniform electric fields and capacitance.md",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Millikan's experiment revisited.md",
@@ -307,12 +310,9 @@
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Determining the permittivity of free space.md",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Coulomb's law.md",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Electric Potential and Electric Potential Energy.md",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Charged particles in magnetic fields.md",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260113223920.png",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260113223814.png",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260113223135.png",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260113222531.png",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260113220221.png",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260113220114.png",
@@ -334,7 +334,6 @@
     "OCR A Level Physics/Specification/Module 5/Cosomology/The Big Bang theory.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/Astronomical distances.md",
     "OCR A Level Physics/Specification/Module 5/Stars/The Hertzsprung-Russel diagram.md",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/Oscillations and simple harmonic motion.md",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/attachments/Pasted image 20260109005918.png",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/attachments/Pasted image 20260109005907.png",
     "OCR A Level Physics/In Lesson Notes/Magnetic Fields/attachments",
