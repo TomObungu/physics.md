@@ -76,7 +76,7 @@ Two oppositely charged parallel plates provide a uniform electric field of stren
 
 The magnitude of either $E$ or $B$ is adjusted so that the magnetic force and the electric force are equal in magnitude and in opposite directions. Therefore:
 $$
-EQ = BQv \implies V = \frac{E}{B}
+EQ = BQv \implies v = \frac{E}{B}
 $$
 Thus only charged particles with specific speed $v$ will travel in a straight line and emerge from the slit $Z$.
 

@@ -260,7 +260,7 @@
         "y": 114,
         "width": 960,
         "height": 1040,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -298,9 +298,9 @@
   },
   "active": "893ecab6d8068195",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Charged particles in magnetic fields.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Understanding Magnetic Fields.md",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Uniform electric fields and capacitance.md",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Millikan's experiment revisited.md",
