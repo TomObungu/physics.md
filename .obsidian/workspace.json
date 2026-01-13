@@ -251,8 +251,21 @@
                   "icon": "lucide-file-text",
                   "title": "A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org )"
                 }
+              },
+              {
+                "id": "195d1579a84d5a75",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.11.4"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.11.4"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -296,7 +309,7 @@
       }
     ]
   },
-  "active": "99c4ac350edc38c5",
+  "active": "195d1579a84d5a75",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Understanding Magnetic Fields.md",
