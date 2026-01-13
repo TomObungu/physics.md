@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Understanding Magnetic Fields.md",
+                "file": "OCR A Level Physics/In Lesson Notes/Magnetic Fields/PAG 11.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Magnetic Fields"
+              "title": "PAG 11.3"
             }
           },
           {
@@ -251,21 +251,8 @@
                   "icon": "lucide-file-text",
                   "title": "A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org )"
                 }
-              },
-              {
-                "id": "195d1579a84d5a75",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.11.4"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.11.4"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -309,13 +296,14 @@
       }
     ]
   },
-  "active": "195d1579a84d5a75",
+  "active": "99c4ac350edc38c5",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Understanding Magnetic Fields.md",
+    "OCR A Level Physics/In Lesson Notes/Magnetic Fields/PAG 11.3.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Magnetic Fields.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/Evolution of the Universe.md",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 5/Stars/Stellar luminosity.md",
     "OCR A Level Physics/Specification/Module 5/Stars/Spectra.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/Hubble's law.md",
