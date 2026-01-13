@@ -5,7 +5,7 @@ The aurora borealis or northen lights and its southern equivalent of the auroro 
 
 
 # Circular tracks
-The figure below shows the path of a single electron as it travels through a region of uniform magnetic field. The direction of magnetic field vertically upwards into to plane of the paper. is . The electron describes describes a circular path within the magnetic field because the magnetic force $F$, predicted by flemings left hand rule, experiences is perpendicular to its velocity - A centripetal force.
+The figure below shows the path of a single electron as it travels through a region of uniform magnetic field. The direction of magnetic field vertically upwards into to plane of the paper. is . The electron describes describes a circular path within the magnetic field because the magnetic force $F$, predicted by Fleming's left hand rule, experiences is perpendicular to its velocity - A centripetal force.
 ![[Pasted image 20260113220114.png]]
 No work is done by the magnetic field on the electron because the the force is perpendicular to the velocity - This force has no component in the direction of travel and therefore the speed of the electron remains constant. 
 
@@ -62,4 +62,48 @@ Be = \frac{2\pi rm}{Tr} = \frac{2\pi m}{T}
   $$
 T = \frac{2\pi m}{Be}
 $$
-Thefore the period $T$ just depends on $m$, $B$ and $e$. 
+Therefore the period $T$ just depends on $m$, $B$ and $e$. 
+
+# Velocity selector
+A velocity selector is a device used in instruments such as a mass spectrometer to selected charged particles of a specific speed. 
+![[Pasted image 20260113222531.png]]
+
+Two oppositely charged parallel plates provide a uniform electric field of strength $E$. There is also a uniform magnetic field of flux density $B$ at right angles to the field. 
+
+- The electric force on a charge particle of charge $Q$ is equal to $F=EQ$
+- The magnetic force on the charged particle is equal to $BQv$, where $v$ is the speed of the particle
+
+
+The magnitude of either $E$ or $B$ is adjusted so that the magnetic force and the electric force are equal in magnitude and in opposite directions. Therefore:
+$$
+EQ = BQv \implies V = \frac{E}{B}
+$$
+Thus only charged particles with specific speed $v$ will travel in a straight line and emerge from the slit $Z$.
+
+
+# Mass spectrometers
+Mass spectrometers measure the masses and relative concentrations of atoms and molecules. They can be used to detect the age of rocks and even to examine pharmaceuticals.  Below is a figure of the structure of a mass spectrometer:
+![[Pasted image 20260113223135.png]]
+
+Atoms from sample are ionised and accelerated through a potential difference. They pass through a velocity selector and emerge with the same speed $v$ before entering a uniform magnetic field of flux density $B$. The radius $r$ of the curvature of each ion is given by:
+$$
+r = \frac{mv}{BQ}
+$$
+For a singly ionised atoms, $Q=e$.
+
+Since $r \propto m$, each different ion is deflected by a different amount onto the detector, the detector is connected to a computer programmed to show the relative abundance of each type of ion. 
+
+# The Hall Probe
+The figure below shows a thin slice of semiconductor of thickness $t$, width $d$ and current $I$. An external magnetic field of flux density $B$ is applied at right angles to the direction of the current. According to Fleming's left hand rule, the force experience by the electrons causes them to be deflected towards the right-hand surface, where they accumulate, leaving the left-hand surface of the semiconductor with fewer electrons. This is a difference in potential with voltage $V_{H}$. 
+![[Pasted image 20260113223920.png]]
+The probe must be aligned at right angles to the magnetic field for the effect to be strongest.
+![[Pasted image 20260113223814.png]]
+
+The accumulated electrons create a uniform electric field of magnitude $E$where:
+$$
+E = \frac{V_{H}}{d}
+$$
+Since $V=\frac{W}{Q}$, the work done by the eleThe Hall voltage $V_{H}$ is given by the equation
+$$
+V_{H} = 
+$$

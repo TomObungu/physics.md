@@ -27,7 +27,7 @@ This equation only works for parallel plates with uniform electric fields.
 
 This equation is beneficial as it only requires a voltmeter to measure $V$ and a ruler to measure $d$ in order to determine the electric field strength. 
 
-For cases other than this you muse use $E = \frac{F}{Q}$
+For cases other than this you must use $E = \frac{F}{Q}$
 
 The Unit for Electric Field Strength is $NC^{-1}$ but the equation shows that you can also use $Vm^{-1}$.
 
