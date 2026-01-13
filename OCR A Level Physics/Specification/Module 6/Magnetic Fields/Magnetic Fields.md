@@ -21,7 +21,7 @@ A magnetic field is produced by moving charged particles, for example electrons 
 
 For a current-carrying wire, the magnetic field patterns are concentric circles on the wire perpendicular to it. 
 
-![[Pasted image 20260105085404.png]]
+![[Pasted image 20260113234621.png]]
 The direction of the magnetic field can be determined using the right-hand grip rule. The thumb points in the direction of the conventional current, and the direction of the magnetic field is given by the direction in which the fingers curl around the wire.
 ![[Pasted image 20260105085416.png]]
 
