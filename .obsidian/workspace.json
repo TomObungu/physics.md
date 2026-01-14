@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Understanding Magnetic Fields.md",
+                "file": "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Charged particles in magnetic fields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Magnetic Fields"
+              "title": "Charged particles in magnetic fields"
             }
           },
           {
@@ -256,8 +256,8 @@
           }
         ],
         "direction": "vertical",
-        "x": -34,
-        "y": 114,
+        "x": 0,
+        "y": 0,
         "width": 960,
         "height": 1040,
         "maximize": false,
@@ -322,27 +322,27 @@
         "y": 160,
         "width": 1024,
         "height": 800,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "99c4ac350edc38c5",
+  "active": "d3db3ff26c898c7d",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/Uniform electric fields and capacitance.md",
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/Electric Potential and Electric Potential Energy.md",
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/Coulomb's law.md",
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/Charged particles in uniform electric fields.md",
+    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Understanding Magnetic Fields.md",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Magnetic Fields.md",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260113234621.png",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Understanding Magnetic Fields.md",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Charged particles in magnetic fields.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/Specification/Module 6/Electric Fields/Uniform electric fields and capacitance.md",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Millikan's experiment revisited.md",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Equipotentials.md",
-    "OCR A Level Physics/Specification/Module 6/Electric Fields/Charged particles in uniform electric fields.md",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Electric Fields.md",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Determining the permittivity of free space.md",
-    "OCR A Level Physics/Specification/Module 6/Electric Fields/Coulomb's law.md",
-    "OCR A Level Physics/Specification/Module 6/Electric Fields/Electric Potential and Electric Potential Energy.md",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260113223920.png",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260113223814.png",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260113223135.png",
