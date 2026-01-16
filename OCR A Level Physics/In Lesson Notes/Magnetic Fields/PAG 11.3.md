@@ -28,7 +28,7 @@ Set up the circuit and apparatus below:
 	- The gradient is $\frac{m}{I}$
 	- The equation can be rearranged to $mg=BIL$
 	- Thus $\frac{mg}{I}=BL\implies \text{gradient}\times g = BL$
-	- Thefore:
+	- Therefore:
 	- $$
 B = \frac{\text{gradient} \times g}{L}
 $$
