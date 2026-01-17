@@ -3,7 +3,7 @@
 - 2 stands with claps
 - 2 identical magnadur magnets (magnets that are magnetised along long face)
 - Mass balance
-- Ammerter
+- Ammeter
 - Power pack
 - Ruler
 
