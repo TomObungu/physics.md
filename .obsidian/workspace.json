@@ -228,78 +228,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "cf6bdf1810bc73d6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "00976c46deca4745",
-        "type": "window",
-        "children": [
-          {
-            "id": "d93efee2a041b983",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "893ecab6d8068195",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "853c9a92d9d309b6",
-        "type": "window",
-        "children": [
-          {
-            "id": "5db24991ab6ea0fd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7c1a2ca11f3c318e",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org )"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7c1a2ca11f3c318e",
+  "active": "99c4ac350edc38c5",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 5/Oscillations/Untitled.md",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 5/Oscillations/Untitled.md",
     "OCR A Level Physics/In Lesson Notes/Magnetic Fields/PAG 11.3.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/Q. A rigid loop of insulated wire is placed in a uniform electric field. What is the magnitude of the force experienced.md",
