@@ -63,7 +63,7 @@ Therefore the solution will be of the form:
 $$
 x = A\cos(\omega t) + B\sin(\omega t)
 $$
-This shows that the object will oscillate sinusoidally. Using harmonic form we can show this succinctly:
+This shows that the object will oscillate sinusoidal. Using harmonic form we can show this succinctly:
 $$
 \begin{gather*}
 x = A\sin(\omega t + \phi ) \ (\text{starting from minimum displacment}) \\ \\ 
