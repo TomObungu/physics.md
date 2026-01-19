@@ -36,7 +36,7 @@ $$
 The SI unit for magnetic flux is also the weber, but sometimes weber-turns ($Wb-\text{turns}$  is used to avoid magnetic flux)
 
 ## e.m.f induction
-An e.m.f is induced in a circuit whenever there is a **change** in the magnetic flux linking the circuit. Since $\phi = BA\cos\theta$, you can induce an e.m.f by constantly changing $B$, $A$ or $\theta$.
+An e.m.f is induced in a circuit whenever there is a **change** in the magnetic flux linking the circuit. Since $\phi = BA\cos\theta$, you can induce an e.m.f by constantly changing $B$, $A$ or $\theta$. It is possible to change $B$ due to the magnetic flux density changing when the magnet is moved relative to the coil.
 
 # Worked Example 1
 ![[Pasted image 20260119161419.png]]
