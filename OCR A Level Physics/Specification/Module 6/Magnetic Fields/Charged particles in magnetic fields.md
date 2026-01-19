@@ -9,7 +9,7 @@ The figure below shows the path of a single electron as it travels through a reg
 ![[Pasted image 20260113220114.png]]
 No work is done by the magnetic field on the electron because the the force is perpendicular to the velocity - This force has no component in the direction of travel and therefore the speed of the electron remains constant. 
 
-To find the force $F$ acting on a charged particle of charge $Q$ moving at a speed $v$ at right angles to a uniform magnetic field of flux density $B$, consider a section of conductor, or a beam of charged particles. In a time $t$, all the charged particles contained within the shaded region go through section $XY$. The length of the shaded region is $vt$, where $v$ is the speed of the charged particle. 
+To find the force $F$ acting on a charged particle of charge $Q$ moving at a speed $v$ at right angles to a uniform magnetic field of flux density $B$, consider a section of conductor, or a beam of charged particles. In a time $t$ , all the charged particles contained within the shaded region go through section $XY$. The length of the shaded region is $vt$, where $v$ is the speed of the charged particle. 
 ![[Pasted image 20260113220221.png]]
 
 Thus the force $F$ on the conductor is given by:
