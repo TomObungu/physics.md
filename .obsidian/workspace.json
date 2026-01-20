@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Transformers.md",
+                "file": "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Electromagnetic Induction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformers"
+              "title": "Electromagnetic Induction"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "Displacement and velocity"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -313,20 +314,27 @@
       }
     ]
   },
-  "active": "31137e3462b987a9",
+  "active": "030393829bd7769a",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 3/Motion/Displacement and velocity.md",
+    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Electromagnetic Induction.md",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Transformers.md",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260120221229.png",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260120215801.png",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/Q. Draw a graph of the voltmeter reading against time for the motion of the coil from Y to Z.md",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/attachments/Pasted image 20260120214944.png",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/Q. A rigid loop of insulated wire is placed in a uniform electric field. What is the magnitude of the force experienced.md",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/Q. Draw at least three fields to indicate the magnetic field pattern around this wire..md",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/attachments/Pasted image 20260120214918.png",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Faraday's law and Lenz's law.md",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Magnetic Fields.md",
+    "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Conservation Of energy.md",
+    "OCR A Level Physics/Specification/corrected questions/Understanding Magnetic Fields.md",
+    "OCR A Level Physics/Specification/Module 4/Waves 1/Progressive waves.md",
+    "OCR A Level Physics/Specification/corrected questions/Magnetic Fields.md",
+    "OCR A Level Physics/Specification/corrected questions/Charged particles in magnetic fields.md",
+    "OCR A Level Physics/Specification/corrected questions/Q. Draw a graph of the voltmeter reading against time for the motion of the coil from Y to Z.md",
+    "OCR A Level Physics/Specification/corrected questions/attachments/Q. A charged particle travelling with speed v moves at 2v. What is the orbital period T of the particle now?.md",
+    "OCR A Level Physics/Specification/corrected questions/Q. Draw at least three fields to indicate the magnetic field pattern around this wire..md",
+    "OCR A Level Physics/Specification/corrected questions/Q. A rigid loop of insulated wire is placed in a uniform electric field. What is the magnitude of the force experienced.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260120221229.png",
+    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260120215801.png",
+    "OCR A Level Physics/Specification/corrected questions/attachments/Pasted image 20260120214944.png",
+    "OCR A Level Physics/Specification/corrected questions/attachments/Pasted image 20260120214918.png",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Diodes.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/The thermistor.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/The LDR.md",
@@ -340,12 +348,6 @@
     "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Sensing circuits.md",
     "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Potential Divider ciruits.md",
     "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Kirchoff's Second Law.md",
-    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Internal Resistance.md",
-    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Combining resistors.md",
-    "OCR A Level Physics/Specification/Module 4/Electrical Circuits/Analysing circuits.md",
-    "OCR A Level Physics/Specification/Module 4/Current And Charge/Mean Drift Velocity.md",
-    "OCR A Level Physics/Specification/Module 4/Current And Charge/Moving Charges.md",
-    "OCR A Level Physics/Specification/Module 4/Current And Charge/Kirchhoff's first law.md",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260120112227.png",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260120112223.png",
     "OCR A Level Physics/Specification/Module 6/attachments/Pasted image 20260119194300.png",
@@ -354,10 +356,10 @@
     "OCR A Level Physics/Specification/Module 6/attachments",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Untitled",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260119161419.png",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/attachments/attachments",
+    "OCR A Level Physics/Specification/corrected questions/attachments/attachments",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/Untitled",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/attachments",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions",
+    "OCR A Level Physics/Specification/corrected questions/attachments",
+    "OCR A Level Physics/Specification/corrected questions",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Cha",
     "OCR A Level Physics/In Lesson Notes/Magnetic Fields/attachments",
     "Untitled.canvas"
