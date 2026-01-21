@@ -309,12 +309,12 @@
         "y": 120,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e11c8628ac3bb3c4",
+  "active": "e7925e96bbfe56c0",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/Q. Draw a graph of the voltmeter reading against time for the motion of the coil from Y to Z.md",
