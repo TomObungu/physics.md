@@ -274,7 +274,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 960,
+        "x": 0,
         "y": 0,
         "width": 960,
         "height": 1040,
@@ -314,13 +314,17 @@
       }
     ]
   },
-  "active": "030393829bd7769a",
+  "active": "e11c8628ac3bb3c4",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 6/Particle Physics/Alpha-particle scattering experiment.md",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/The nucleus.md",
-    "OCR A Level Physics/Specification/Module 6/Alpha-particle scattering experiment.md",
-    "OCR A Level Physics/Specification/Module 6/Particle Physics",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 6/Particle Physics/attachments/Pasted image 20260128055921.png",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 6/Particle Physics/attachments/Pasted image 20260128054721.png",
+    "OCR A Level Physics/Specification/Module 6/Particle Physics/attachments/Pasted image 20260128054558.png",
+    "OCR A Level Physics/Specification/Module 6/Particle Physics/attachments",
+    "OCR A Level Physics/Specification/Module 6/Particle Physics",
     "OCR A Level Physics/Specification/Module 6/attachments/Pasted image 20260128052951.png",
     "OCR A Level Physics/Specification/Module 6/attachments/Pasted image 20260128052800.png",
     "OCR A Level Physics/In Lesson Notes/Magnetic Fields/7th January 2026.md",
@@ -347,20 +351,16 @@
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260120221229.png",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260120215801.png",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/attachments/Pasted image 20260120214944.png",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/attachments/Pasted image 20260120214918.png",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Diodes.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/The thermistor.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/The LDR.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Resistance and resistivity.md",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260120112227.png",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/attachments/Pasted image 20260120112223.png",
     "OCR A Level Physics/Specification/Module 6/attachments",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Untitled",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/attachments/attachments",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/Untitled",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Cha",
     "Untitled.canvas"
   ]
 }
