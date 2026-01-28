@@ -1,4 +1,4 @@
-Before 1911 physicists knew about atoms and also knew about their diameter to be about $10^{-10}m$. Then experiments carried out by Rutherford, Geiger and Marsden on the scattering of alpha particles by thin metal foils provided evidence for the nuclear model of the atom. 
+	Before 1911 physicists knew about atoms and also knew about their diameter to be about $10^{-10}m$. Then experiments carried out by Rutherford, Geiger and Marsden on the scattering of alpha particles by thin metal foils provided evidence for the nuclear model of the atom. 
 
 # Rutherford's scattering experiment
 Figure 1 shows the arrangement used to perform the scattering experiments. A narrow beam of alpha particles, all of the same kinetic energy, from a radioactive source were targeted towards a gold foil only a few atoms thick.
