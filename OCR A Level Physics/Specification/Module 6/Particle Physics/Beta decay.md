@@ -1,9 +1,9 @@
-Neutrinos are leptons and are less than a millionth the mass of an electrons.  The existence of the neutron was predicted by Wolfgang Pauli in 1930 in order to explain beta decay in terms of conservation laws.
+Neutrinos are leptons with a tiny mass. The existence of the neutron was predicted by Wolfgang Pauli in 1930 in order to explain beta decay in terms of conservation laws.
 
 The three types of neutrinos are:
 - Electron neutrino $v_{e}$
 - Muon neutrino $v_{\mu}$
-- Tau neutrino $v_{\tau}$]
+- Tau neutrino $v_{\tau}$
 
 Each neutrino has its antiparticle. For OCR A level physics, the only relevant neutrino is the electron neutron $v_{e}$ and its corresponding antiparticle $\bar{v}_{e}$
 
