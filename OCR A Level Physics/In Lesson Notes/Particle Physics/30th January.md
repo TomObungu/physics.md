@@ -19,3 +19,4 @@ Therefore:
 $$
 E = \frac{hf}{c}
 $$
+As expected for the photoelectric equation
