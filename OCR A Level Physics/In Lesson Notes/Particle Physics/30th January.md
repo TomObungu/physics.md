@@ -3,11 +3,11 @@ Workbook questions highlights
 
 The high energy photons released in annihilation is due to the conservation of moment. The photons are perpendicular and in opposite direction as the total momentum must be summed to 0. 
 
-Full Einstien special relativity equation equation
+Full Einstein special relativity equation equation
 $$
 E^{2} = \rho^{2}c^{2} + M_{0}^{2}c^{4}
 $$
-For massless particles like photons:
+For mass-less particles like photons:
 $$
 \frac{E^{2}}{c^{2}} = p^{2} 
 $$
