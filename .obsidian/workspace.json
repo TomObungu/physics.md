@@ -39,12 +39,14 @@
             "id": "5090b7ae1481c004",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                "file": "OCR A Level Physics/Specification/Module 6/Radioactivity/Radioactivity.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+              "icon": "lucide-file",
+              "title": "Radioactivity"
             }
           }
         ],
@@ -267,11 +269,13 @@
       }
     ]
   },
-  "active": "26fd55e0cd401692",
+  "active": "5090b7ae1481c004",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
-    "OCR A Level Physics/In Lesson Notes/Particle Physics/30th January.md",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 6/Radioactivity/Radioactivity.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 6/Radioactivity",
+    "OCR A Level Physics/In Lesson Notes/Particle Physics/30th January.md",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/The nucleus.md",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/Antiparticles, hadrons and leptons.md",
     "OCR A Level Physics/In Lesson Notes/Simple Harmonic Ocilliations/26th September.md",
@@ -308,12 +312,10 @@
     "OCR A Level Physics/In Lesson Notes/Magnetic Fields/PAG 11.3.md",
     "Excalidraw/Drawing 2026-01-07 11.53.06.excalidraw.md",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/Q. Draw a graph of the voltmeter reading against time for the motion of the coil from Y to Z.md",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/Q. Draw at least three fields to indicate the magnetic field pattern around this wire..md",
     "OCR A Level Physics/Specification/Module 6/attachments",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Untitled",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/attachments/attachments",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/Untitled",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/corrected questions/attachments",
     "Untitled.canvas"
   ]
 }
