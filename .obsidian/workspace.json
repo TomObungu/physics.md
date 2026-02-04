@@ -39,14 +39,12 @@
             "id": "5090b7ae1481c004",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "OCR A Level Physics/In Lesson Notes/Particle Physics/30th January.md",
-                "mode": "source",
-                "source": false
+                "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
               },
-              "icon": "lucide-file",
-              "title": "30th January"
+              "icon": "lucide-file-text",
+              "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
             }
           }
         ],
@@ -269,11 +267,11 @@
       }
     ]
   },
-  "active": "c8257181fd1d0575",
+  "active": "26fd55e0cd401692",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/In Lesson Notes/Particle Physics/30th January.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/In Lesson Notes/Particle Physics/30th January.md",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/The nucleus.md",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/Antiparticles, hadrons and leptons.md",
     "OCR A Level Physics/In Lesson Notes/Simple Harmonic Ocilliations/26th September.md",
