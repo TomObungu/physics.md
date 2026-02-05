@@ -18,7 +18,7 @@ A cloud chamber can be used to detect the presence of these types of radiation.
 - Emitted from the nuclei of atoms as a result of changes within unstable nuclei
 ## The effect of electric and magnetic fields
 
-### electric
+### Electric
 An uniform electric field provided by two oppositely charged parallel plates (capacitor plates) can distinguish between different types of radiation.
 
 The negative beta-minus particles (electrons) are deflected towards the positive plate, whilst the positive alpha and beta-plus particles are deflected towards the positive plate. 
@@ -27,5 +27,25 @@ The gamma rays are not deflected as they are uncharged (they is some interferenc
 
 ![[Pasted image 20260205201920.png]]
 
-### 
-In an uniform magnetic field, the direction of each particle can be determined using Flemming's left-hand rule. The p
+### Magnetic
+In an uniform magnetic field, the direction of each particle can be determined using Flemming's left-hand rule. The forms of motion of the particles are the same except they are reflected horizontally. 
+![[Pasted image 20260205222851.png]]
+
+# Absorption experiments
+A Geiger-Muller (GM) tube and counter may be used to investigate the absorption of $\alpha$, $\beta^{-}$ and $\gamma$ radiation by different materials. The GM tube is kept a fixed distance from the source. Each ionising particle, or photon, detected by the GM tube produces a single count or click.
+
+Everything around us produces a small amount of radiation. This background radiation must be measured before you conduct any absorption experiments. 
+
+The background rate is the count rate without the radioactive source present, and depends on the country you are. In the west, it is typically 0.4 counts per second or 20 counts per minute. 
+
+![[Pasted image 20260205223348.png]]
+
+The count rate for a particular absorber is then determined. Use different thicknesses of the same absorber to investigate how the count rate. 
+
+The recorded rate also includes the background rate. 
+
+To determine the true count rate, subtract the background count rate from the measured count rate.
+
+# Absorption of alpha, beta and gamma radiations
+The large mass and charge of alpha particles means they react with surrounding particles to produce strong ionisation and therefore they have a very short range in air. It takes only a few centimetres of air to absorb most alpha particles. A thin sheet of paper completely absorbs them.
+
