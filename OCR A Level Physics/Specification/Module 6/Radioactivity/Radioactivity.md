@@ -49,3 +49,11 @@ To determine the true count rate, subtract the background count rate from the me
 # Absorption of alpha, beta and gamma radiations
 The large mass and charge of alpha particles means they react with surrounding particles to produce strong ionisation and therefore they have a very short range in air. It takes only a few centimetres of air to absorb most alpha particles. A thin sheet of paper completely absorbs them.
 
+The small mass and charge of beta particles makes them less ionising than alpha particles. This means they the have a much longer range in air, about a metre. It takes about 1-mm of aluminium to stop most beta particles.
+
+Gamma rays have no charge, and this make them even less ionising than particles. The count rate of gamma rays decays, exponentially with the thickness of a lead absorber. You need a few centimetres of lead to absorb a significant proportion of gamma rays. 
+
+# Dangers of radioactivity
+All types of radiation cause ionisation, which means they can do damage to living cells. This why radioactive sources are stored in lead-lined storage containers. 
+
+When transferring radioactive sources, use a pair of tongs with long handles in order to keep the source as far from your body as possible. 
