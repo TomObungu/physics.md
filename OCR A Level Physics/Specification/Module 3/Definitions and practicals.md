@@ -1,4 +1,4 @@
-# 3. 1 Motion
+# 3.1 Motion
 
 - Acceleration - the rate of change of velocity
 
