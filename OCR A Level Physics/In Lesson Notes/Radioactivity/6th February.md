@@ -1,4 +1,4 @@
 Workbook:
-Decay Chain defintion
+Decay Chain definition
 
 The half 
