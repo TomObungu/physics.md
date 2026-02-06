@@ -47,3 +47,13 @@ $$
 
 E.g. potassium-37: $^{37}_{19}K \to ^{37}_{18}Ar + ^{0}_{+1}e + \bar{v}_{e}$
 
+
+# Gamma decay
+Gamma photons if a nucleus has surplus energy following an alpha or beta emission. The composition of nucleus remains the same. The nuclear decay equation when a gamma photon is emitted is shown below. 
+$$
+\ce{^A_{Z}X} \to \ce{^A_{Z}X} + \gamma
+$$
+# Decay chains
+The radioactive nuclei is complex, because the daughter nuclei can themselves be radioactive. An ancient rock containing uranium will therefore also contain its daughters, their daughters and so on. All of them will emit their characteristic radiation. 
+
+Below is the decay chain for a radium-226 nucleus. After a very long time, following many transformations, the chain ends in a stable isotope of lead-206. 
