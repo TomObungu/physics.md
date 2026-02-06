@@ -56,4 +56,20 @@ $$
 # Decay chains
 The radioactive nuclei is complex, because the daughter nuclei can themselves be radioactive. An ancient rock containing uranium will therefore also contain its daughters, their daughters and so on. All of them will emit their characteristic radiation. 
 
-Below is the decay chain for a radium-226 nucleus. After a very long time, following many transformations, the chain ends in a stable isotope of lead-206. 
+Below is the decay chain for a radium-226 nucleus. After a very long time, following many transformations, the chain ends in a stable isotope of lead-206.  The half life of each isotope is also shown in figure 2.
+![[Pasted image 20260206002536.png]]
+
+# Patterns for stability
+The figure below shows a graph of number of neutrons $N$ against proton number $Z$. All stable nuclei lie on a very narrow band known as the stability band. 
+
+![[Pasted image 20260206003240.png]]
+
+The ratio of neutrons to protons in stable nuclei gradually increase as the number of protons in the nuclei increases. 
+
+Nuclei with proton numbers less than about 20 are stable
+
+The stability band is surrounded by possible unstable nuclei. It is possible to determine the likey decay of an unstable nucleus from its position relative to the stability band. 
+
+- Nuclei with more than 82 protons are likely to decay by emitting alpha particles
+- Nuclei to the right of the band have too many protons and will likely decay by beta-plus
+- Nuclei to the left of the band have too many neutrons and will likely decay by beta minus
