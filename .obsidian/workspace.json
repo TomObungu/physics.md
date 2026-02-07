@@ -187,44 +187,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "5a027c72f646b479",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d49bc33443600386",
-        "type": "window",
-        "children": [
-          {
-            "id": "7e71502a231157a9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c8257181fd1d0575",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c8257181fd1d0575",
+  "active": "88f988dc27e44943",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/Half-life and activity.md",
