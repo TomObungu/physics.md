@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
+                "file": "OCR A Level Physics/Specification/Module 5/Oscillations/Simple harmonic motion and energy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analysing simple harmonic motion"
+              "title": "Simple harmonic motion and energy"
             }
           }
         ],
@@ -221,16 +221,49 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "44efac91b5ddfe4a",
+        "type": "window",
+        "children": [
+          {
+            "id": "dccfc3933ccbb9df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e79f838e4d0bdfe4",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "97bd5e7b45885654",
+  "active": "39795214310a8481",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 5/Oscillations/Simple harmonic motion and energy.md",
+    "OCR A Level Physics/Specification/Module 5/Oscillations/Damping and driving.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Oscillations and simple harmonic motion.md",
     "OCR A Level Physics/In Lesson Notes/Radioactivity/6th February.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/Half-life and activity.md",
     "OCR A Level Physics/In Lesson Notes/Induction Lesson.md",
     "OCR A Level Physics/In Lesson Notes/Radioactivity",
@@ -267,8 +300,6 @@
     "OCR A Level Physics/In Lesson Notes/Particle Physics",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/attachments",
     "OCR A Level Physics/Specification/Module 6/Particle Physics",
-    "OCR A Level Physics/In Lesson Notes/Magnetic Fields/7th January 2026.md",
-    "OCR A Level Physics/In Lesson Notes/Magnetic Fields/21st January 2026.md",
     "OCR A Level Physics/Specification/Module 6/attachments",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Untitled",
     "Untitled.canvas"
