@@ -2,7 +2,7 @@ The number of undecayed nuclei $N$ left in the source at time $t$ is given by th
 $$
 N = N_{0}e^{-\lambda t}
 $$
-where $N_{0}$ is the number of undecayed nuclei at $t=0$ and $e$ is the base of natural logarithms, $2.718$. The number of undecayed nulcei decreases exponentially with time. 
+where $N_{0}$ is the number of undecayed nuclei at $t=0$ and $e$ is the base of natural logarithms, $2.718$. The number of undecayed nuclei decreases exponentially with time. 
 
 It also possible to calculate the the number of nuclei left $N$ in a sample if you know the number of half-lives elapsed, n using the equation:
 $$
@@ -50,4 +50,16 @@ $$
 # Measuring half-life
 Protactinium-234 is a suitable isotope to use in an experiment to measure half-life, because its half life is short. The protactinium-234 isotope is produced from the decay of thorium-234, which it is itself produced from the decay of uranium-238.  
 
-A sealed plastic bottom containing organic solvent and 
+A sealed plastic bottom containing organic solvent and solution of uranyl (VI) nitrate in water is used to separate the protactinium from thorium. This works because the compound of the protactinium daughter isotopes is soluble in the organic solvent, where as the parent thorium compound is not. 
+
+The background is count rate is firstly determined in the absence of the source. 
+
+The plastic bottle is shaken for about 15s to dissolve the protactinium in the organic solvent, which floats to the top. 
+
+The end of the GM tube is placed opposite the organic layer. In order to avoid contamination, the GM tube must not touch the bottle. The counts from the decaying protactinium can be recorded by taking a 10s count every half minute. 
+
+The corrected count rate is directly proportional to the activity of the source. 
+
+Therefore, the half-life of protactinium-234 can be determined by plotting a graph of corrected count rate against time.
+
+![[Pasted image 20260225080759.png]]
