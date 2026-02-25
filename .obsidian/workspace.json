@@ -177,37 +177,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "44efac91b5ddfe4a",
-        "type": "window",
-        "children": [
-          {
-            "id": "dccfc3933ccbb9df",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e79f838e4d0bdfe4",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "1020bd1731fa974e",
         "type": "window",
         "children": [
@@ -240,11 +209,11 @@
       }
     ]
   },
-  "active": "88f988dc27e44943",
+  "active": "17e21cbb72ffb164",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 6/Radioactivity/Radioactive decay calculations.md",
-    "OCR A Level Physics/In Lesson Notes/Radioactivity/25th February.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/In Lesson Notes/Radioactivity/25th February.md",
+    "OCR A Level Physics/Specification/Module 6/Radioactivity/Radioactive decay calculations.md",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/Modelling radioactive decay.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/attachments/Pasted image 20260225082253.png",
@@ -281,7 +250,6 @@
     "OCR A Level Physics/Specification/Module 6/Radioactivity",
     "OCR A Level Physics/In Lesson Notes/Particle Physics/30th January.md",
     "OCR A Level Physics/In Lesson Notes/Simple Harmonic Ocilliations/26th September.md",
-    "OCR A Level Physics/In Lesson Notes/Stars and Cosmology/14th November 2025.md",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/attachments/Pasted image 20260130081700.png",
     "OCR A Level Physics/In Lesson Notes/Particle Physics",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/attachments",
