@@ -47,3 +47,7 @@ $$
 $$
 
 
+# Measuring half-life
+Protactinium-234 is a suitable isotope to use in an experiment to measure half-life, because its half life is short. The protactinium-234 isotope is produced from the decay of thorium-234, which it is itself produced from the decay of uranium-238.  
+
+A sealed plastic bottom containing organic solvent and 
