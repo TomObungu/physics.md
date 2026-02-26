@@ -1,0 +1,2 @@
+# Carbon Dating
+Atmospheric carbon is mainly the stable isotope, carbon-12, but also a tiny amount of the radioactive isotope carbon-14. Carbon-14 has a half life of about 5700 years and is produces continuously in the atmosphere by cosmic rays
