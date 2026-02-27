@@ -200,10 +200,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       },
@@ -240,13 +240,13 @@
       }
     ]
   },
-  "active": "c970ff84fbbf26f1",
+  "active": "a42b75e9322551a9",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/In Lesson Notes/Radioactivity/PAG 7.1 Notes.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/Radioactive Dating.md",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/In Lesson Notes/Radioactivity/25th February.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/Radioactive decay calculations.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/Modelling radioactive decay.md",
