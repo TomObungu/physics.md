@@ -20,10 +20,22 @@ $$
 \Delta m = \frac{\Delta E}{c^{2}} = \frac{\left(\frac{1}{2}mv^{2}\right)}{c^{2}} = \frac{\frac{1}{2}(70)(15)^{2}}{(3 \times 10^{8})^{2}} = 8.8 \times 10^{-14} kg
 \end{gather*}
 $$
-This is not noticable
+This is not noticeable
 
 # Radioactivity
 The energy of emitted particles and photons in unstable nuclei comes from matter being converted into energy. The total amount of mass and energy in a system is conserved. 
 
 Since energy is released in radioactive decay, there must be decrease in mass. This means the total mass of the daughter nucleus and particle must be less than the mass of the parent nucleus. This decrease in mass $\Delta m$ is equivalent to the energy released $\Delta E$.
 
+![[Pasted image 20260303215823.png]]
+
+$$
+\begin{gather*}
+\text{Alpha decay:}
+\end{gather*}
+$$
+
+![[Pasted image 20260303220113.png]]
+
+# Matter annihilation and creation
+Energy can be created from matter. When a particle and its corresponding antiparticle meet, they completely 
