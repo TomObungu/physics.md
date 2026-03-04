@@ -42,5 +42,19 @@ $$
 $$
 \Delta E = \Delta mc^{2} = 2m_{c}
 $$
-Therefore the minimum energy of each gamma photon is $m_{c}c^{2}$
+Therefore the minimum energy of each gamma photon is $m_{c}c^{2}$ which is $8.2 \times 10^{-14}J$ or $0.51MeV$. If the interacting particles also have kinetic energy, then the energy of each photon would be even greater.
 
+
+In pair production, a single photon vanishes and its energy creates a particle and corresponding antiparticle. For a photon to produce an electron-positron pair and electron is equivalent to minimum energy $0.51MeV$, the minimum energy of the photon creating pair must be $2 (0.51) = 1.02MeV$. 
+
+# Nuclear Reactions
+In a particle accelerator like the LHC at CERN, high energy photons collide. Their kinetic energy is transformed into matter. Under right conditions, energy in whatever form can be transferred into matter, just as a gamma photon, which is electromagnetic energy, can change into an electron-positron pair. 
+
+The conditions after the Big Bang and the creation of the universe were similar. The temperatures were so high that particle-antiparticle pairs of all sorts were being created and destroyed in interactions. Particle accelerators provide a means of recreating the conditions in the very early Universe. 
+
+Consider the nuclear reaction below. Two protons, travelling at speed close to that of light, collide and produce a proton, neutron and a hadron called a $\pi^{+}$ meson.
+$$
+^{1}_{1}p + ^{1}_{1}p \to ^{1}_{1}p + ^{1}_{0}n + \pi^{+}
+$$
+
+The total rest mass of the particle after the collision is greater than that before. The increase $\Delta m$ is multiplied by $c^{2}$ must be equal to the minimum kinetic energy of the colliding protons. 
