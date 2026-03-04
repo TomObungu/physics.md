@@ -235,16 +235,16 @@
         "y": 42,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "b42cceb54e04adb7",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Einstein's mass-energy equation.md",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Binding energy.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Binding energy.md",
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Einstein's mass-energy equation.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/attachments/Pasted image 20260304053804.png",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/attachments/Pasted image 20260303220113.png",
