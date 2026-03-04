@@ -177,37 +177,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "be9b7e13ae321e74",
-        "type": "window",
-        "children": [
-          {
-            "id": "8f4137e7aa8a7fe5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a42b75e9322551a9",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org )"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "e5f108831dc8f0ff",
         "type": "window",
         "children": [
@@ -240,14 +209,14 @@
       }
     ]
   },
-  "active": "bf1559230be7dc4d",
+  "active": "c970ff84fbbf26f1",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Einstein's mass-energy equation.md",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/attachments/Pasted image 20260303220113.png",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/attachments/Pasted image 20260303215823.png",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/attachments",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Einstein's mass-energy equation.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics",
     "OCR A Level Physics/In Lesson Notes/Radioactivity/PAG 7.1 Notes.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
@@ -279,7 +248,6 @@
     "OCR A Level Physics/Specification/Module 6/Radioactivity/attachments/Pasted image 20260205225222.png",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/attachments/Pasted image 20260205223348.png",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/attachments/Pasted image 20260205222851.png",
-    "OCR A Level Physics/Specification/Module 6/Radioactivity/attachments/Pasted image 20260205201920.png",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/attachments",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/The nucleus.md",
     "OCR A Level Physics/Specification/Module 3/Definitions and practicals.md",

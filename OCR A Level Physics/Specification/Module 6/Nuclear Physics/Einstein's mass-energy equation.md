@@ -29,13 +29,18 @@ Since energy is released in radioactive decay, there must be decrease in mass. T
 
 ![[Pasted image 20260303215823.png]]
 
-$$
-\begin{gather*}
-\text{Alpha decay:}
-\end{gather*}
-$$
 
 ![[Pasted image 20260303220113.png]]
 
 # Matter annihilation and creation
-Energy can be created from matter. When a particle and its corresponding antiparticle meet, they completely 
+Energy can be created from matter. When a particle and its corresponding antiparticle meet, they completely destroy each other and their entire mass in converted into two identical gamma photons. The energy of each photon is $ $mc^{2}$, $m$ is the mass of each particle or antiparticle. This phenomenon is first seen in positron emission tomography (PET). 
+
+Consider an electron-positron pair annihilating each other. 
+$$
+\Delta m =  2m_{c} = 2(9.11 \times 10 ^{-31})
+$$
+$$
+\Delta E = \Delta mc^{2} = 2m_{c}
+$$
+Therefore the minimum energy of each gamma photon is $m_{c}c^{2}$
+
