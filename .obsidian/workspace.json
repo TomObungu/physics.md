@@ -219,7 +219,7 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -257,16 +257,16 @@
   },
   "active": "a967e8f25da2ce62",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled/Nuclear fusion.md",
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled/Nuclear fission.md",
+    "OCR A Level Physics/In Lesson Notes/Nuclear Physics/6 March 2026.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/In Lesson Notes/Nuclear Physics/attachments/Pasted image 20260306095614.png",
     "OCR A Level Physics/In Lesson Notes/Nuclear Physics/attachments",
     "Excalidraw/Drawing 2026-01-07 11.53.06.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20260306095057_280.png",
     "Excalidraw/attachments",
     "Excalidraw/Drawing 2026-01-03 20.09.59.excalidraw.md",
-    "OCR A Level Physics/In Lesson Notes/Nuclear Physics/6 March 2026.md",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled/Nuclear fusion.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled/Nuclear fission.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/attachments/Pasted image 20260306000519.png",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Binding energy.md",
@@ -300,7 +300,6 @@
     "OCR A Level Physics/Untitled.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/attachments/Pasted image 20260206004345.png",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/attachments/Pasted image 20260206003240.png",
-    "OCR A Level Physics/Specification/Module 6/Radioactivity/attachments/Pasted image 20260206002536.png",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/Beta decay.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/attachments",
     "Untitled.canvas"
