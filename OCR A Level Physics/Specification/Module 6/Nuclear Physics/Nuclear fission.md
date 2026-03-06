@@ -44,8 +44,6 @@ $$
 # Chain reaction
 The fission of uranium-235 is more likely with slow neutrons than fast.
 
-Slow neutrons are more likely to be overcome by the strong nuclear force and be held in place in the nucleus by it. Fast moving neutrons have much more kinetic energy and more likely maintain high velocity despite the decelerating strong nuclear force. 
-
 If the three fast neutrons produced in a fission reaction reaction can be slowed, a chain reaction becomes possible - These three neutrons start three more chain reactions. After $n$ fission events $3^{n}$ would be present and the rate of energy release will be exponential with time. 
 
 Nuclear reactors in power plants ensure a steady product of power by ensuring only one slow neutron survives between successive fission reactions.

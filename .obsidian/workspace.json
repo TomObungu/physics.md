@@ -204,6 +204,37 @@
         "y": 0,
         "width": 960,
         "height": 1040,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "80a241cf7f768b7a",
+        "type": "window",
+        "children": [
+          {
+            "id": "edd2efceea55285a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f9fde9fea6fadfb",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
@@ -213,8 +244,8 @@
   "lastOpenFiles": [
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Nuclear fission.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Nuclear fusion.md",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/attachments/Pasted image 20260306000519.png",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/attachments/Pasted image 20260306000519.png",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Binding energy.md",
     "OCR A Level Physics/In Lesson Notes/Nuclear Physics/4 March 2026.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Einstein's mass-energy equation.md",
@@ -251,7 +282,6 @@
     "OCR A Level Physics/Specification/Module 6/Particle Physics/Quarks.md",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/Alpha-particle scattering experiment.md",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/Antiparticles, hadrons and leptons.md",
-    "Untitled.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/attachments/Pasted image 20260205225222.png",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/attachments",
     "OCR A Level Physics/Specification/Module 6/Radioactivity",
