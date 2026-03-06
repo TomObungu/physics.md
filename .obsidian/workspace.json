@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled/Nuclear fusion.md",
+                "file": "OCR A Level Physics/In Lesson Notes/Nuclear Physics/6 March 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nuclear fusion"
+              "title": "6 March 2026"
             }
           }
         ]
@@ -204,7 +204,7 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -240,12 +240,13 @@
       }
     ]
   },
-  "active": "c970ff84fbbf26f1",
+  "active": "bf1559230be7dc4d",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled/Nuclear fission.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled/Nuclear fusion.md",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled",
+    "OCR A Level Physics/In Lesson Notes/Nuclear Physics/6 March 2026.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled/Nuclear fission.md",
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/attachments/Pasted image 20260306000519.png",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Binding energy.md",
     "OCR A Level Physics/In Lesson Notes/Nuclear Physics/4 March 2026.md",
