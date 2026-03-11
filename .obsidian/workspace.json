@@ -219,7 +219,7 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -257,6 +257,7 @@
   },
   "active": "90e8e5d990f697c0",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected question/attachments/Pasted image 20260306110017.png",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected question/attachments/Pasted image 20260306110010.png",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected question/attachments",
@@ -265,7 +266,6 @@
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected question",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled/Nuclear fusion.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled/Nuclear fission.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/In Lesson Notes/Nuclear Physics/attachments/Pasted image 20260306095614.png",
     "OCR A Level Physics/In Lesson Notes/Nuclear Physics/attachments",
     "Excalidraw/Drawing 2026-01-07 11.53.06.excalidraw.md",
@@ -302,7 +302,6 @@
     "OCR A Level Physics/In Lesson Notes/Radioactivity/6th February.md",
     "OCR A Level Physics/In Lesson Notes/Induction Lesson.md",
     "OCR A Level Physics/Untitled.md",
-    "OCR A Level Physics/Specification/Module 6/Radioactivity/attachments/Pasted image 20260206004345.png",
     "Untitled.canvas"
   ]
 }
