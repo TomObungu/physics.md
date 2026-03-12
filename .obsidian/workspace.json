@@ -219,7 +219,7 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -252,13 +252,44 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "4b9fbf4f95e4b735",
+        "type": "window",
+        "children": [
+          {
+            "id": "a0148a54a34874c2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "02e1592372becc3a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "90e8e5d990f697c0",
+  "active": "c970ff84fbbf26f1",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected question/Q. Explain what is meant by the half-life of a free neutron.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected question/attachments/Pasted image 20260306110017.png",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected question/attachments/Pasted image 20260306110010.png",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected question/attachments",
