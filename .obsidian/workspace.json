@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Medical Imaging/Interaction of X-rays with matter.md",
+                "file": "OCR A Level Physics/Specification/Medical Imaging/CAT Scans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interaction of X-rays with matter"
+              "title": "CAT Scans"
             }
           }
         ],
@@ -255,11 +255,12 @@
       }
     ]
   },
-  "active": "a967e8f25da2ce62",
+  "active": "90e8e5d990f697c0",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313061619.png",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Medical Imaging/CAT Scans.md",
     "OCR A Level Physics/Specification/Medical Imaging/Interaction of X-rays with matter.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313061619.png",
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313060711.png",
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313060450.png",
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313060336.png",
@@ -270,7 +271,6 @@
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313053931.png",
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313053658.png",
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260312211935.png",
-    "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260312211341.png",
     "OCR A Level Physics/Specification/Medical Imaging/attachments",
     "OCR A Level Physics/Specification/Medical Imaging",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected question/Q. Explain what is meant by the half-life of a free neutron.md",
