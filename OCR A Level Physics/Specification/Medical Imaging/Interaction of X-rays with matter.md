@@ -60,6 +60,37 @@ Using the formula:
 $$
 \begin{gather*}
 I = I_{0}e^{-\mu x} \\ \\
-I = 18e^{-0.60 \times 10^{-2}(7 \times 10^{-3})} = 
 \end{gather*}
 $$
+It is important the match the units to the same units as the attenuation coefficient as given in the question. In the question the units given were $cm ^{-1}$ and the thickness was $mm ^{-1}$. Therefore we must multiply the thickness by $\frac{10^{-3}}{10^{-2}}$ to get the thickness in $cm ^{-1}$. 
+$$
+\mu = 0.60 cm ^{-1} \qquad x = 7\left( \frac{10^{-3}}{10^{-2}} \right) = 0.70 cm ^{-1}
+$$
+Substituting into the formula:
+$$
+I = 18e^{-(0.60)(0.70)} = 11.85\dots \approx 12W
+$$
+
+# Contrast medium
+Soft tissues have low absorption coefficients, so a contrast medium is used to improve the visibility of their internal structures in X-ray images. 
+
+The two most common and iodine and barium compounds which are harmless to humans.
+
+Barium and iodine have large atomic numbers, $Z$. From X-ray imaging, the predominant attenuation mechanism is the photoelectric effect.  
+
+The attenuation coefficient is proportional to the cube of the atomic number:
+$$
+\mu \propto Z^{3}
+$$
+
+For soft tissues, the average atomic number for its material composition is $7$. This means iodine ($Z=53$) and $(Z=56)$ are about 430 times and 510 times more absorbent than soft tissues.
+
+This is why iodine and barium are suitable as they have high atomic numbers and relatively harmless to humans. 
+
+Iodine is used a contrast medium in liquids. Often to view blood, iodine is injected into blood vessels so that doctors can diagnose blockages in blood vessels and the structure of organs such as the heart.
+
+Barium sulphate is often used to image digestive systems. It is given to a patient in the form of a white liquid mixture (a 'barium meal'). Which the patient swallows before an X-ray image is taken. 
+
+# Therapeutic use
+X-rays are also used for therapy rather than imaging. X-ray machines called lincas (linear accelerators) are used to create high energy X-ray photons that kill of cancerous cells. 
+
