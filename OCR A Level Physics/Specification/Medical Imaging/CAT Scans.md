@@ -11,9 +11,11 @@ The X-ray tube produces a fan-shaped beam of X-rays that is typically only 1-10 
 
 Each time time the X-ray and detectors make a 360 degree rotation, a two dimensional image or slice is acquired. For each complete revolution, the table moves about 1cm through the ring.  In the next revolution, the X-ray beam irradiates the next slice through the patient's body. So the X-ray beam follows a spiral path during the 10-30 minute scan.
 
-Th radiographer can view each two-dimensional slice throguh the patient. In addition the slices can be manipulated by sophisticated software to produce a three-dimensional image of the image. This three-dimensional image can rotated and zoomed on a display. 
+Th radiographer can view each two-dimensional slice through the patient. In addition the slices can be manipulated by sophisticated software to produce a three-dimensional image of the image. This three-dimensional image can rotated and zoomed on a display. 
 
-# Advantags and disadvantages
+# Advantages and disadvantages
 CAT scans be used to create a three-dimensional image of the patient that helps doctors asses the shape, size and position of disorders such as tumours. CAT scans can distinguish between soft tissues of similar attenuation coefficients. 
 
-X-rays are ionising radiation and are h
+X-rays are ionising radiation and the exposure in a CAT scanner can have radiation doses equivalent to several years of background radiation, much more than a simple X-ray.
+
+Patients have to remain very still during the scanning process as movement blurs the slice. Remaining still can be quite tricky for some patients, especially for very young patients. 
