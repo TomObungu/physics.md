@@ -192,37 +192,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "e4bac40260d70cab",
-        "type": "window",
-        "children": [
-          {
-            "id": "0a0eb5d5d2e1b7c4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "90e8e5d990f697c0",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "4b9fbf4f95e4b735",
         "type": "window",
         "children": [
@@ -257,9 +226,10 @@
   },
   "active": "02e1592372becc3a",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Medical Imaging/CAT Scans.md",
+    "OCR A Level Physics/Specification/Medical Imaging/X-rays.md",
     "OCR A Level Physics/Specification/Medical Imaging/Interaction of X-rays with matter.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313061619.png",
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313060711.png",
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313060450.png",
@@ -267,7 +237,6 @@
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313060325.png",
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313060324.png",
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313060037.png",
-    "OCR A Level Physics/Specification/Medical Imaging/X-rays.md",
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313053931.png",
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260313053658.png",
     "OCR A Level Physics/Specification/Medical Imaging/attachments/Pasted image 20260312211935.png",
