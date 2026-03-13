@@ -38,3 +38,17 @@ hf = eV  \\ \\
 $$
 The wavelength from an x-ray tube is inversely proportional to the accelerating potential difference. Increasing the tube current just increase then intensity of the  x-rays.
 
+# Characteristic spectrum
+A graph of x-ray intensity against wavelength shows there is a broad background level of 'braking radiation' from the range of deceleration of electrons within the test tube. 
+
+However, the narrow lines on the graph are referred as the 'K-lines' and are characteristic of the x-rays being released from the interaction of electron and target metal nuclei. You can see that they are of a specific wavelength and match the discrete energy required for an electron to jump energy levels. 
+
+![[Pasted image 20260313053658.png]]
+
+
+K-lines are produced by transitions between electron energy levels. The bombarding electrons can remove electrons in the metal atoms close to the nuclei. These create absences of electrons in lower energy levels which are quickly filled by electrons dropping from higher energy levels. These transitions release photons of the x-ray wavelength.
+
+![[Pasted image 20260313053931.png]]
+
+
+
