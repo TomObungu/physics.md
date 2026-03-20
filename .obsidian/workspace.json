@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 6/Medical Imaging/The gamma camera.md",
+                "file": "OCR A Level Physics/Specification/Module 6/Medical Imaging/Ultrasound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The gamma camera"
+              "title": "Ultrasound"
             }
           }
         ],
@@ -187,8 +187,47 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a967e8f25da2ce62",
+  "floating": {
+    "id": "aca76a7268a60d74",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ff51777fa717c24b",
+        "type": "window",
+        "children": [
+          {
+            "id": "2eff16bfa6389ffe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3be93aceb87b61eb",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3be93aceb87b61eb",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 6/Medical Imaging/Ultrasound.md",
+    "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260319225038.png",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/The gamma camera.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/PET scans.md",
@@ -206,7 +245,6 @@
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260313060450.png",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260313060336.png",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260313060325.png",
-    "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260313060324.png",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected question/Q. Explain what is meant by the half-life of a free neutron.md",
@@ -233,7 +271,6 @@
     "OCR A Level Physics/Specification/Module 6/Radioactivity/Radioactivity.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/Half-life and activity.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/Nuclear decay equations.md",
-    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Electromagnetic Induction.md",
     "Untitled.canvas"
   ]
 }
