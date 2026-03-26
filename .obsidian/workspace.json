@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Interaction of X-rays with matter"
             }
-          },
-          {
-            "id": "3d273b8a5d9a0a3d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,16 +219,17 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "3d273b8a5d9a0a3d",
+  "active": "3be93aceb87b61eb",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 6/Medical Imaging/Interaction of X-rays with matter.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/CAT Scans.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/Ultrasound.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260319225038.png",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/The gamma camera.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/PET scans.md",
@@ -251,7 +240,6 @@
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260318072332.png",
     "OCR A Level Physics/Specification/Medical Imaging/Untitled",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/X-rays.md",
-    "OCR A Level Physics/Specification/Module 6/Medical Imaging/Interaction of X-rays with matter.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260313061619.png",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260313060711.png",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260313060450.png",
