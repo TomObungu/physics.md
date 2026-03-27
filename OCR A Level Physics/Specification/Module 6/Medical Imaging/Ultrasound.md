@@ -18,4 +18,4 @@ An ultrasound transducer contains a piezo crystal within it. A high alternating 
 
 The transducer emits pulses of ultrasound, typically 5000 pulses every second. The frequency of the sound wave is 5 MHz and 5000 of these pulses are released every second. 
 
-The transducer also detects ultrasound. Ultrasound incident on the crystal will make it vibrate
+The transducer also detects ultrasound. Ultrasound incident on the crystal will make it vibrate, the crystal is compressed 
