@@ -187,45 +187,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "aca76a7268a60d74",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ff51777fa717c24b",
-        "type": "window",
-        "children": [
-          {
-            "id": "2eff16bfa6389ffe",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3be93aceb87b61eb",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "a967e8f25da2ce62",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260327134551.png",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/Ultrasound.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/Interaction of X-rays with matter.md",
