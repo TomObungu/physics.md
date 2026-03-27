@@ -13,3 +13,9 @@ Crystals such as quartz produce an e.m.f when compressed, stretched or twisted. 
 
 ![[Pasted image 20260319225038.png]]
 
+# Ultrasound transducer
+An ultrasound transducer contains a piezo crystal within it. A high alternating p.d e.g 5 MHz is applied to the opposite sides of the crystal. This causes the crystal to repeatedly compress and extend. This oscillation is chosen at the natural frequency of the crystal to cause resonance and therefore an amplified ultrasound signal. 
+
+The transducer emits pulses of ultrasound, typically 5000 pulses every second. The frequency of the sound wave is 5 MHz and 5000 of these pulses are released every second. 
+
+The transducer also detects ultrasound. Ultrasound incident on the crystal will make it vibrate
