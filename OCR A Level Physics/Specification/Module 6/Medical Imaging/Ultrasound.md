@@ -29,4 +29,17 @@ The received pulse is displayed on an oscilloscope screen or a computer as volta
 
 ![[Pasted image 20260327134551.png]]
 
-In the example above, you can see each pulse received loses energy on each reflection on the boundary between the initial medium and organic tissue. The first pulse is the partial reflection between the initial ultrasound wave and the patient's cornea. The second wave is the partial reflection from the patients lens - This interaction caused the reflected wave to lose a lot of energy. The fourth interaction was from the final interaction between the patients retina. My speculation for the increased intensity is due to the partial superpositions 
+In the example above, you can see each pulse received loses energy on each reflection on the boundary between the initial medium and organic tissue. The first pulse is the partial reflection between the initial ultrasound wave and the patient's cornea. The second wave is the partial reflection from the patients lens - This interaction caused the reflected wave to lose a lot of energy. The fourth interaction was from the final interaction between the patients retina. The increased voltage is due to acoustic impedance. 
+
+
+The total distance travelled by the ultrasound pulse is $2L$, where $L$ is the distance between the transducer and the retina. The value of $L$ can be calculated using if the average speed $v$ of the ultrasound in the eye is known. 
+
+# Worked Example 1
+The average speed of ultrasound in the eye is 1550 $ms ^{-1}$. The time interval $t$ in the A-scan shown in the figure 4 is 27 $\mu s$. Determine the approximate length $L$ of the eyeball. 
+
+
+1. Calculate the distance using $d = vt$.:
+$$
+d = 1550(27 \times 10^{-6}) = 0.04185m
+$$
+2. The calculate distance is 2$L$ to consider the distance the 
