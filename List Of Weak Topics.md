@@ -102,6 +102,6 @@ Module 4:
 
 - Practicals:
 	- PAG3: 
-	- Determining speed of sound using resonance tubes
-	- Investigating diffraction grating 
-	- Determining the refractive index of a glass block
+		- Determining speed of sound using resonance tubes
+		- Investigating diffraction grating 
+		- Determining the refractive index of a glass block
