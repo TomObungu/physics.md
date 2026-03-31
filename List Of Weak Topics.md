@@ -1,9 +1,9 @@
 Module 5:
+- Oscillations
 - Thermal physics
 	- Specific heat capacity
 	- Specific latent heat
 	- Internal energy
-- Oscillations
 - Gravitational fields
 	- Kepler's laws
 	- Satellites
@@ -20,7 +20,6 @@ Module 5:
 	- The Doppler effect
 	- Hubble's law
 	- The Big Bang Theory
-
 - Practicals:
 	- PAG8: Investigating Gases:
 		- Investigating Boyle's law $(P \propto \frac{1}{V})$
@@ -31,7 +30,6 @@ Module 5:
 	- PAG10: Investigating SHM
 		- Investigating factors affecting SHM (pendulum or mass-spring system)
 		- Observing forced and damped oscillations 
-
 
 Module 6:
 - Capacitance:
@@ -64,7 +62,6 @@ Module 6:
 	- Ultrasound 
 	- Acoustic impedance
 	- Doppler imaging
-
 - Practicals:
 	- PAG7: Investigating ionsing radiation 
 		- Investigating the properties of $\alpha$, $\beta$ and $\gamma$ radiation 
@@ -72,7 +69,7 @@ Module 6:
 
 Module 4: 
 - Waves 2
-	-  Superposition of waves
+	- Superposition of waves
 	- Stationary waves
 	- Harmonics
 	- Stationary waves in air columns
@@ -99,9 +96,17 @@ Module 4:
 	- Potential divider circuits
 - Charge and Current
 	- Mean drift velocity
-
 - Practicals:
-	- PAG3: 
+	- PAG3: Investigating electrical properties
+		- Determining resistivity of a wire
+		- Investigating I-V characteristics of components
+	- PAG4: Investigating electrical circuits
+		- Determining the internal resistance and e.m.f of a power source 
+		- Investigating potential divider circuits
+	- PAG5: Investigating waves
 		- Determining speed of sound using resonance tubes
 		- Investigating diffraction grating 
 		- Determining the refractive index of a glass block
+	- PAG6: Investigating Quantum Effects
+		- Determining Planck's constant using LEDs
+		- Investigating the photoelectric effect

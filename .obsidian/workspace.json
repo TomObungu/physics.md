@@ -177,37 +177,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "d0c367f64c898ecf",
-        "type": "window",
-        "children": [
-          {
-            "id": "b567b03be02f6337",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "134cf4c33fd9eef3",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "36d3073cd565694a",
         "type": "window",
         "children": [
@@ -240,11 +209,11 @@
       }
     ]
   },
-  "active": "d2b108b9beb6d050",
+  "active": "88f988dc27e44943",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "List Of Weak Topics.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/Ultrasound.md",
     "OCR A Level Physics/In Lesson Notes/Nuclear Physics/6 March 2026.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260327134551.png",
