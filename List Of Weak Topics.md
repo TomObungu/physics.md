@@ -21,6 +21,18 @@ Module 5:
 	- Hubble's law
 	- The Big Bang Theory
 
+- Practicals:
+	- PAG8: Investigating Gases:
+		- Investigating Boyle's law $(P \propto \frac{1}{V})$
+		- Investigating Charles's law $(P \propto T)$ and estimating absolute zero
+	- PAG9: Investigating Capacitors:
+		- Investigating charging and discharging capacitors
+		- Investigating capacitors in series and parallel
+	- PAG10: Investigating SHM
+		- Investigating factors affecting SHM (pendulum or mass-spring system)
+		- Observing forced and damped oscillations 
+
+
 Module 6:
 - Capacitance:
 	- Capacitors
@@ -49,9 +61,14 @@ Module 6:
 - Medical Imaging:
 	- X-rays
 	- CAT scans
-	- Utrasound 
-	- Acoutstic impedance
+	- Ultrasound 
+	- Acoustic impedance
 	- Doppler imaging
+
+- Practicals:
+	- PAG7: Investigating ionsing radiation 
+		- Investigating the properties of $\alpha$, $\beta$ and $\gamma$ radiation 
+		- Determining the half-life of a radioactive source.
 
 Module 4: 
 - Waves 2
@@ -70,10 +87,21 @@ Module 4:
 	- Einstein's photoelectric effect equation 
 	- Wave particle duality 
 	- The photoelectric effect
-- Charge and Current
-- Energy, power and resistance 
+- Energy, power and resistance: 
 	- Resistance 
+	- Potential difference and e.m.f
 	- Resistance and resistivity 
+- Electrical circuits:
+	- Combining resistors
+	- Internal resistance 
 	- Combining resistors 
 	- Analysing circuits
-	- Internal resistance 
+	- Potential divider circuits
+- Charge and Current
+	- Mean drift velocity
+
+- Practicals:
+	- PAG3: 
+	- Determining speed of sound using resonance tubes
+	- Investigating diffraction grating 
+	- Determining the refractive index of a glass block
