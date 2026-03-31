@@ -1,0 +1,79 @@
+Module 5:
+- Thermal physics
+	- Specific heat capacity
+	- Specific latent heat
+	- Internal energy
+- Oscillations
+- Gravitational fields
+	- Kepler's laws
+	- Satellites
+	- Gravitational potential 
+- Stars
+- Ideal gases
+	- Kinetic theory of gases
+	- Gas laws
+	- Root mean square speed
+- Circular Motion
+	- Centripetal acceleration
+- Cosmology
+	- Astronomical distances
+	- The Doppler effect
+	- Hubble's law
+	- The Big Bang Theory
+
+Module 6:
+- Capacitance:
+	- Capacitors
+	- Capacitance in circuits
+	- Energy stored by capacitors
+	- Discharging/Charging capacitors
+- Magnetic fields:
+	- Charged particles in magnetic fields
+	- Understanding magnetic fields
+- Electric fields:
+	- Coulomb's law
+	 - Uniform electric fields and capacitance
+	 - Charged particles in uniform electric fields
+	 - Electric potential and energy
+- Particles physics:
+	- Antiparticles, hadrons and leptons
+	- Quarks
+	- Beta decay
+- Radioactivity:
+	- Modelling radioactive decay 
+	- Radioactive decay calculations 
+	- Radioactive dating
+	- Nuclear decay equations
+- Nuclear physics:
+	- Binding energy
+- Medical Imaging:
+	- X-rays
+	- CAT scans
+	- Utrasound 
+	- Acoutstic impedance
+	- Doppler imaging
+
+Module 4: 
+- Waves 2
+	-  Superposition of waves
+	- Stationary waves
+	- Harmonics
+	- Stationary waves in air columns
+- Waves 1:
+	- Intensity
+	- Electromagnetic waves
+	- Polarisation of electromagnetic waves 
+	- Refractive index
+	- Total internal refraction 
+- Quantum physics
+	- The photon model
+	- Einstein's photoelectric effect equation 
+	- Wave particle duality 
+	- The photoelectric effect
+- Charge and Current
+- Energy, power and resistance 
+	- Resistance 
+	- Resistance and resistivity 
+	- Combining resistors 
+	- Analysing circuits
+	- Internal resistance 
