@@ -172,78 +172,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "aca76a7268a60d74",
-    "type": "floating",
-    "children": [
-      {
-        "id": "36d3073cd565694a",
-        "type": "window",
-        "children": [
-          {
-            "id": "80fabf0b646cacc3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d9d22c156ae97985",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org )"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "6db37453a2f01887",
-        "type": "window",
-        "children": [
-          {
-            "id": "b940bcb4120aa0e3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "656bee761b49638b",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "656bee761b49638b",
+  "active": "d2b108b9beb6d050",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406100620.png",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406100620.png",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Damping and driving.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406100316.png",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
@@ -268,7 +200,6 @@
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260318080755.png",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260318072532.png",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260318072344.png",
-    "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260318072332.png",
     "OCR A Level Physics/Specification/Medical Imaging/Untitled",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging",
