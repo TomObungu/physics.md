@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 5/Oscillations/Damping and driving.md",
+                "file": "OCR A Level Physics/Specification/Module 4/Waves 1/Progressive waves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Damping and driving"
+              "title": "Progressive waves"
             }
           }
         ]
@@ -172,21 +172,90 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d2b108b9beb6d050",
+  "floating": {
+    "id": "14f8db8528ebf1a6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "988792e0aab14457",
+        "type": "window",
+        "children": [
+          {
+            "id": "6abceeebff658ec6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a8be9c84f7f87582",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "6815a40414962626",
+        "type": "window",
+        "children": [
+          {
+            "id": "508e7c281dce78fc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3520ca25c7d65846",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org )"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a8be9c84f7f87582",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406100620.png",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/Damping and driving.md",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406100316.png",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 4/Waves 1/Progressive waves.md",
+    "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
+    "List Of Weak Topics.md",
+    "OCR A Level Physics/Specification/Module 5/Oscillations/Damping and driving.md",
+    "OCR A Level Physics/Specification/Module 5/Oscillations/Simple harmonic motion and energy.md",
+    "OCR A Level Physics/Specification/Module 5/Oscillations/Oscillations and simple harmonic motion.md",
+    "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406100620.png",
+    "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406100316.png",
     "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406095705.png",
     "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406094644.png",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/Simple harmonic motion and energy.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406083908.png",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/Oscillations and simple harmonic motion.md",
     "OCR A Level Physics/Specification/Module 5/Definitons and Practicals.md",
-    "List Of Weak Topics.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/Ultrasound.md",
     "OCR A Level Physics/In Lesson Notes/Nuclear Physics/6 March 2026.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260327134551.png",
@@ -218,7 +287,6 @@
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Einstein's mass-energy equation.md",
     "OCR A Level Physics/In Lesson Notes/Radioactivity/PAG 7.1 Notes.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/Radioactive Dating.md",
-    "OCR A Level Physics/In Lesson Notes/Radioactivity/25th February.md",
     "Untitled.canvas"
   ]
 }
