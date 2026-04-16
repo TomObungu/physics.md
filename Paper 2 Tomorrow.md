@@ -7,6 +7,7 @@ Little hints picked up throughout the day:
 - Particle Physics
 	- Hadrons and Quarks
 - Radioactivity
+- Particle Physics
 - Nuclear Physics
 - Waves 1 and 2
 	- Young double-slit experiment
@@ -15,4 +16,3 @@ Little hints picked up throughout the day:
 - Magnetic fields
 	- EM induction
 		- Faraday and Lenz's law
-- Particle 
