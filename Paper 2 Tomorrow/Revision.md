@@ -56,3 +56,6 @@ Resistivity is the constant of proportionality for that equation.
 The resistivity can be worked out using the circuit diagram and by varying the length of the wire and measuring the resistance. A graph of R against L will the $\rho$ 
 ![[Pasted image 20260417000454.png]]
 
+9.8 Thermistor
+- Non-ohmic 
+![[Pasted image 20260417001929.png]]
