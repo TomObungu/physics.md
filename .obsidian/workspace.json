@@ -208,68 +208,6 @@
         "zoom": 0
       },
       {
-        "id": "c2a7ea52e8e6fa63",
-        "type": "window",
-        "children": [
-          {
-            "id": "b7bce094d3b8cfa0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "70b88a27df831991",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "efa80a56315fdaea",
-        "type": "window",
-        "children": [
-          {
-            "id": "bfe02b2069df9049",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "126bc23899eef4ac",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "0a2e8f4be9576278",
         "type": "window",
         "children": [
@@ -301,40 +239,70 @@
         "height": 1000,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "85848b28807096cf",
+        "type": "window",
+        "children": [
+          {
+            "id": "a610dbd9b572598b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c4fe5dce0df6bef3",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "7987551955914379",
+  "active": "6246e1624d3f280f",
   "lastOpenFiles": [
-    "Paper 2 Tomorrow/attachments/Pasted image 20260417001929.png",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "Paper 2 Tomorrow/Revision.md",
-    "Paper 2 Tomorrow/attachments/Pasted image 20260417000454.png",
-    "Paper 2 Tomorrow/attachments/Pasted image 20260417000138.png",
-    "Paper 2 Tomorrow/attachments/Pasted image 20260416234429.png",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "Paper 2 Tomorrow/Paper 2 Tomorrow.md",
+    "Paper 2 Tomorrow/attachments/Pasted image 20260417064045.png",
+    "Paper 2 Tomorrow/attachments/Pasted image 20260417063223.png",
+    "Paper 2 Tomorrow/attachments/Pasted image 20260417061523.png",
+    "Paper 2 Tomorrow/attachments/Pasted image 20260417055254.png",
+    "Paper 2 Tomorrow/attachments/Pasted image 20260417054424.png",
+    "Paper 2 Tomorrow/attachments/Pasted image 20260417054251.png",
+    "Paper 2 Tomorrow/attachments/Pasted image 20260417054227.png",
+    "Paper 2 Tomorrow/attachments/Pasted image 20260417053457.png",
+    "Paper 2 Tomorrow/attachments/Pasted image 20260417053206.png",
+    "OCR A Level Physics/Specification/Module 4/Waves 1/Progressive waves.md",
+    "Paper 2 Tomorrow/attachments/Pasted image 20260417051127.png",
     "Paper 2 Tomorrow/attachments",
     "List Of Weak Topics.md",
-    "Paper 2 Tomorrow/Paper 2 Tomorrow.md",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "Paper 2 Tomorrow",
-    "OCR A Level Physics/Specification/Module 4/Waves 1/Progressive waves.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Damping and driving.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Simple harmonic motion and energy.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Oscillations and simple harmonic motion.md",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406100620.png",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406100316.png",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406095705.png",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406094644.png",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/attachments/Pasted image 20260406083908.png",
     "OCR A Level Physics/Specification/Module 5/Definitons and Practicals.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/Ultrasound.md",
     "OCR A Level Physics/In Lesson Notes/Nuclear Physics/6 March 2026.md",
-    "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260327134551.png",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/Interaction of X-rays with matter.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/X-rays.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/CAT Scans.md",
-    "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments/Pasted image 20260319225038.png",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/The gamma camera.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/PET scans.md",
     "OCR A Level Physics/In Lesson Notes/18th March.md",
