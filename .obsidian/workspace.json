@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper 2 Tomorrow/Paper 2 Tomorrow.md",
+                "file": "OCR A Level Physics/Specification/Module 3/Forces In Action/Archimedes Princple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paper 2 Tomorrow"
+              "title": "Archimedes Princple"
             }
           }
         ]
@@ -172,12 +172,61 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+  "floating": {
+    "id": "2a6d337851ae713b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ff0defca63c20429",
+        "type": "window",
+        "children": [
+          {
+            "id": "9e26f63b3ce89d80",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "979a23eafe80bc8b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "d2b108b9beb6d050",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "Paper 2 Tomorrow/Paper 2 Tomorrow.md",
-    "Paper 2 Tomorrow/Revision.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 3/Forces In Action/Archimedes Princple.md",
+    "OCR A Level Physics/Specification/Module 3/Forces In Action/Triangle of forces.md",
+    "OCR A Level Physics/Specification/Module 3/Forces In Action/Couples and torques.md",
+    "OCR A Level Physics/Specification/Module 3/Forces In Action/Drag and terminal velocity.md",
+    "OCR A Level Physics/Specification/Module 3/Forces In Action/Density and pressure.md",
+    "OCR A Level Physics/Specification/Module 3/Forces In Action/Centre Of Mass.md",
+    "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/Q. Describe and explain how the resultant force on the wooden cylinder varies from the moment the cylinder is submerged until it reaches its deepest point.md",
+    "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/Q. Calculate the vertical lift force F acting on the model due to the airflow.md",
+    "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/attachments/Pasted image 20260421091944.png",
+    "List Of Weak Topics.md",
+    "OCR A Level Physics/Specification/Module 3/Untitled",
+    "OCR A Level Physics/Specification/Module 5/Ideal Gases/Root mean square speed.md",
+    "Paper 2 Tomorrow/Paper 2 Tomorrow.md",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "Paper 2 Tomorrow/Revision.md",
     "Paper 2 Tomorrow/attachments/Pasted image 20260417064045.png",
     "Paper 2 Tomorrow/attachments/Pasted image 20260417063223.png",
     "Paper 2 Tomorrow/attachments/Pasted image 20260417061523.png",
@@ -188,9 +237,7 @@
     "Paper 2 Tomorrow/attachments/Pasted image 20260417053457.png",
     "Paper 2 Tomorrow/attachments/Pasted image 20260417053206.png",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Progressive waves.md",
-    "Paper 2 Tomorrow/attachments/Pasted image 20260417051127.png",
     "Paper 2 Tomorrow/attachments",
-    "List Of Weak Topics.md",
     "Paper 2 Tomorrow",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Damping and driving.md",
@@ -204,21 +251,11 @@
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/CAT Scans.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/The gamma camera.md",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/PET scans.md",
-    "OCR A Level Physics/In Lesson Notes/18th March.md",
     "OCR A Level Physics/Specification/Medical Imaging/Untitled",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected question/Q. Explain what is meant by the half-life of a free neutron.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected question/attachments",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected question",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled/Nuclear fusion.md",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Untitled/Nuclear fission.md",
-    "OCR A Level Physics/In Lesson Notes/Nuclear Physics/attachments",
-    "Excalidraw/Drawing 2026-01-07 11.53.06.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-03 20.09.59.excalidraw.md",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Binding energy.md",
-    "OCR A Level Physics/In Lesson Notes/Nuclear Physics/4 March 2026.md",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Einstein's mass-energy equation.md",
     "Untitled.canvas"
   ]
 }
