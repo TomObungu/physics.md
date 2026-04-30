@@ -24,9 +24,6 @@ Module 5:
 	- PAG8: Investigating Gases:
 		- Investigating Boyle's law $(P \propto \frac{1}{V})$
 		- Investigating Charles's law $(P \propto T)$ and estimating absolute zero
-	- PAG9: Investigating Capacitors:
-		- Investigating charging and discharging capacitors
-		- Investigating capacitors in series and parallel
 	- PAG10: Investigating SHM
 		- Investigating factors affecting SHM (pendulum or mass-spring system)
 		- Observing forced and damped oscillations 
@@ -66,6 +63,9 @@ Module 6:
 	- PAG7: Investigating ionsing radiation 
 		- Investigating the properties of $\alpha$, $\beta$ and $\gamma$ radiation 
 		- Determining the half-life of a radioactive source.
+	- PAG9: Investigating Capacitors:
+		- Investigating charging and discharging capacitors
+		- Investigating capacitors in series and parallel
 
 Module 4: 
 - Waves 2
