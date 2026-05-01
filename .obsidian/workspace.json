@@ -252,12 +252,14 @@
                 "id": "71b6bd8c4c148cd9",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "markdown",
                   "state": {
-                    "file": "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf"
+                    "file": "List Of Weak Topics.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-file-text",
-                  "title": "A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org )"
+                  "icon": "lucide-file",
+                  "title": "List Of Weak Topics"
                 }
               }
             ]
@@ -273,7 +275,7 @@
       }
     ]
   },
-  "active": "d2b108b9beb6d050",
+  "active": "71b6bd8c4c148cd9",
   "lastOpenFiles": [
     "OCR A Level Physics/Specification/Module 4/Waves 1/Progressive waves.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260430230243.png",
