@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 4/Waves 1/Electromagnetic waves.md",
+                "file": "OCR A Level Physics/Specification/Module 4/Waves 1/Wave Properties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electromagnetic waves"
+              "title": "Wave Properties"
             }
           }
         ]
@@ -267,23 +267,25 @@
         "x": 960,
         "y": 0,
         "width": 960,
-        "height": 520,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "4d6178baf5bec96b",
+  "active": "d2b108b9beb6d050",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 4/Waves 1/Wave Properties.md",
+    "OCR A Level Physics/Specification/Module 4/Waves 1/Polarisation of electromagnetic waves.md",
+    "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501075434.png",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Electromagnetic waves.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501071553.png",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Intensity.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Reflection and Defraction.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501064930.png",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 4/Definitions and Practicals.md",
-    "OCR A Level Physics/Specification/Module 4/Waves 1/Wave Properties.md",
     "List Of Weak Topics.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501064452.png",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501064018.png",
@@ -305,7 +307,6 @@
     "OCR A Level Physics/Specification/Module 3/Forces In Action/Archimedes Princple.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/corrected questions",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/Untitled.md",
-    "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/attachments/Pasted image 20260421101752.png",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/Triangle of forces.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/Couples and torques.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/Drag and terminal velocity.md",
@@ -317,7 +318,6 @@
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Root mean square speed.md",
     "Paper 2 Tomorrow/attachments",
     "Paper 2 Tomorrow",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
     "OCR A Level Physics/Specification/Medical Imaging/Untitled",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments",
     "Untitled.canvas"

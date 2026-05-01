@@ -42,3 +42,6 @@ $$
 \phi = \frac{x}{\lambda} (360)
 $$
 
+## Using an oscilloscope to determine wave frequency
+Oscilloscopes show a graph p.d against time, for any signal fed into it. 
+Each horizontal square represents a time interval. This is the timebase. If the timebase is 
