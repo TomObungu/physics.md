@@ -9,3 +9,8 @@ The intensity from a point source of power P decreases with distance $r$ from th
 $$
 I = \frac{P}{4\pi r^{2}} \propto \frac{1}{r^{2}}
 $$
+## Intensity and amplitude
+The intensity $I$ for a wave is related to the amplitude of $A$ of the wave by the following expression
+$$
+I \propto A^{2}
+$$

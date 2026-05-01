@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 4/Waves 1/Intensity.md",
+                "file": "OCR A Level Physics/Specification/Module 4/Waves 1/Electromagnetic waves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intensity"
+              "title": "Electromagnetic waves"
             }
           }
         ]
@@ -273,13 +273,15 @@
       }
     ]
   },
-  "active": "d2b108b9beb6d050",
+  "active": "4d6178baf5bec96b",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 4/Waves 1/Reflection and Defraction.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 4/Waves 1/Electromagnetic waves.md",
+    "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501071553.png",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Intensity.md",
+    "OCR A Level Physics/Specification/Module 4/Waves 1/Reflection and Defraction.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501064930.png",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 4/Definitions and Practicals.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Wave Properties.md",
     "List Of Weak Topics.md",
@@ -311,14 +313,11 @@
     "OCR A Level Physics/Specification/Module 3/Forces In Action/Centre Of Mass.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/Q. Describe and explain how the resultant force on the wooden cylinder varies from the moment the cylinder is submerged until it reaches its deepest point.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/Q. Calculate the vertical lift force F acting on the model due to the airflow.md",
-    "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/attachments/Pasted image 20260421091944.png",
     "OCR A Level Physics/Specification/Module 3/Untitled",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Root mean square speed.md",
     "Paper 2 Tomorrow/attachments",
     "Paper 2 Tomorrow",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/Damping and driving.md",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/Simple harmonic motion and energy.md",
     "OCR A Level Physics/Specification/Medical Imaging/Untitled",
     "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments",
     "Untitled.canvas"
