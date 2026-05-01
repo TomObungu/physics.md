@@ -68,9 +68,9 @@ Module 6:
 		- Investigating capacitors in series and parallel
 
 Module 4: 
-- Waves 2
-	- Superposition of waves
-	- Stationary waves
+- ~~Waves 2~~
+	- ~~Superposition of waves~~
+	- ~~Stationary waves~~
 	- Harmonics
 	- Stationary waves in air columns
 		- Speed of sound in resonance tubes
