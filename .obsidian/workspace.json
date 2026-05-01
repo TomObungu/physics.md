@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 4/Quantum Physics/The Photon Model.md",
+                "file": "OCR A Level Physics/Specification/Module 4/Quantum Physics/Einstein's Photoelectric Equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Photon Model"
+              "title": "Einstein's Photoelectric Equation"
             }
           }
         ]
@@ -301,15 +301,54 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "1369918e51ccf9d1",
+        "type": "window",
+        "children": [
+          {
+            "id": "2d0052f9fdb8a88b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0d707c9581cb4393",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "List Of Weak Topics.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "List Of Weak Topics"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "4d394619b33f5744",
+  "active": "d3c32ef4ac2cefa2",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/Specification/Module 4/Quantum Physics/The Photon Model.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "List Of Weak Topics.md",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 4/Quantum Physics/Einstein's Photoelectric Equation.md",
+    "OCR A Level Physics/Specification/Module 4/Quantum Physics/The photoelectric effect.md",
+    "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments/Pasted image 20260501173847.png",
+    "OCR A Level Physics/Specification/Module 4/Quantum Physics/The Photon Model.md",
+    "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments/Pasted image 20260501173552.png",
+    "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments/Pasted image 20260501173543.png",
+    "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments",
     "OCR A Level Physics/Specification/Module 4/Waves 2/Stationary waves in air columns.md",
     "OCR A Level Physics/Specification/Module 4/Waves 2/attachments/Pasted image 20260501142042.png",
     "OCR A Level Physics/Specification/Module 4/Waves 2/attachments/Pasted image 20260501142034.png",
@@ -324,15 +363,12 @@
     "OCR A Level Physics/Specification/Module 4/Waves 2/attachments/Pasted image 20260501124957.png",
     "OCR A Level Physics/Specification/Module 4/Waves 2/Superposition Of Waves.md",
     "OCR A Level Physics/Specification/Module 4/Waves 2/attachments/Pasted image 20260501122656.png",
-    "OCR A Level Physics/Specification/Module 4/Waves 2/attachments/Pasted image 20260501121925.png",
-    "OCR A Level Physics/Specification/Module 4/Waves 2/attachments/Pasted image 20260501121532.png",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Reflection and Defraction.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Electromagnetic waves.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Polarisation of electromagnetic waves.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Progressive waves.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Refractive Index.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Intensity.md",
-    "OCR A Level Physics/Specification/Module 4/Waves 2/attachments/Pasted image 20260501115908.png",
     "OCR A Level Physics/Specification/Module 4/Waves 2/attachments",
     "OCR A Level Physics/Specification/Module 4/Waves 2",
     "OCR A Level Physics/Specification/Module 4/Definitions and Practicals.md",
@@ -345,12 +381,9 @@
     "Paper 2 Tomorrow/Paper 2 Tomorrow.md",
     "Paper 2 Tomorrow/Revision.md",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Work done and energy.md",
-    "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Kinetic energy and gravitational potential Energy.md",
-    "OCR A Level Physics/Specification/Module 5/Cosomology/corrected questions/Q. Describe and explain how the equivalent spectrum may appear.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 5/Cosomology/corrected questions",
     "OCR A Level Physics/Specification/Module 3/Untitled",
-    "Paper 2 Tomorrow/attachments",
     "Untitled.canvas"
   ]
 }

@@ -80,13 +80,13 @@ Module 4:
 	- ~~Polarisation of electromagnetic waves~~ 
 	- ~~Refractive index~~
 	- ~~Total internal refraction~~ 
-- Quantum physics
-	- The photon model
-	- Einstein's photoelectric effect equation 
-		- Photoelectric effects
-			- Gold-leaf electroscope
+- ~~Quantum physics~~
+	- ~~The photon model~~
+	- ~~Einstein's photoelectric effect equation~~ 
+		- ~~Photoelectric effects~~
+			- ~~Gold-leaf electroscope~~
 	- Wave particle duality 
-	- The photoelectric effect
+	- ~~The photoelectric effect~~
 - Energy, power and resistance: 
 	- Resistance 
 	- Potential difference and e.m.f
