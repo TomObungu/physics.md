@@ -73,6 +73,7 @@ Module 4:
 	- Stationary waves
 	- Harmonics
 	- Stationary waves in air columns
+		- Speed of sound in resonance tubes
 - Waves 1:
 	- Intensity
 	- Electromagnetic waves
@@ -82,6 +83,8 @@ Module 4:
 - Quantum physics
 	- The photon model
 	- Einstein's photoelectric effect equation 
+		- Photoelectric effects
+			- Gold-leaf electroscope
 	- Wave particle duality 
 	- The photoelectric effect
 - Energy, power and resistance: 
@@ -110,3 +113,7 @@ Module 4:
 	- PAG6: Investigating Quantum Effects
 		- Determining Planck's constant using LEDs
 		- Investigating the photoelectric effect
+
+Module 3: 
+Materials 
+	- Stress, strain and the young modulus. 

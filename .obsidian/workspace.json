@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 4/Waves 1/Total Internal Reflection.md",
+                "file": "List Of Weak Topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Total Internal Reflection"
+              "title": "List Of Weak Topics"
+            }
+          },
+          {
+            "id": "5d3447e4f8fefa5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper 3 Evaluation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paper 3 Evaluation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": " list of weak",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -270,18 +285,54 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "61698f24c65d50d3",
+        "type": "window",
+        "children": [
+          {
+            "id": "d028814185e28005",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "57b01315c6ac44fb",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
   "active": "d3c32ef4ac2cefa2",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "Paper 3 Evaluation.md",
+    "OCR A Level Physics/Specification/Module 4/Quantum Physics",
+    "OCR A Level Physics/Specification/Module 4/Untitled.md",
+    "List Of Weak Topics.md",
+    "OCR A Level Physics/Specification/Module 6/Defintions and Practicals.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Total Internal Reflection.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501085515.png",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Refractive Index.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501084324.png",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501084246.png",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Polarisation of electromagnetic waves.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501083830.png",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501083126.png",
@@ -293,13 +344,11 @@
     "OCR A Level Physics/Specification/Module 4/Waves 1/Reflection and Defraction.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501064930.png",
     "OCR A Level Physics/Specification/Module 4/Definitions and Practicals.md",
-    "List Of Weak Topics.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501064452.png",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments/Pasted image 20260501064018.png",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Progressive waves.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments",
     "OCR A Level Physics/Specification/Module 3/Definitions and practicals.md",
-    "OCR A Level Physics/Specification/Module 6/Defintions and Practicals.md",
     "Paper 2 Tomorrow/Paper 2 Tomorrow.md",
     "Paper 2 Tomorrow/Revision.md",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Work done and energy.md",
@@ -313,13 +362,10 @@
     "OCR A Level Physics/Specification/Module 3/Forces In Action/Couples and torques.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/Drag and terminal velocity.md",
     "OCR A Level Physics/Specification/Module 3/Forces In Action/Density and pressure.md",
-    "OCR A Level Physics/Specification/Module 3/Forces In Action/Centre Of Mass.md",
-    "OCR A Level Physics/Specification/Module 3/Forces In Action/corrected questions/Q. Describe and explain how the resultant force on the wooden cylinder varies from the moment the cylinder is submerged until it reaches its deepest point.md",
     "OCR A Level Physics/Specification/Module 3/Untitled",
     "Paper 2 Tomorrow/attachments",
     "Paper 2 Tomorrow",
     "OCR A Level Physics/Specification/Medical Imaging/Untitled",
-    "OCR A Level Physics/Specification/Module 6/Medical Imaging/attachments",
     "Untitled.canvas"
   ]
 }
