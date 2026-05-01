@@ -8,8 +8,12 @@ Quantum Physics
 - Photoelectric effects
 	- Gold-leaf electroscope
 		- Moments
-Materials 
-	- Stress, strain and Young Modulus
+Materials -
+- Stress, strain and Young Modulus
 Gravitational fields
-	Kepler's Law
-	
+- Kepler's Law
+Ideal Gases 
+- Kinetic theory of gases
+Thermal Physics
+- Triple point
+- Internal energy
