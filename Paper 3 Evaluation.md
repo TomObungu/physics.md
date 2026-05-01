@@ -17,3 +17,5 @@ Ideal Gases
 Thermal Physics
 - Triple point
 - Internal energy
+Magnetic fields
+ - Current carrying conductors 
