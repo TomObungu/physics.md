@@ -31,5 +31,10 @@ For a tube open at both ends, there must be an antinode at both ends. Therefore 
 ![[Pasted image 20260501142042.png]]
 Therefore, unlike a tube closed at end, harmonics can take place at all integer multiples of fundamental frequency.
 $$
-f_{0}, 2f_{0}
+f_{0}, 2f_{0}, 3f_0, 4f_{0}
 $$
+Therefore the wavelengths will be $\frac{\lambda}{2}$ multiplied by the even power of frequency. 
+$$
+\frac{\lambda}{2}, \lambda, \frac{3\lambda}{2}, 2\lambda
+$$
+

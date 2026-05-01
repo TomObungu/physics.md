@@ -71,9 +71,9 @@ Module 4:
 - ~~Waves 2~~
 	- ~~Superposition of waves~~
 	- ~~Stationary waves~~
-	- Harmonics
-	- Stationary waves in air columns
-		- Speed of sound in resonance tubes
+	- ~~Harmonics~~
+	- ~~Stationary waves in air columns~~
+		- ~~Speed of sound in resonance tubes~~
 - ~~Waves 1:~~
 	- ~~Intensity~~
 	- ~~Electromagnetic waves~~
