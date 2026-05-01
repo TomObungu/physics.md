@@ -44,4 +44,11 @@ $$
 
 ## Using an oscilloscope to determine wave frequency
 Oscilloscopes show a graph p.d against time, for any signal fed into it. 
-Each horizontal square represents a time interval. This is the timebase. If the timebase is $1mscm^{-1}$ then that mean each centimetre represents a period of 1 millisecond passing. 
+Each horizontal square represents a time interval. This is the timebase. If the timebase is $1mscm^{-1}$ then that mean each centimetre represents a period of 1 millisecond passing. The height setting on the oscilloscope shows the y-sensitivity of the reading. A reading of $10Vcm^{-1}$ means there is a voltage of $10V$ for each centimetre of height. 
+
+The period can be calculated by finding the number of squares between each peak and multiplying it by the time base setting.  This will give period $T$. 
+
+The frequency of oscillation can then be calculated using:
+$$
+f = \frac{1}{T}
+$$

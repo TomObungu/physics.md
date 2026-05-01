@@ -3,6 +3,5 @@ When two or more progressive waves meet, they combine and then pass through each
 ## Principle of superposition
 This states that when two or more waves meet at  a point, the resultant displacement is equal to the sum of the individual displacments at that point. 
 
-
  $I \propto A^{2}$, the increase in amplitude will result in intensity proportional to the square of the amplitude. 
 
