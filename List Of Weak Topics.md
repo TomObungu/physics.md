@@ -85,7 +85,7 @@ Module 4:
 	- ~~Einstein's photoelectric effect equation~~ 
 		- ~~Photoelectric effects~~
 			- ~~Gold-leaf electroscope~~
-	- Wave particle duality 
+	- ~~Wave particle duality~~ 
 	- ~~The photoelectric effect~~
 - Energy, power and resistance: 
 	- Resistance 

@@ -14,3 +14,5 @@ $$
 KE_{max} = hf - \phi
 $$
 Therefore plotting a graph KE against against frequency. It is possible to plot a graph of $KE_{max}$ against $f$ if the work function $\phi$ of the metal is known and the frequency of the incident radiation is known. This is possible through $hf$
+
+![[Pasted image 20260501181626.png]]
