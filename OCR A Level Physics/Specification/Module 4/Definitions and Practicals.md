@@ -1,2 +1,0 @@
-Practicals 
-- Investigating electrical properties

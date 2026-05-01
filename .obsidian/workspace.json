@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 4/Quantum Physics/Wave-particle duality.md",
+                "file": "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Circuit Diagrams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wave-particle duality"
+              "title": "Circuit Diagrams"
             }
           }
         ]
@@ -241,37 +241,6 @@
         "zoom": 0
       },
       {
-        "id": "07c54d4ffefe41cb",
-        "type": "window",
-        "children": [
-          {
-            "id": "0e36d53e46ace905",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4d6178baf5bec96b",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "61698f24c65d50d3",
         "type": "window",
         "children": [
@@ -337,14 +306,19 @@
       }
     ]
   },
-  "active": "71b6bd8c4c148cd9",
+  "active": "0d707c9581cb4393",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "List Of Weak Topics.md",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Circuit Diagrams.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 4/Practicals/Determining the resistivity of a wire.md",
+    "OCR A Level Physics/Specification/Module 4/Practicals/PAG3 - Investigating Electrcal Properties",
+    "OCR A Level Physics/Specification/Module 4/Definitions.md",
+    "OCR A Level Physics/Specification/Module 4/Practicals",
     "OCR A Level Physics/Specification/Module 4/Quantum Physics/Wave-particle duality.md",
     "OCR A Level Physics/Specification/Module 4/Quantum Physics/Einstein's Photoelectric Equation.md",
     "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments/Pasted image 20260501181626.png",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 4/Quantum Physics/The photoelectric effect.md",
     "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments/Pasted image 20260501173847.png",
     "OCR A Level Physics/Specification/Module 4/Quantum Physics/The Photon Model.md",
@@ -372,18 +346,13 @@
     "OCR A Level Physics/Specification/Module 4/Waves 1/Intensity.md",
     "OCR A Level Physics/Specification/Module 4/Waves 2/attachments",
     "OCR A Level Physics/Specification/Module 4/Waves 2",
-    "OCR A Level Physics/Specification/Module 4/Definitions and Practicals.md",
     "OCR A Level Physics/Specification/Module 3/Definitions and practicals.md",
     "Paper 3 Evaluation.md",
     "OCR A Level Physics/Specification/Module 4/Quantum Physics",
     "OCR A Level Physics/Specification/Module 6/Defintions and Practicals.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Total Internal Reflection.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/attachments",
-    "Paper 2 Tomorrow/Paper 2 Tomorrow.md",
-    "Paper 2 Tomorrow/Revision.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/corrected questions/attachments",
-    "OCR A Level Physics/Specification/Module 5/Cosomology/corrected questions",
-    "OCR A Level Physics/Specification/Module 3/Untitled",
     "Untitled.canvas"
   ]
 }
