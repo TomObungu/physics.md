@@ -9,5 +9,14 @@ E = hf \ \ E = \frac{hc}{\lambda}
 $$
 
 ## Electronvolts
-The electronvolt is a convenient unit of energy when dealing with particles and photons. 
+The electronvolts is a convenient unit of energy when dealing with particles and photons. 
 
+The electronvolt is defined as the energy gained by an electron travelling through a potential difference of 1 volt. 
+This is:
+$$
+1eV = 1.60 \times 10^{-19}
+$$
+
+## LEDs and the Plank Constant $h$
+
+LEDs emit light when the potential difference exceeds a threshold voltage V. PHotons are emitted 
