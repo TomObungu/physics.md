@@ -18,4 +18,4 @@ Thermal Physics
 - Triple point
 - Internal energy
 Magnetic fields
- - Current carrying conductors x
+ - Current carrying conductors 

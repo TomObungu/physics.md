@@ -74,12 +74,12 @@ Module 4:
 	- Harmonics
 	- Stationary waves in air columns
 		- Speed of sound in resonance tubes
-- Waves 1:
-	- Intensity
-	- Electromagnetic waves
-	- Polarisation of electromagnetic waves 
-	- Refractive index
-	- Total internal refraction 
+- ~~Waves 1:~~
+	- ~~Intensity~~
+	- ~~Electromagnetic waves~~
+	- ~~Polarisation of electromagnetic waves~~ 
+	- ~~Refractive index~~
+	- ~~Total internal refraction~~ 
 - Quantum physics
 	- The photon model
 	- Einstein's photoelectric effect equation 
@@ -117,3 +117,8 @@ Module 4:
 Module 3: 
 Materials 
 	- Stress, strain and the young modulus. 
+	- Car stopping distances 
+	- Archimedes principle
+	- Moments and equilibrium
+		- Couples and torques 
+	- Drag and terminal velocity
