@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Circuit Diagrams.md",
+                "file": "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating capacitors in parallel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Circuit Diagrams"
+              "title": "Investigating capacitors in parallel"
             }
           }
         ]
@@ -239,15 +239,55 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "b1607345aec387ca",
+        "type": "window",
+        "children": [
+          {
+            "id": "5100f84eaf5a5f41",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ae9b85db72c033d3",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": true,
+        "zoom": 0
       }
     ]
   },
-  "active": "0d707c9581cb4393",
+  "active": "ae9b85db72c033d3",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Circuit Diagrams.md",
     "List Of Weak Topics.md",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating capacitors in parallel.md",
+    "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating charging and discharging capacitors.md",
+    "OCR A Level Physics/Specification/Module 6/Practicals/PAG9",
+    "OCR A Level Physics/Specification/Module 6/Practicals",
+    "OCR A Level Physics/Specification/Module 6/Capacitance/Capacitors In Circuits.md",
+    "OCR A Level Physics/Revision/Capacitors Revision.md",
+    "OCR A Level Physics/Revision",
+    "OCR A Level Physics/Specification/Module 6/Capacitance/Capacitors.md",
+    "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Charged particles in magnetic fields.md",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Circuit Diagrams.md",
     "OCR A Level Physics/Specification/Module 4/Practicals/Determining the resistivity of a wire.md",
     "OCR A Level Physics/Specification/Module 4/Practicals/PAG3 - Investigating Electrcal Properties",
     "OCR A Level Physics/Specification/Module 4/Definitions.md",
@@ -278,17 +318,8 @@
     "OCR A Level Physics/Specification/Module 4/Waves 1/Electromagnetic waves.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Polarisation of electromagnetic waves.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/Progressive waves.md",
-    "OCR A Level Physics/Specification/Module 4/Waves 1/Refractive Index.md",
-    "OCR A Level Physics/Specification/Module 4/Waves 1/Intensity.md",
     "OCR A Level Physics/Specification/Module 4/Waves 2/attachments",
     "OCR A Level Physics/Specification/Module 4/Waves 2",
-    "OCR A Level Physics/Specification/Module 3/Definitions and practicals.md",
-    "Paper 3 Evaluation.md",
-    "OCR A Level Physics/Specification/Module 4/Quantum Physics",
-    "OCR A Level Physics/Specification/Module 6/Defintions and Practicals.md",
-    "OCR A Level Physics/Specification/Module 4/Waves 1/Total Internal Reflection.md",
-    "OCR A Level Physics/Specification/Module 4/Waves 1/attachments",
-    "OCR A Level Physics/Specification/Module 5/Cosomology/corrected questions/attachments",
     "Untitled.canvas"
   ]
 }

@@ -19,6 +19,18 @@ For two or more capacitors in series.
 - The charge $Q$ stored by each capacitor is the same
 - The total capacitance $C$ is given by the equation $\frac{1}{C} = \frac{1}{C_{1}}+ \frac{1}{C_{2}} + \frac{1}{C_{3}}+\dots$
 
+## Derivation Of Total Capacitance 
+We know that in  a series circuit the total voltage is the sum of the individual voltages in a closed loop, according to Kirchhoff's law:
+$$
+V_{total} = V_{1} + V_{2} + V_{3}\dots
+$$
+We also know that the magnitude of Capacitance on each plate will be equal. Therefore using $Q=CV$ and rearranging for $V$ gets:
+$$
+\begin{gather*}
+\frac{Q}{C} = \frac{Q}{C_{1}} + \frac{Q}{C_{2}} + \frac{Q}{C_{3}}\dots \\ \\
+\frac{1}{C} = \frac{1}{C_{1}} + \frac{1}{C_{2}} + \frac{1}{C_{3}}
+\end{gather*}
+$$
 ## Analysing Capacitor Circuits
 ### Investigating circuits
 A possible experimental layout for investigating capacitor circuits 
