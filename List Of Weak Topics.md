@@ -32,7 +32,7 @@ Module 6:
 - ~~Capacitance:~~
 	- ~~Capacitors~~
 	- ~~Capacitance in circuits~~
-	- Energy stored by capacitors
+	- ~~Energy stored by capacitors~~
 	- Discharging/Charging capacitors
 - Magnetic fields:
 	- Charged particles in magnetic fields

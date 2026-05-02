@@ -89,3 +89,32 @@ $$
 $$
 
 Compare this with the equation of a straight line $y=mc+c$ a graph of $\ln V$ against $t$ gives gradient $-\frac{1}{CR}$ and y-intercept $V_{0}$
+
+## Example 
+An example table of information can be used to prove this:
+![[Pasted image 20260502105707.png|166]]
+Filling up the table by taking $\ln V$, to  give values to be used plot $\ln V$ against $t$:
+![[Pasted image 20260502105851.png|198]]
+Using the information we can draw  a digital line of best fit for $\ln V$ against $t$. From our mathematical model earlier, the $y$ intercept will be $\ln V_{0}$ and the gradient will be $-\frac{1}{RC}$
+![[Pasted image 20260502105657.png]]
+Using the calculator we can get the line equation to be:
+$$
+y = -0.03030308x + 2.197621
+$$
+Thus, we can get a time constant value of about $33s$
+$$
+\begin{gather*}
+m =  -0.03030308 = - \frac{1}{RC} = \tau \\ \\
+\tau = -(0.03030308)^{-1} = 32.99994\dots \approx 33s
+\end{gather*}
+$$
+From that we can calculate the value of the capacitor if the resistance of the resistor is known. In this case it is $33k\Omega$. In this case it about $1000\mu F$
+$$
+\begin{gather}
+RC = 33.99994\dots \implies 33.99994 = (33 \times 10^{3})C \\  \\
+C = \frac{33.99994}{33 \times 10^{3}} = 9.9999836\dots \times 10 ^{-4}  \\ \\ \\
+C \approx 1000 \mu F
+\end{gather}
+$$
+
+ 
