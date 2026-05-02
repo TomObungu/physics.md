@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 6/Capacitance/Uses Of capacitors.md",
+                "file": "OCR A Level Physics/Specification/Module 6/Capacitance/Capacitors In Circuits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uses Of capacitors"
+              "title": "Capacitors In Circuits"
             }
           }
         ],
@@ -215,7 +215,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 960,
         "y": 0,
         "width": 960,
         "height": 1040,
@@ -310,26 +310,27 @@
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "80fbaa01ca20e862",
+  "active": "ae9b85db72c033d3",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Iterative Exponential Decay Model.md",
-    "OCR A Level Physics/Specification/Module 6/Capacitance/Uses Of capacitors.md",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "List Of Weak Topics.md",
+    "OCR A Level Physics/Specification/Module 6/Capacitance/Capacitors In Circuits.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 6/Capacitance/Charging Capacitors.md",
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/Electric Fields.md",
+    "OCR A Level Physics/Specification/Module 6/Capacitance/Uses Of capacitors.md",
+    "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Iterative Exponential Decay Model.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Energy Stored by capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Discharging capacitors.md",
-    "OCR A Level Physics/Specification/Module 6/Capacitance/Charging Capacitors.md",
-    "List Of Weak Topics.md",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/Specification/Module 6/Capacitance/Capacitors In Circuits.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/attachments/Pasted image 20260502105851.png",
     "OCR A Level Physics/Specification/Module 6/Capacitance/attachments/Pasted image 20260502105707.png",
     "OCR A Level Physics/Specification/Module 6/Capacitance/attachments/Pasted image 20260502105657.png",
@@ -363,7 +364,6 @@
     "OCR A Level Physics/Specification/Module 4/Waves 2/attachments/Pasted image 20260501142034.png",
     "OCR A Level Physics/Specification/Module 4/Waves 2/Harmonics.md",
     "OCR A Level Physics/Specification/Module 4/Waves 2/Interference.md",
-    "OCR A Level Physics/Specification/Module 4/Waves 2/Stationary Waves.md",
     "OCR A Level Physics/Specification/Module 4/Waves 2/attachments",
     "OCR A Level Physics/Specification/Module 4/Waves 2",
     "Untitled.canvas"

@@ -20,7 +20,7 @@ For two or more capacitors in series.
 - The total capacitance $C$ is given by the equation $\frac{1}{C} = \frac{1}{C_{1}}+ \frac{1}{C_{2}} + \frac{1}{C_{3}}+\dots$
 
 ## Derivation Of Total Capacitance 
-We know that in  a series circuit the total voltage is the sum of the individual voltages in a closed loop, according to Kirchhoff's law:
+We know that in a series circuit the total voltage is the sum of the individual voltages in a closed loop, according to Kirchhoff's second law:
 $$
 V_{total} = V_{1} + V_{2} + V_{3}\dots
 $$
