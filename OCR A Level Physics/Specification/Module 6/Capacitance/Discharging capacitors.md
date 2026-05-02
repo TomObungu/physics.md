@@ -39,6 +39,18 @@ $$
 $$
 The equation for exponential decay of $Q=Q_{0}e^{\frac{-t}{RC}}$ of charge is a solution to this equation. 
 
+Further expanding on this. Since the potential difference across a discharging capacitor is the same as the the resistor it is discharging into. 
+
+We can form another useful identity using, $I$, $R$ 
+$$
+\begin{gather*}
+V = IR \ \ V = \frac{Q}{C} \\ \\
+IR = \frac{Q}{C} \\
+-\frac{\Delta Q}{\Delta t} R = \frac{Q}{C} \\ \\
+\frac{\Delta Q}{\Delta t}R = \frac{Q}{C}
+\end{gather*}
+$$
+
 # Iterative modelling
 The equation $\frac{\Delta Q}{\Delta t} = -\frac{Q}{CR}$ can be used for model the decay of $Q$ on the capacitor.
 
