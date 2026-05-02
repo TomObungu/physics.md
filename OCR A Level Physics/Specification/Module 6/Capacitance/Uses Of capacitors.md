@@ -3,6 +3,17 @@ Unlike chemical energy cells, capacitors cannot store a great deal of energy in 
 A joule of energy is stored in a normal capacitor however all of the energy is released in $1ms$. The gives a power output of about $1kW$ This is what happens in a camera flash.  
 
 As well as that capacitors can be used to proved back-up power for computers and emergency lighting when the mains supply cuts out briefly.
+## Power and Capacitors
+### Example 1
+A camera flash uses 1.2F capacitor and a cell of e.m.f 1.5. Calculate the maximum power from a flash of 1.1ms.
+1. Calculate the energy/work of the capacitor:
+$$
+W = \frac{1}{2}CV^{2} = \frac{1}{2}(1.2)(1.5)^{2} = 1.35J
+$$
+2. Use $P = \frac{W}{t}$ to calculate the power output of the capacitor
+$$
+P = \frac{1.35}{1.1 \times 10^{-3}} = 1227.272727\dots \approx 1.2 kW
+$$
 
 ## Smoothing Capacitors
 Household mains supply is supplied as alternating current. In order to convert this alternating voltage into a smooth direct voltage, a rectifier circuit is used:
