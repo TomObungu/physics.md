@@ -29,9 +29,9 @@ Module 5:
 		- Observing forced and damped oscillations 
 
 Module 6:
-- Capacitance:
-	- Capacitors
-	- Capacitance in circuits
+- ~~Capacitance:~~
+	- ~~Capacitors~~
+	- ~~Capacitance in circuits~~
 	- Energy stored by capacitors
 	- Discharging/Charging capacitors
 - Magnetic fields:
