@@ -264,11 +264,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 732,
-        "y": 24,
-        "width": 1011,
-        "height": 800,
-        "maximize": true,
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
         "zoom": 0
       }
     ]
@@ -276,16 +276,17 @@
   "active": "ae9b85db72c033d3",
   "lastOpenFiles": [
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "List Of Weak Topics.md",
     "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Iterative Exponential Decay Model.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Discharging capacitors.md",
+    "OCR A Level Physics/Specification/Module 6/Capacitance/attachments/Pasted image 20260502103420.png",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Energy Stored by capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Charging Capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Capacitors In Circuits.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Uses Of capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating capacitors in parallel.md",
-    "List Of Weak Topics.md",
     "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating charging and discharging capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Practicals/PAG9",
     "OCR A Level Physics/Specification/Module 6/Practicals",
@@ -317,7 +318,6 @@
     "OCR A Level Physics/Specification/Module 4/Waves 2/attachments/Pasted image 20260501133454.png",
     "OCR A Level Physics/Specification/Module 4/Waves 2/attachments/Pasted image 20260501131059.png",
     "OCR A Level Physics/Specification/Module 4/Waves 2/The Young Double Slit Experiment.md",
-    "OCR A Level Physics/Specification/Module 4/Waves 2/attachments/Pasted image 20260501124957.png",
     "OCR A Level Physics/Specification/Module 4/Waves 2/attachments",
     "OCR A Level Physics/Specification/Module 4/Waves 2",
     "Untitled.canvas"
