@@ -285,44 +285,15 @@
         "height": 1040,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "d192d5c1b01ff4a6",
-        "type": "window",
-        "children": [
-          {
-            "id": "1f55715b17990b53",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7bf83a8bcf065a59",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "List Of Weak Topics.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "List Of Weak Topics"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
-  "active": "7bf83a8bcf065a59",
+  "active": "ae9b85db72c033d3",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/Q. Explain why the charge left on the ball is Q_0 by 1000.md",
+    "List Of Weak Topics.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Uses Of capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Energy Stored by capacitors.md",
@@ -330,13 +301,10 @@
     "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Iterative Exponential Decay Model.md",
     "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating capacitors in parallel.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Show that 14 particles are emitted during this decay chain..md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Calculate the kinetic energy, in MeV, of the alpha-particle.md",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Explain what is meant by the half-life of a free neutron.md",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/Beta decay.md",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/Quarks.md",
-    "List Of Weak Topics.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/attachments/Pasted image 20260506121740.png",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/attachments/Pasted image 20260506121400.png",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Nuclear fusion.md",
@@ -345,7 +313,6 @@
     "OCR A Level Physics/Specification/Module 6/corrected questions",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/corrected questions",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Charged particles in uniform electric fields.md",
-    "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/Q. Explain why the charge left on the ball is Q_0 by 1000.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/attachments/Pasted image 20260502192848.png",
     "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Capacitors In Circuits.md",
