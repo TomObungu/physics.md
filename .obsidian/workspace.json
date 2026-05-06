@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 6/Electric Fields/Equipotentials.md",
+                "file": "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Calculate the kinetic energy, in MeV, of the alpha-particle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equipotentials"
+              "title": "Q. Calculate the kinetic energy, in MeV, of the alpha-particle"
             }
           }
         ],
@@ -316,17 +316,29 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "7bf83a8bcf065a59",
+  "active": "80fbaa01ca20e862",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Show that 14 particles are emitted during this decay chain..md",
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Explain what is meant by the half-life of a free neutron.md",
+    "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating charging and discharging capacitors.md",
+    "OCR A Level Physics/Specification/Module 6/Particle Physics/Beta decay.md",
+    "OCR A Level Physics/Specification/Module 6/Particle Physics/Quarks.md",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/Specification/Module 6/Electric Fields/Equipotentials.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "List Of Weak Topics.md",
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/attachments/Pasted image 20260506121740.png",
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Calculate the kinetic energy, in MeV, of the alpha-particle.md",
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/attachments/Pasted image 20260506121400.png",
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Nuclear fusion.md",
+    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Nuclear fission.md",
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/Equipotentials.md",
+    "OCR A Level Physics/Specification/Module 6/corrected questions",
+    "OCR A Level Physics/Specification/Module 6/Particle Physics/corrected questions",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Charged particles in uniform electric fields.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/Q. Explain why the charge left on the ball is Q_0 by 1000.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/attachments/Pasted image 20260502192848.png",
@@ -347,27 +359,16 @@
     "OCR A Level Physics/Specification/Module 6/Capacitance/attachments/Pasted image 20260502103420.png",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating capacitors in parallel.md",
-    "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating charging and discharging capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Practicals/PAG9",
     "OCR A Level Physics/Specification/Module 6/Practicals",
     "OCR A Level Physics/Revision/Capacitors Revision.md",
     "OCR A Level Physics/Revision",
     "OCR A Level Physics/Specification/Module 6/Magnetic Fields/Charged particles in magnetic fields.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Circuit Diagrams.md",
-    "OCR A Level Physics/Specification/Module 4/Practicals/Determining the resistivity of a wire.md",
     "OCR A Level Physics/Specification/Module 4/Practicals/PAG3 - Investigating Electrcal Properties",
-    "OCR A Level Physics/Specification/Module 4/Definitions.md",
-    "OCR A Level Physics/Specification/Module 4/Practicals",
-    "OCR A Level Physics/Specification/Module 4/Quantum Physics/Wave-particle duality.md",
-    "OCR A Level Physics/Specification/Module 4/Quantum Physics/Einstein's Photoelectric Equation.md",
     "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments/Pasted image 20260501181626.png",
-    "OCR A Level Physics/Specification/Module 4/Quantum Physics/The photoelectric effect.md",
     "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments/Pasted image 20260501173847.png",
-    "OCR A Level Physics/Specification/Module 4/Quantum Physics/The Photon Model.md",
     "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments/Pasted image 20260501173552.png",
-    "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments/Pasted image 20260501173543.png",
-    "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments",
-    "OCR A Level Physics/Specification/Module 4/Waves 2/attachments/Pasted image 20260501142042.png",
     "Untitled.canvas"
   ]
 }
