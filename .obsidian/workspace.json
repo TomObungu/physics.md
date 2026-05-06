@@ -316,18 +316,19 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "7bf83a8bcf065a59",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 6/Electric Fields/Charged particles in uniform electric fields.md",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/Q. Explain why the charge left on the ball is Q_0 by 1000.md",
-    "List Of Weak Topics.md",
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/Equipotentials.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "List Of Weak Topics.md",
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/Charged particles in uniform electric fields.md",
+    "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/Q. Explain why the charge left on the ball is Q_0 by 1000.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/attachments/Pasted image 20260502192848.png",
     "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Capacitors In Circuits.md",
@@ -366,7 +367,6 @@
     "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments/Pasted image 20260501173552.png",
     "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments/Pasted image 20260501173543.png",
     "OCR A Level Physics/Specification/Module 4/Quantum Physics/attachments",
-    "OCR A Level Physics/Specification/Module 4/Waves 2/Stationary waves in air columns.md",
     "OCR A Level Physics/Specification/Module 4/Waves 2/attachments/Pasted image 20260501142042.png",
     "Untitled.canvas"
   ]
