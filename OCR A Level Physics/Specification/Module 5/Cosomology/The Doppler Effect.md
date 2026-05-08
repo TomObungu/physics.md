@@ -1,4 +1,4 @@
-Whenever a wave sources relative to an observer, the frequency and wavelength of the waves received by the observer change compared with what would be observed without relative motion.
+Whenever a **wave source**  moves relative to an observer, the frequency and wavelength of the waves received by the observer change compared with what would be observed without relative motion.
 
 # Doppler Shift
 Consider a wave source that is stationary to two observed at $A$ and $B$. Both observed experience waves at the same frequency and wavelength $\lambda$ as they were emitted from the source:
