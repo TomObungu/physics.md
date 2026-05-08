@@ -84,6 +84,9 @@ $$
 pV = nRT
 $$
 # The relationship between pressure and the density of the gas
+The quantity $M$ is known as the molar mass. It has units grams per mole. $g / mol$. It the mass of one mole of a specific substance.
+
+
 If:
 $$
 pV=nRT
