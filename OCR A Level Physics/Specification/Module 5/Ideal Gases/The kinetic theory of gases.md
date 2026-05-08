@@ -22,7 +22,7 @@ However the molar mass is cumulative for every distinct element within molecules
 The kinetic theory of matter is a model used to describe the behaviour of the atoms or molecules in an ideal gas. Real gases have complex behaviour, so in order to keep the model simple, a number of assumptions are made about the atom or molecules in an ideal gas.
 
 ## Assumptions
-- The collisions of atoms or molecules with each and the container walls are perfectly elastic (no kinetic energy)
+- The collisions of atoms or molecules with each other and the container walls are perfectly elastic (no kinetic energy)
 - Electrostatic force between molecules is negligible except during collisions
 - The volume of the molecules is negligible compared to the volume of the container
 - The time within a collision is negligible compared to the time between collisions

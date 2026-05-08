@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 5/Cosomology/The Doppler Effect.md",
+                "file": "OCR A Level Physics/Specification/Module 5/Ideal Gases/The kinetic theory of gases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Doppler Effect"
+              "title": "The kinetic theory of gases"
             }
           }
         ],
@@ -252,67 +252,41 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "b1607345aec387ca",
-        "type": "window",
-        "children": [
-          {
-            "id": "5100f84eaf5a5f41",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ae9b85db72c033d3",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "ae9b85db72c033d3",
+  "active": "80fbaa01ca20e862",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 5/Ideal Gases/Gas laws.md",
+    "OCR A Level Physics/Specification/Module 5/Ideal Gases/Root mean square speed.md",
+    "OCR A Level Physics/Specification/Module 5/Ideal Gases/The Boltzmann constant.md",
+    "OCR A Level Physics/Specification/Module 5/Ideal Gases/The kinetic theory of gases.md",
+    "List Of Weak Topics.md",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
+    "OCR A Level Physics/Specification/Module 5/Definitons and Practicals.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/The Doppler Effect.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 5/Cosomology/attachments/Pasted image 20260508105008.png",
-    "OCR A Level Physics/Module 2/Making Measuremants and Analysing Data/Line of best and worst fit.md",
-    "OCR A Level Physics/Module 2/Making Measuremants and Analysing Data/attachments/Pasted image 20260508102355.png",
-    "OCR A Level Physics/Module 2/Making Measuremants and Analysing Data/attachments/Pasted image 20260508102213.png",
-    "OCR A Level Physics/Module 2/Making Measuremants and Analysing Data/attachments/Pasted image 20260508102143.png",
-    "OCR A Level Physics/Module 2/Making Measuremants and Analysing Data/attachments/Pasted image 20260508102137.png",
-    "OCR A Level Physics/Module 2/Making Measuremants and Analysing Data/attachments",
-    "OCR A Level Physics/Module 2/Making Measuremants and Analysing Data/Taking logarithms and uncertainty.md",
-    "OCR A Level Physics/Module 2/Making Measuremants and Analysing Data/Uncertainty.md",
-    "OCR A Level Physics/Module 2/attachments/Pasted image 20260508101538.png",
-    "OCR A Level Physics/Module 2/attachments/Pasted image 20260508101530.png",
-    "OCR A Level Physics/Module 2/attachments",
-    "OCR A Level Physics/Module 2/Making Measuremants and Analysing Data",
+    "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/Line of best and worst fit.md",
+    "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/attachments/Pasted image 20260508102355.png",
+    "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/attachments/Pasted image 20260508102213.png",
+    "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/attachments/Pasted image 20260508102143.png",
+    "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/attachments/Pasted image 20260508102137.png",
+    "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/attachments",
+    "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/Taking logarithms and uncertainty.md",
+    "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/Uncertainty.md",
+    "OCR A Level Physics/Specification/Module 2/attachments/Pasted image 20260508101538.png",
+    "OCR A Level Physics/Specification/Module 2/attachments/Pasted image 20260508101530.png",
+    "OCR A Level Physics/Specification/Module 2/attachments",
+    "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data",
     "Module 2.md",
-    "OCR A Level Physics/Module 2",
+    "OCR A Level Physics/Specification/Module 2",
     "OCR A Level Physics/Specification/Module 4/Definitions.md",
     "OCR A Level Physics/Resources/Module 2.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "Untitled.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/Q. Explain why the charge left on the ball is Q_0 by 1000.md",
-    "List Of Weak Topics.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Uses Of capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Energy Stored by capacitors.md",
@@ -326,12 +300,8 @@
     "OCR A Level Physics/Specification/Module 6/Particle Physics/Quarks.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/attachments/Pasted image 20260506121740.png",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/attachments/Pasted image 20260506121400.png",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Nuclear fusion.md",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/Nuclear fission.md",
-    "OCR A Level Physics/Specification/Module 6/Electric Fields/Equipotentials.md",
     "OCR A Level Physics/Specification/Module 6/corrected questions",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/corrected questions",
-    "OCR A Level Physics/Specification/Module 6/Electric Fields/Charged particles in uniform electric fields.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/attachments/Pasted image 20260502192848.png",
     "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions",
