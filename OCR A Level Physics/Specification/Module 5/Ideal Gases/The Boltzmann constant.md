@@ -38,10 +38,15 @@ At a particular temperature $T$:
 - All gas molecules have the mean kinetic energy
 - The greater the mass atoms have smaller $r.m.s$ speed
 
+
+# Particles speeds at different temperatures
+At a given temperature the atoms or molecules in different gases have the same average kinetic energy. In the air, oxygen and helium molecules have the same mean kinetic energy. However, as the particles have different masses, their r.m.s speeds will be different. 
+
+This explains why there is very little helium in the Earth's atmosphere. As Helium molecules have smaller masses, they have higher r.m.s speeds . Over time, these faster moving helium atoms have escaped from the Earth's atmosphere. The escape velocity for the Earth is about 11 $kms ^{-1}$.
 # Internal energy
 The internal energy of an ideal gas entirely in the form of kinetic energy. The potential energy is zero because of the negligible electrostatic forces between the atoms. Therefore:
 $$
-\text{internal energy of gas} = N \frac{3}{2}kT
+\text{internal energy of gas} =  \frac{3}{2}NkT
 $$
 or:
 $$

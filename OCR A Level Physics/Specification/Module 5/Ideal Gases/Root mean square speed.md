@@ -1,5 +1,8 @@
 The pressure exerted by a gas and the mean kinetic energy of molecules of a gas are related not the mean speed of the molecules, but to the root mean square (r.m.s) speed of the molecules.
 
+The r.m.s is reflective of a single particle and the average particle too. This means the r.m.s can be used to determine the average kinetic energy of the whole gas and a single molecule too. 
+
+The speed of a single molecule will be the r.m.s. 
 ## r.m.s
 The atoms or molecules of a gas move in random directions and have a range of speeds. Below is the spread in the speed of the molecules - the graph is known as the Maxwell-Boltzmann distribution.
 ![[Pasted image 20260107215051.png]]
