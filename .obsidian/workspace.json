@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 5/Ideal Gases/The kinetic theory of gases.md",
+                "file": "OCR A Level Physics/Specification/Module 5/Ideal Gases/The Boltzmann constant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The kinetic theory of gases"
+              "title": "The Boltzmann constant"
             }
           }
         ],
@@ -252,7 +252,7 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       },
       {
@@ -290,14 +290,16 @@
   },
   "active": "3739007377e6bbc3",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 5/Ideal Gases/The kinetic theory of gases.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/The Boltzmann constant.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Root mean square speed.md",
+    "OCR A Level Physics/Specification/Module 5/Ideal Gases/attachments/Pasted image 20260508204815.png",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 5/Ideal Gases/attachments/Pasted image 20260508202631.png",
+    "List Of Weak Topics.md",
+    "OCR A Level Physics/Specification/Module 5/Ideal Gases/The kinetic theory of gases.md",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Gas laws.md",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/Internal energy.md",
-    "List Of Weak Topics.md",
     "OCR A Level Physics/Specification/Module 5/Definitons and Practicals.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/The Doppler Effect.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/attachments/Pasted image 20260508105008.png",
@@ -329,10 +331,8 @@
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Calculate the kinetic energy, in MeV, of the alpha-particle.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Explain what is meant by the half-life of a free neutron.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/attachments/Pasted image 20260506121740.png",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/attachments/Pasted image 20260506121400.png",
     "OCR A Level Physics/Specification/Module 6/corrected questions",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/corrected questions",
-    "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/attachments/Pasted image 20260502192848.png",
     "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions",
     "Untitled.canvas"

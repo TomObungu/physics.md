@@ -26,10 +26,49 @@ pV = \frac{1}{3}N\bar{c^{2}}
 $$
 Where $p$ is the pressure exerted by the gas, $V$ is the volume of the gas, $N$ is the number of atoms or molecules in the gas, $m$ is the mass of each atom and $\bar{c^{2}}$ is the $r.m.s$. 
 
+We use the r.m.s to describe the velocity of a single particle due to the average velocity of a particle being zero. Taking the square ensure all values of positive. The r.m.s also nicely reflects the relationship of energy being proportional the the velocity square in $E_{k} = \frac{1}{2}mv^{2}$
+
 ## Derivation 
+The equation $pV = \frac{1}{3}Nm \bar{c^{2}}$ can be derived by considering how the movement of atoms or molecules of gas inside a sealed box gives rise to pressure. 
+
+All explanations
+assume the ideal gas laws. 
+
+![[Pasted image 20260508202631.png]]
+
+A single gas particle making repeated collisions with a cubic container of side length $L$. The particle has mass $m$ and velocity $c$. 
+
+Assuming the particle travels from one side of the container to other and elastic collisions, a particle undergoes a change in momentum of $2mc$. The particle moves speed $c$ and so takes $t = \frac{2L}{c}$ to travel across the cube. Thus the force exerted by the particle on the wall is:
+$$
+F = \frac{\Delta p}{\Delta t} = 2mc \times \frac{C}{2L} = \frac{mc^{2}}{L}
+$$
+For a single molecule, $c$ is the r.m.s, which is $\bar{c^{2}}$. Therefore
+$$
+F = \frac{m\bar{c^{2}}}{L}
+$$
+On average, about $\frac{1}{3}$ of the random motion of the gas particles will be moving between two opposite faces of the container. Consequently. The Total forces of $N$ molecules on one end of the container wall of cross-sectional area $L^{2}$ due to collisions from all of the particles must be:
+$$
+F = \frac{1}{3L}Nm \bar{c^{2}}
+$$
+Thus to get the pressure, divide by the cross sectional area of the cube. This is $L^{2}$. Therefore:
+$$
+p  = \frac{Nm\bar{c^{2}}}{3L^{3}}  = \frac{Nm\bar{c^{2}}}{3V}
+$$
+Therefore:
+$$
+pV = \frac{1}{3}Nm \bar{c^{2}}
+$$
 
 
 
 # Why molecules with larger mass have much smaller speed than air
 Larger particles e.g. smoke and air molecules have the same mean kinetic energy at a specific temperature. As the mass of a smoke particle is much larger than an air molecules, according to $\bar{c^{2}} = \frac{3kT}{m}$, the $r.m.s$ speed of the more massive smoke particles is much less of the air molecules. 
+
+
+# Distribution of particles at different temperatures
+The r.m.s speed provides a useful way to describe the motion of the particles in the gas, however it is an average. At any temperature, the random motion of the particles means that some are travelling very fast, whilst others are barley moving. The range of speeds of the particles in a gas is known as the Maxwell-Boltzmann distribution. 
+
+Changing the temperature of the gas changes the distribution. The hotter a gas becomes, the greater the range of speeds. The most common (modal) speed increases and therefore the r.m.s increases also. This results in the distribution becoming more spread out. 
+
+![[Pasted image 20260508204815.png]]
 
