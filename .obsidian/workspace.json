@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 5/Ideal Gases/Gas laws.md",
+                "file": "OCR A Level Physics/Specification/Module 5/Thermal Physics/Internal energy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gas laws"
+              "title": "Internal energy"
             }
           }
         ],
@@ -279,17 +279,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "3739007377e6bbc3",
+  "active": "80fbaa01ca20e862",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Internal energy.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Gas laws.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Root mean square speed.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/The Boltzmann constant.md",
@@ -298,7 +300,6 @@
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 5/Definitons and Practicals.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/The Doppler Effect.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 5/Cosomology/attachments/Pasted image 20260508105008.png",
     "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/Line of best and worst fit.md",
     "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/attachments/Pasted image 20260508102355.png",
@@ -327,8 +328,6 @@
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Show that 14 particles are emitted during this decay chain..md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Calculate the kinetic energy, in MeV, of the alpha-particle.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Explain what is meant by the half-life of a free neutron.md",
-    "OCR A Level Physics/Specification/Module 6/Particle Physics/Beta decay.md",
-    "OCR A Level Physics/Specification/Module 6/Particle Physics/Quarks.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/attachments/Pasted image 20260506121740.png",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/attachments/Pasted image 20260506121400.png",
     "OCR A Level Physics/Specification/Module 6/corrected questions",
