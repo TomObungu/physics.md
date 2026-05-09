@@ -21,7 +21,6 @@ $$
 -$$c_{r.m.s}=\sqrt{ \bar{c^{2}} }$$
 
 For 4 atoms with velocities $-200ms ^{-1}$, $+ 300 ms ^{-1}$, $-430 ms ^{-1}$ and $+330 ms ^{-1}$, you can show that the mean velocity is $0 ms ^{-1}$, the mean speed is $315$ and the $r.m.s$ is $325$.
-
 # Pressure at the microscopic level
 The kinetic theory model of gases, based on Newtonian mechanics show that:
 $$

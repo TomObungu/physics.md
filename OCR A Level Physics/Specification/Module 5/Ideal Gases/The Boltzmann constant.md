@@ -27,11 +27,14 @@ Therefore:
 $$
 \frac{1}{3}m \bar{c^{2}} = \frac{nRT}{N} = \frac{nRT}{nN_{A}} = kT
 $$
-This can be written as:
+This can be written as
 $$
 \frac{1}{2}m \bar{c^{2}} = \frac{3}{2}kT
 $$
 In the equation above, $\frac{1}{2}m \bar{c^{2}}$ is the mean kinetic energy of the gas molecules. 
+
+Remember if you are given the r.m.s speed in a question, you must take the square of it when dealing with kinetic energy. The r.m.s speed is just the average velocity of a single particle. 
+
 
 ## Note:
 At a particular temperature $T$:
