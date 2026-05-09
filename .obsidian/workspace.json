@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 5/Thermal Physics/Temperature.md",
+                "file": "OCR A Level Physics/Specification/Module 5/Thermal Physics/Specific Latent Heat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temperature"
+              "title": "Specific Latent Heat"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oscillo",
+                "query": "specific laten",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -290,8 +290,16 @@
   },
   "active": "80fbaa01ca20e862",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Specific heat capacity.md",
+    "OCR A Level Physics/Specification/Module 5/Thermal Physics/attachments/Pasted image 20260509084401.png",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Specific Latent Heat.md",
+    "OCR A Level Physics/Specification/Module 5/Thermal Physics/attachments/Pasted image 20260509083954.png",
+    "OCR A Level Physics/Specification/Module 5/Thermal Physics/attachments/Pasted image 20260509083352.png",
+    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Internal energy.md",
+    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Solids, liquids and gases.md",
+    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Brownian Motion.md",
+    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Temperature.md",
+    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Specific heat capacity.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions/Q. Spherical filaments lamps are manufactured by a process where they are filled with a gas at 290K and low pressure. Explain in terms of energy transfers, why the temperature of the filament does not increase beyond 2400..md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions/attachments/Pasted image 20260509080658.png",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions/attachments",
@@ -304,7 +312,6 @@
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Gas laws.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/attachments/Pasted image 20260508204815.png",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/attachments/Pasted image 20260508202631.png",
-    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Internal energy.md",
     "OCR A Level Physics/Specification/Module 5/Definitons and Practicals.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/The Doppler Effect.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/attachments/Pasted image 20260508105008.png",
@@ -316,8 +323,6 @@
     "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/attachments",
     "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/Taking logarithms and uncertainty.md",
     "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/Uncertainty.md",
-    "OCR A Level Physics/Specification/Module 2/attachments/Pasted image 20260508101538.png",
-    "OCR A Level Physics/Specification/Module 2/attachments/Pasted image 20260508101530.png",
     "OCR A Level Physics/Specification/Module 2/attachments",
     "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data",
     "Module 2.md",
@@ -329,11 +334,6 @@
     "OCR A Level Physics/Specification/Module 6/Capacitance/Uses Of capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Capacitors.md",
     "OCR A Level Physics/Specification/Module 6/Capacitance/Energy Stored by capacitors.md",
-    "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating charging and discharging capacitors.md",
-    "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Iterative Exponential Decay Model.md",
-    "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating capacitors in parallel.md",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Show that 14 particles are emitted during this decay chain..md",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Calculate the kinetic energy, in MeV, of the alpha-particle.md",
     "OCR A Level Physics/Specification/Module 6/corrected questions",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/corrected questions",
     "Untitled.canvas"
