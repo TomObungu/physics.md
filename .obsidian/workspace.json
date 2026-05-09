@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 5/Ideal Gases/The Boltzmann constant.md",
+                "file": "OCR A Level Physics/Specification/Module 5/Thermal Physics/Temperature.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Boltzmann constant"
+              "title": "Temperature"
             }
           }
         ],
@@ -290,15 +290,20 @@
   },
   "active": "80fbaa01ca20e862",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Specific heat capacity.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions/Q. Spherical filaments lamps are manufactured by a process where they are filled with a gas at 290K and low pressure. Explain in terms of energy transfers, why the temperature of the filament does not increase beyond 2400..md",
+    "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions/attachments/Pasted image 20260509080658.png",
+    "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions/attachments",
+    "OCR A Level Physics/Specification/Module 5/Ideal Gases/The Boltzmann constant.md",
+    "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions",
+    "List Of Weak Topics.md",
+    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/The kinetic theory of gases.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Root mean square speed.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Gas laws.md",
-    "OCR A Level Physics/Specification/Module 5/Ideal Gases/The Boltzmann constant.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/attachments/Pasted image 20260508204815.png",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/attachments/Pasted image 20260508202631.png",
-    "List Of Weak Topics.md",
-    "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/Internal energy.md",
     "OCR A Level Physics/Specification/Module 5/Definitons and Practicals.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/The Doppler Effect.md",
@@ -329,12 +334,8 @@
     "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating capacitors in parallel.md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Show that 14 particles are emitted during this decay chain..md",
     "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Calculate the kinetic energy, in MeV, of the alpha-particle.md",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/Q. Explain what is meant by the half-life of a free neutron.md",
-    "OCR A Level Physics/Specification/Module 6/Nuclear Physics/corrected questions/attachments/Pasted image 20260506121740.png",
     "OCR A Level Physics/Specification/Module 6/corrected questions",
     "OCR A Level Physics/Specification/Module 6/Particle Physics/corrected questions",
-    "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions/attachments",
-    "OCR A Level Physics/Specification/Module 6/Capacitance/corrected questions",
     "Untitled.canvas"
   ]
 }
