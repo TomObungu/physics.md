@@ -192,37 +192,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "e1863dd79eddd8b4",
-        "type": "window",
-        "children": [
-          {
-            "id": "43db01fece55d1a8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d3c32ef4ac2cefa2",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org )"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "1369918e51ccf9d1",
         "type": "window",
         "children": [
