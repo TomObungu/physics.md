@@ -221,7 +221,7 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       },
       {
@@ -257,11 +257,11 @@
       }
     ]
   },
-  "active": "3739007377e6bbc3",
+  "active": "0d707c9581cb4393",
   "lastOpenFiles": [
-    "List Of Weak Topics.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/Conversions.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "List Of Weak Topics.md",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Work done and energy.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/The kinetic theory of gases.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Root mean square speed.md",
