@@ -26,7 +26,7 @@ The kinetic theory model of gases, based on Newtonian mechanics show that:
 $$
 pV = \frac{1}{3}N\bar{c^{2}}
 $$
-Where $p$ is the pressure exerted by the gas, $V$ is the volume of the gas, $N$ is the number of atoms or molecules in the gas, $m$ is the mass of each atom and $\bar{c^{2}}$ is the $r.m.s$. 
+Where $p$ is the pressure exerted by the gas, $V$ is the volume of the gas, $N$ is the number of atoms or molecules in the gas, $m$ is the mass of each atom and $\bar{c^{2}}$ is the **mean square speed**
 
 We use the r.m.s to describe the velocity of a single particle due to the average velocity of a particle being zero. Taking the square ensure all values of positive. The r.m.s also nicely reflects the relationship of energy being proportional the the velocity square in $E_{k} = \frac{1}{2}mv^{2}$
 
