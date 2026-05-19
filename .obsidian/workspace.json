@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3d7cec837463bd44",
+        "id": "a07b5104a9035721",
         "type": "tabs",
         "children": [
           {
-            "id": "4d394619b33f5744",
+            "id": "db78c0abfc77b217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Iterative Exponential Decay Model.md",
+                "file": "Revision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iterative Exponential Decay Model"
-            }
-          },
-          {
-            "id": "80fbaa01ca20e862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OCR A Level Physics/Specification/Module 5/Stars/Objects in the Universe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Objects in the Universe"
+              "title": "Revision"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,12 +172,63 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "80fbaa01ca20e862",
+  "floating": {
+    "id": "99e9e9106498c0ce",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1a9ac8b7a397fb55",
+        "type": "window",
+        "children": [
+          {
+            "id": "d3506cccde1379f9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "80fbaa01ca20e862",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "OCR A Level Physics/Specification/Module 4/Waves 2/Interference.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Interference"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1317,
+        "y": 13,
+        "width": 603,
+        "height": 1000,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "db78c0abfc77b217",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "attachments/Pasted image 20260519113129.png",
+    "attachments",
+    "OCR A Level Physics/Specification/Module 5/Stars/Analysing starlight.md",
+    "Revision.md",
+    "OCR A Level Physics/Specification/Module 4/Waves 2/Interference.md",
     "OCR A Level Physics/Specification/Module 5/Stars/Objects in the Universe.md",
-    "Untitled.md",
+    "OCR A Level Physics/Specification/Module 4/Waves 2/Harmonics.md",
+    "OCR A Level Physics/Specification/Module 4/Waves 2/Stationary Waves.md",
+    "OCR A Level Physics/Specification/Module 4/Waves 2/Stationary waves in air columns.md",
+    "OCR A Level Physics/Specification/Module 4/Waves 2/Superposition Of Waves.md",
+    "OCR A Level Physics/Specification/Module 4/Waves 2/The Young Double Slit Experiment.md",
+    "OCR A Level Physics/Specification/Module 5/Cosomology/Hubble's law.md",
+    "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Iterative Exponential Decay Model.md",
     "OCR A Level Physics/Specification/Module 5/Stars/The life cycle of stars.md",
+    "OCR A Level Physics/Specification/Module 5/Stars/The Hertzsprung-Russel diagram.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Damping and driving.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
     "List Of Weak Topics.md",
@@ -205,26 +241,16 @@
     "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/Conversions.md",
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Work done and energy.md",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/Specific heat capacity.md",
-    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Temperature.md",
-    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Solids, liquids and gases.md",
-    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Brownian Motion.md",
-    "OCR A Level Physics/Specification/Module 5/Cosomology/Evolution of the Universe.md",
-    "OCR A Level Physics/Specification/Module 5/Cosomology/The Big Bang theory.md",
-    "OCR A Level Physics/Specification/Module 5/Cosomology/Astronomical distances.md",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/attachments/Pasted image 20260509084401.png",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/attachments/Pasted image 20260509083954.png",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/attachments/Pasted image 20260509083352.png",
-    "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions/Q. Spherical filaments lamps are manufactured by a process where they are filled with a gas at 290K and low pressure. Explain in terms of energy transfers, why the temperature of the filament does not increase beyond 2400..md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions/attachments/Pasted image 20260509080658.png",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/attachments/Pasted image 20260508204815.png",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/attachments/Pasted image 20260508202631.png",
-    "OCR A Level Physics/Specification/Module 5/Definitons and Practicals.md",
-    "OCR A Level Physics/Specification/Module 5/Cosomology/The Doppler Effect.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/attachments/Pasted image 20260508105008.png",
-    "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/Line of best and worst fit.md",
     "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/attachments/Pasted image 20260508102355.png",
     "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/attachments/Pasted image 20260508102213.png",
     "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/attachments/Pasted image 20260508102143.png",
@@ -233,7 +259,6 @@
     "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data",
     "OCR A Level Physics/Specification/Module 2",
     "OCR A Level Physics/Specification/Module 6/corrected questions",
-    "OCR A Level Physics/Specification/Module 6/Particle Physics/corrected questions",
     "Untitled.canvas"
   ]
 }
