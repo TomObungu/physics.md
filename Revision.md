@@ -67,5 +67,16 @@ This technique is limited to stars less than 100pc from the Earth, this is becau
 
 ![[Pasted image 20260519115449.png]]
 
-The Doppler effect]
+The Doppler effect
+
+Hubble's law
+
+Light from distance galaxies was red-shifted, that is, the had a relative velocity away from the Earth
+
+The further away the galaxy was moving, the greater the observed red shift and so the faster the galaxy was moving. 
+
+Using the observations he showed that velocity of a galaxy is directly proportional to its distance $d$, from the Earth, that is $v \propto d$. 
+
+
+
 
