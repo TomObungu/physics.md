@@ -32,3 +32,39 @@ Shows that luminosity is proportional to
 wien's law and stefans law can be used together to examine the radius of a distant star. Once the radius is known, the mass and density of the star can be determined using Newton's law of gravitation
 
 
+# Cosmology
+
+One astronomical distance is the average distance from the Earth to the sun of 150 million km
+
+One light year is the distance travellled by light in one year. This is the speed of light multiplied by 3600(24)(365)
+
+
+The parsec is defined as the distance which a radius of one AU subtends an angle of one arcsecond. 
+
+1 arcsecond = $\frac{1}{3600}$
+
+Thus one parsec is:
+$$
+\tan\left(  \frac{1}{3600} \right) = \frac{1AU}{1pc}
+$$
+
+$$
+1pc =\frac{1.5 \times 10^{11}}{\tan\left( \frac{1}{3600} \right)} 
+$$
+The small angle approximation formulae can be used to show that at a distance $d$, the angle subtended is a $\frac{1}{d}$ arcseconds. 
+
+## Stellar parallax 
+A technique used to determine the distance to stars that are relatively close to Earth, at distances less than 100 pc
+
+Parallax is the apparent shift in the position of a relatively close star against the backdrop of much more distance stars.  as the Earth orbits around the sun. 
+
+When the Earth is in position A and after six months is in position B. The appears in position 1 and then appears in position 2. If $p$ is measured in arcseconds, the distance to the nearby star is given by:
+$$
+d = \frac{1}{p}
+$$
+
+This technique is limited to stars less than 100pc from the Earth, this is because as $d$ increases, the parallax angle decreases. Eventually becoming to small to measure accurately even with the most advanced astronomical techniques. 
+
+![[Pasted image 20260519115449.png]]
+
+

@@ -8,7 +8,7 @@ Module 5:
 	- Kepler's laws
 	- Satellites
 	- Gravitational potential 
-- Stars
+- ~~Stars~~
 - Ideal gases
 	- Kinetic theory of gases
 	- Gas laws
