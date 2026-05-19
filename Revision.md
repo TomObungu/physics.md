@@ -67,4 +67,5 @@ This technique is limited to stars less than 100pc from the Earth, this is becau
 
 ![[Pasted image 20260519115449.png]]
 
+The Doppler effect]
 
