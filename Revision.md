@@ -77,6 +77,22 @@ The further away the galaxy was moving, the greater the observed red shift and s
 
 Using the observations he showed that velocity of a galaxy is directly proportional to its distance $d$, from the Earth, that is $v \propto d$. 
 
+## Evolution of the universe
+Big Bang - Time and space created. The universe is a singularity - it is infintely dense and hot
 
+$10^{-35}s$ The universe expands rapidly, including a phase of incredible acceleration known as inflation. There is no matter - only high energy gamma photons. The temperature is about $10^{28}K$.
+$10^{-6}$s The first fundamental particles such as quarks, leptons gain mass through a mechanism involving the Higgs boson.
+
+The quarks combine to form the first hadrons such as protons and neutrons. After about a second the creation of matter stops and the temperature is $10^{9}$K
+
+Protons and neutrons fuse together t form deuterium and helium nuclei along with a small quantity of lithium and beryllium. The universe expands so rapidly, no heavier elements are created. During this time, about 25 % of the matter in the universe is helium nuclei. 
+
+At about 380 00 years. The universe cools enough for the first few atoms to form. The nuclei capture electrons. The EM radiation from this stage of the Universe is what can be detect as microwave background radiation. 
+
+30 million The first stars appear. Through nuclear fusion, the first heavy elements (beyond lithium) form.
+
+200 million Our galaxy, the Milky Way, forms, as gravitational forces pull clouds of hydrogen and existing stars together. 
+
+9 billion years - the Solar System forms the nebula left by the supernova of a larger star. 
 
 
