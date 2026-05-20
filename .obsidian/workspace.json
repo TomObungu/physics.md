@@ -11,14 +11,12 @@
             "id": "db78c0abfc77b217",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Revision.md",
-                "mode": "source",
-                "source": false
+                "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Revision"
+              "icon": "lucide-file-text",
+              "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
             }
           }
         ]
@@ -172,8 +170,47 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db78c0abfc77b217",
+  "floating": {
+    "id": "99e9e9106498c0ce",
+    "type": "floating",
+    "children": [
+      {
+        "id": "729f8ac258d12ab3",
+        "type": "window",
+        "children": [
+          {
+            "id": "ba745c8356e1526d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c80992f5a07fb794",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c80992f5a07fb794",
   "lastOpenFiles": [
+    "Revision.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Simple harmonic motion and energy.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Oscillations and simple harmonic motion.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Damping and driving.md",
@@ -190,7 +227,6 @@
     "OCR A Level Physics/Specification/Module 3/Definitions and practicals.md",
     "OCR A Level Physics/Specification/Module 5/Definitons and Practicals.md",
     "OCR A Level Physics/Specification/Module 5/Stars/Analysing starlight.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/Brownian Motion.md",
     "OCR A Level Physics/Specification/Module 4/Waves 2/Interference.md",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/Temperature.md",
@@ -199,8 +235,6 @@
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Root mean square speed.md",
     "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Gravitational Potential/Finding impact velocity using Gravitational Potential.md",
     "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Gravitational Potential/Gravitational Potential.md",
-    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Gravitational Field Strength/Gravitational field strength for a point mass.md",
-    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Gravitational Field Strength/Area under a graph of g against r.md",
     "attachments/Pasted image 20260519115449.png",
     "attachments/Pasted image 20260519113129.png",
     "attachments",
