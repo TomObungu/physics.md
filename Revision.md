@@ -96,3 +96,10 @@ At about 380 00 years. The universe cools enough for the first few atoms to form
 9 billion years - the Solar System forms the nebula left by the supernova of a larger star. 
 
 
+When a mechanical system is displaced from its equilibrium position and allowed to oscillate without any external forces, its motion is referred to as free oscillation. 
+
+The frequency of the free oscillator is known as the natural frequency of the oscillator. 
+
+A forced oscillator is one which a periodic driver force is applied to an oscillator. The object will oscillate at the driving frequency.  
+
+An object will resonate if the driving frequency is the same as its natural frequency. This will cause the amplitude of the oscillator to increase significantly 
