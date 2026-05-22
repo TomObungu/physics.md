@@ -172,10 +172,47 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db78c0abfc77b217",
+  "floating": {
+    "id": "d03dd9d4aaca2229",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e922e901c8563f25",
+        "type": "window",
+        "children": [
+          {
+            "id": "93c980a65f13f1f3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "98ddbc84d5a70b4e",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "98ddbc84d5a70b4e",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Kepler's laws.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "Revision.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Simple harmonic motion and energy.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Oscillations and simple harmonic motion.md",
