@@ -172,47 +172,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "99e9e9106498c0ce",
-    "type": "floating",
-    "children": [
-      {
-        "id": "729f8ac258d12ab3",
-        "type": "window",
-        "children": [
-          {
-            "id": "ba745c8356e1526d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c80992f5a07fb794",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c80992f5a07fb794",
+  "active": "db78c0abfc77b217",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Kepler's laws.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Kepler's laws.md",
     "Revision.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Simple harmonic motion and energy.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Oscillations and simple harmonic motion.md",
@@ -237,7 +200,6 @@
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/Specific heat capacity.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Root mean square speed.md",
     "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Gravitational Potential/Finding impact velocity using Gravitational Potential.md",
-    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Gravitational Potential/Gravitational Potential.md",
     "attachments/Pasted image 20260519115449.png",
     "attachments/Pasted image 20260519113129.png",
     "attachments",
