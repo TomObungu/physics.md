@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Electrical energy and power.md",
+                "file": "OCR A Level Physics/Specification/Module 6/Electric Fields/corrected quesitons/Q. The electron has a gravitational and electric field around it. Which statement is not correct?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electrical energy and power"
+              "title": "Q. The electron has a gravitational and electric field around it. Which statement is not correct?"
             }
           }
         ]
@@ -172,8 +172,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db78c0abfc77b217",
+  "floating": {
+    "id": "40db3153786beedf",
+    "type": "floating",
+    "children": [
+      {
+        "id": "30d540af44219e43",
+        "type": "window",
+        "children": [
+          {
+            "id": "eb35ed432469e882",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1a8550147dfce5bc",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1a8550147dfce5bc",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/corrected quesitons/Q. The electron has a gravitational and electric field around it. Which statement is not correct?.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/corrected quesitons/attachments/Pasted image 20260526125838.png",
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/corrected quesitons/attachments/Pasted image 20260526125546.png",
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/corrected quesitons/Q. Draw the electric field pattern between the two plates.md",
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/attachments/Animation_9a.gif",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Electrical energy and power.md",
+    "OCR A Level Physics/Specification/Module 6/Electric Fields/Untitled",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/corrected questions/Q. What is the mass of the particle?.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/corrected questions/attachments/Pasted image 20260526110347.png",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/corrected questions/Q. What is the rate of energy released by the source?.md",
@@ -183,7 +228,6 @@
     "OCR A Level Physics/Specification/Module 6/Radioactivity/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Iterative Exponential Decay Model.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/corrected questions",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "Revision.md",
     "Paper 3 Evaluation.md",
     "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Kepler's laws.md",
@@ -202,23 +246,16 @@
     "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Power and efficiency.md",
     "OCR A Level Physics/Specification/Module 3/Definitions and practicals.md",
     "OCR A Level Physics/Specification/Module 5/Definitons and Practicals.md",
-    "OCR A Level Physics/Specification/Module 5/Stars/Analysing starlight.md",
-    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Brownian Motion.md",
-    "OCR A Level Physics/Specification/Module 4/Waves 2/Interference.md",
     "attachments/Pasted image 20260519115449.png",
     "attachments/Pasted image 20260519113129.png",
     "attachments",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/attachments/Pasted image 20260509084401.png",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/attachments/Pasted image 20260509083954.png",
-    "OCR A Level Physics/Specification/Module 5/Thermal Physics/attachments/Pasted image 20260509083352.png",
-    "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions/attachments/Pasted image 20260509080658.png",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions",
     "OCR A Level Physics/Resources/A level physics for OCR. Revision guide A -- Chadha, Gurinder, 1957- author -- ( WeLib.org ).pdf",
-    "OCR A Level Physics/Specification/Module 5/Ideal Gases/attachments/Pasted image 20260508204815.png",
     "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data/attachments",
     "OCR A Level Physics/Specification/Module 2/attachments",
-    "OCR A Level Physics/Specification/Module 2/Making Measuremants and Analysing Data",
     "Untitled.canvas"
   ]
 }
