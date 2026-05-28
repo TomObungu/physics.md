@@ -25,8 +25,6 @@ Uses:
 #### Thermistor experiment
 An investigation into how the resistance of a thermistor changes with temperature can be carried using an ohmmeter and water bath. 
 
-- Place the the thermistor 
-
 Alternatively, an ammeter and a voltmeter can be used to measure current in the thermistor and p.d across it different temperatures. The resistance can then be calculated using $R=\frac{V}{I}$
 
 ### I-v Characteristic of thermistor

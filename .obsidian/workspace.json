@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/I-V Characteristics.md",
+                "file": "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/The thermistor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I-V Characteristics"
+              "title": "The thermistor"
             }
           }
         ]
@@ -209,9 +209,13 @@
       }
     ]
   },
-  "active": "db78c0abfc77b217",
+  "active": "1a8550147dfce5bc",
   "lastOpenFiles": [
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/The thermistor.md",
     "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Resistance and resistivity.md",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Electrical energy and power.md",
+    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Diodes.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/I-V Characteristics.md",
     "OCR A Level Physics/Specification/Module 4/Waves 2/corrected questions/Q. State the phase difference and path difference in terms of wavelength lamba for waves from the two slits meeting at P.md",
     "OCR A Level Physics/Specification/Module 4/Waves 1/corrected questions/Q. Determine the phase difference in radians.md",
@@ -227,7 +231,6 @@
     "OCR A Level Physics/Specification/Module 6/Electric Fields/corrected quesitons/attachments/Pasted image 20260526125546.png",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/corrected quesitons/Q. Draw the electric field pattern between the two plates.md",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/attachments/Animation_9a.gif",
-    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Electrical energy and power.md",
     "OCR A Level Physics/Specification/Module 6/Electric Fields/Untitled",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/corrected questions/Q. What is the mass of the particle?.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/corrected questions/attachments/Pasted image 20260526110347.png",
@@ -249,9 +252,6 @@
     "OCR A Level Physics/Specification/Module 5/Circular Motion/Centripetal Acceleration.md",
     "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum/Newton's first and third laws of motion.md",
     "OCR A Level Physics/Specification/Module 3/Laws Of Motion and Momentum/Collisions in two dimensions.md",
-    "OCR A Level Physics/Specification/Module 3/Motion/Car stopping distances.md",
-    "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Work done and energy.md",
-    "OCR A Level Physics/Specification/Module 3/Work, Energy and power/Conservation Of energy.md",
     "attachments/Pasted image 20260519115449.png",
     "attachments/Pasted image 20260519113129.png",
     "attachments",
