@@ -71,3 +71,29 @@ A graph of BE per nucleon per nucleon helps us understand the process such as na
 - In fusion, two low number $A$ nuclei join together to produce a higher $A$ number nucleus. The newly formed nucleus has much greater binding energy than the initial nuclei and therefore energy is released. 
 
 - In fission, a high $A$ nucleus produces two lower $A$ nuclei. Energy is released because the two nuclei produced have higher binding energy than the parent nuclei. 
+
+The binding energy per nucleon can be given by:
+$$
+\text{Binding energy per nucleon } = \frac{\text{mass defect}}{\text{nucleon number}}
+$$
+
+The mass defect as stated earlier is given by taking the atomic mass of the nucleus on its own in atomic units, finding the mass of the sum of the individual protons and neutrons and finding this differences. 
+$$
+\Delta m =\text{mass defect} = \left(\sum\text{individual protons and neutrons}\right) -\text{mass of nucleus} 
+$$
+Recall from Einstien's equation:
+$$
+E = \Delta mc^{2}
+$$
+Thus:
+$$
+\text{B.E.P.N} = \frac{\Delta mc^{2}}{A}
+$$
+Where is the nucleon number of the atom. 
+
+# Important Deduction
+Uranium-235 has lower binding energy per neutron because it so many neutrons with a large mass defect. 
+
+Iron has the perfect nucleon to binding energy ration which gives it the highest binding energy.
+
+Thus fusion of elements up to Iron release energy as the fusion of the heavier elements up to Iron results in elements with a higher binding energy per nucleon. The exception for this is Lithium 
