@@ -204,15 +204,15 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "db78c0abfc77b217",
+  "active": "1a8550147dfce5bc",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 4/Quantum Physics/Einstein's Photoelectric Equation.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Electron gun.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Electrical energy and power.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/The thermistor.md",
