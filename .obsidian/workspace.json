@@ -204,6 +204,37 @@
         "y": 0,
         "width": 960,
         "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "ccf91e17e845de61",
+        "type": "window",
+        "children": [
+          {
+            "id": "cec5a8a4c74c05e9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "946b9f956ee26c11",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
         "maximize": true,
         "zoom": 0
       }
