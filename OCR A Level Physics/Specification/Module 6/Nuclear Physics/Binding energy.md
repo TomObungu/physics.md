@@ -81,7 +81,7 @@ The mass defect as stated earlier is given by taking the atomic mass of the nucl
 $$
 \Delta m =\text{mass defect} = \left(\sum\text{individual protons and neutrons}\right) -\text{mass of nucleus} 
 $$
-Recall from Einstien's equation:
+Recall from Einstein's equation:
 $$
 E = \Delta mc^{2}
 $$
@@ -91,9 +91,12 @@ $$
 $$
 Where is the nucleon number of the atom. 
 
-# Important Deduction
+# Important Deductions
 Uranium-235 has lower binding energy per neutron because it so many neutrons with a large mass defect. 
 
 Iron has the perfect nucleon to binding energy ration which gives it the highest binding energy.
 
-Thus fusion of elements up to Iron release energy as the fusion of the heavier elements up to Iron results in elements with a higher binding energy per nucleon. The exception for this is Lithium 
+Thus, the fusion of elements up to Iron release energy as the fusion of the heavier elements up to Iron results in elements with a higher binding energy per nucleon. The exception for this is Lithium, Carbon and Fluorine which all momentarily give a drop in binding energy. 
+
+The fission of elements heavier than Iron such as Uranium-235 actually have daughter nuclei with higher binding energy per nucleon and thus end up releasing energy. 
+
