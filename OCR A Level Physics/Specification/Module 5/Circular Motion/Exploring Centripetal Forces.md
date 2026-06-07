@@ -14,8 +14,7 @@ The force F is always towards the centre of the circular path.
 ## Investing circular motion
 As the bung is swung in a horizontal circle the suspended weight remains stationary as long as the force it provides (Mg) is equal to the centripetal force required to make the bung travel in the circular path.
 
-If the centripetal force required
-is greater than the weight then the weight moves upwards. The paperclip acts as a marker
+If the centripetal force required is greater than the weight then the weight moves upwards. The paperclip acts as a marker
 
 ![[Pasted image 20250910020624.png]]
 
