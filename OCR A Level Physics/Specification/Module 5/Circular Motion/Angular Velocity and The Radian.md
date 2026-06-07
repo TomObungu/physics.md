@@ -1,6 +1,6 @@
 ## The Radian
 The SI unit for angle is the radian.  
-A radian is the angle subtended by a circular arc length with a length equal to the circle. 
+A radian is the angle subtended by a circular arc length with a length equal to the radius circle. 
 ![[Pasted image 20250905092930.png]]
 
 Angle in radians = $\text{}\frac{\text{arc length}}{radius}$
