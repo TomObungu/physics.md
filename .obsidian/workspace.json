@@ -172,51 +172,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "593f184a1de13e16",
-    "type": "floating",
-    "children": [
-      {
-        "id": "de4524f1b4a66159",
-        "type": "window",
-        "children": [
-          {
-            "id": "7db0de64d2df463f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7c01d014cb219fe6",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7c01d014cb219fe6",
+  "active": "d69adcde87aaa419",
   "lastOpenFiles": [
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/Damping and driving.md",
-    "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
-    "List Of Weak Topics.md",
+    "attachments/Pasted image 20260519115449.png",
     "Paper 3 Evaluation.md",
+    "List Of Weak Topics.md",
     "Revision.md",
+    "OCR A Level Physics/Specification/Module 5/Oscillations/Damping and driving.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Oscillations and simple harmonic motion.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Simple harmonic motion and energy.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/The Doppler Effect.md",
@@ -252,7 +216,6 @@
     "OCR A Level Physics/Specification/Module 6/Radioactivity/corrected questions/attachments/Pasted image 20260526105557.png",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/corrected questions",
-    "attachments/Pasted image 20260519115449.png",
     "attachments/Pasted image 20260519113129.png",
     "attachments",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/corrected questions/attachments",
