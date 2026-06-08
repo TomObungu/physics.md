@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Satellites.md",
+                "file": "OCR A Level Physics/Specification/Module 5/Cosomology/The Doppler Effect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Satellites"
+              "title": "The Doppler Effect"
             }
           }
         ]
@@ -204,23 +204,28 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "d69adcde87aaa419",
+  "active": "7c01d014cb219fe6",
   "lastOpenFiles": [
-    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Kepler's laws.md",
-    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Satellites.md",
-    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Gravitational Potential Energy.md",
+    "OCR A Level Physics/Specification/Module 5/Cosomology/The Doppler Effect.md",
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
+    "OCR A Level Physics/Specification/Module 5/Cosomology/The Big Bang theory.md",
+    "OCR A Level Physics/Specification/Module 5/Cosomology/Hubble's law.md",
+    "OCR A Level Physics/Specification/Module 5/Cosomology/Evolution of the Universe.md",
+    "OCR A Level Physics/Specification/Module 5/Cosomology/Astronomical distances.md",
     "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Gravitational Fields.md",
+    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Satellites.md",
+    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Kepler's laws.md",
+    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Gravitational Potential Energy.md",
     "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Gravitational Field Strength/Gravitational field strength for a point mass.md",
     "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Gravitational Field Strength/Area under a graph of g against r.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Simple harmonic motion and energy.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Damping and driving.md",
     "OCR A Level Physics/Specification/Module 5/Oscillations/Analysing simple harmonic motion.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/The Boltzmann constant.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Gas laws.md",
     "OCR A Level Physics/Specification/Module 5/Ideal Gases/Root mean square speed.md",
@@ -231,13 +236,7 @@
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/Specific heat capacity.md",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/Brownian Motion.md",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/Temperature.md",
-    "OCR A Level Physics/Specification/Module 5/Cosomology/The Doppler Effect.md",
-    "OCR A Level Physics/Specification/Module 5/Cosomology/The Big Bang theory.md",
-    "OCR A Level Physics/Specification/Module 5/Cosomology/Hubble's law.md",
-    "OCR A Level Physics/Specification/Module 5/Cosomology/Evolution of the Universe.md",
-    "OCR A Level Physics/Specification/Module 5/Cosomology/Astronomical distances.md",
     "OCR A Level Physics/Specification/Module 5/Circular Motion/Exploring Centripetal Forces.md",
-    "OCR A Level Physics/Specification/Module 5/Circular Motion/Centripetal Acceleration.md",
     "OCR A Level Physics/Specification/Module 4/Waves 2/corrected questions/attachments/Pasted image 20260526130332.png",
     "OCR A Level Physics/Specification/Module 4/Waves 2/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 4/Waves 2/corrected questions",
