@@ -1,4 +1,4 @@
-nThe internal energy of a substance is defined as the sum of the randomly distributed kinetic and potential energies of atoms or molecules within the substance.
+The internal energy of a substance is defined as the sum of the randomly distributed kinetic and potential energies of atoms or molecules within the substance.
 
 
 The table below shows the variation with time for a solid heated at a constant rate. 
