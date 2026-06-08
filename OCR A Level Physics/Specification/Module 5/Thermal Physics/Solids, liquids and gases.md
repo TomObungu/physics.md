@@ -21,8 +21,7 @@ Since the work done by the external force is against the charge of the electric 
 
 If we take the example of a solid, we can see that when two solid molecules are close together due to an external force of attraction. This means electrostatic potential will be a negative value. This because we define out zero point of electrostatic potential to be the point infinitely far way from the from solid molecule. 
 ![[Pasted image 20251002154133.png]]
-T
-his is why with gases the electrostatic potential is 0. This is because, the external force against the from one molecule $A$ to another $B$ is so small that it's negligible. Since we define the distance of infinity from $A$ to $B$ as infinite and the starting position of $B$ as 0. Due to the external force being so small. The force is closer to 0 and thus the electric potential is 0.
+This is why with gases the electrostatic potential is 0. This is because, the external force against the from one molecule $A$ to another $B$ is so small that it's negligible. Since we define the distance of infinity from $A$ to $B$ as infinite and the starting position of $B$ as 0. Due to the external force being so small. The force is closer to 0 and thus the electric potential is 0.
 
 ![[Pasted image 20251002153644.png]]
 # Properties of different matter phases
