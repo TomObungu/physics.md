@@ -24,7 +24,7 @@ For 4 atoms with velocities $-200ms ^{-1}$, $+ 300 ms ^{-1}$, $-430 ms ^{-1}$ an
 # Pressure at the microscopic level
 The kinetic theory model of gases, based on Newtonian mechanics show that:
 $$
-pV = \frac{1}{3}N\bar{c^{2}}
+pV = \frac{1}{3}Nm\bar{c^{2}}
 $$
 Where $p$ is the pressure exerted by the gas, $V$ is the volume of the gas, $N$ is the number of atoms or molecules in the gas, $m$ is the mass of each atom and $\bar{c^{2}}$ is the **mean square speed**
 
