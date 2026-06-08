@@ -14,7 +14,7 @@ From this equation we can deduce for a radial field, the gravitational field str
 - Inversely proportional to the square of the distance from t**he centre of mass** from the object. 
 ## From the Earth to the Moon:
 When spacecraft travel from the Earth to the Moon, the gravitational field strength they experience varies throughout the journey.
-On the surface of the Earth the magnitude of the gravitational field strength is $9.81$. How as the distance from the moon is greater at the Earth's surface, the effect of the Moon's gravitational field strength is quiet small. However as spacecraft travel towards the moon, the gravitational field strength of the Earth decreases but simultaneously the field strength of the moon increases. 
+On the surface of the Earth the magnitude of the gravitational field strength is $9.81$. However as the distance from the moon is greater at the Earth's surface, the effect of the Moon's gravitational field strength is quiet small. However as spacecraft travel towards the moon, the gravitational field strength of the Earth decreases but simultaneously the field strength of the moon increases. 
 
 At a certain point $B$ on the graph, the gravitational fields of the Earth of cancel out, meaning there is no zero net gravitational field strength. 
 ![[Pasted image 20251028221130.png]]
