@@ -9,6 +9,6 @@ Brownian motion typically implies that the motion of the pollen grains is random
 It is possible to observe Brownian motion through a microscope:
 ![[Pasted image 20251002161801.png]]
 
-In this experiment, it is possible to see that the randomness is caused by air molecules constantly striking the smoke particles. The mean kinetic energy of the smoke particles of the air molecules. However the air molecules 
+In this experiment, it is possible to see that the randomness is caused by air molecules constantly striking the smoke particles. The mean kinetic energy of the smoke particles of the air molecules. However the air molecules themselves are in random motion. The mean kinetic energy  of the particles is the same as the mean kinetic energy of the air molecules.
 ![[Pasted image 20251002161818.png]]
 

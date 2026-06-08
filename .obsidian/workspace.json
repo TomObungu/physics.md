@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCR A Level Physics/Specification/Module 5/Thermal Physics/Internal energy.md",
+                "file": "OCR A Level Physics/Specification/Module 5/Thermal Physics/Brownian Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internal energy"
+              "title": "Brownian Motion"
             }
           }
         ]
@@ -172,9 +172,51 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+  "floating": {
+    "id": "593f184a1de13e16",
+    "type": "floating",
+    "children": [
+      {
+        "id": "de4524f1b4a66159",
+        "type": "window",
+        "children": [
+          {
+            "id": "7db0de64d2df463f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7c01d014cb219fe6",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ALevelPhysicsForOCRAStudentBook_11zon (2)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "d69adcde87aaa419",
   "lastOpenFiles": [
+    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 5/Thermal Physics/Brownian Motion.md",
+    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Temperature.md",
+    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Kepler's laws.md",
+    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Gravitational Field Strength/Area under a graph of g against r.md",
+    "OCR A Level Physics/Specification/Module 5/Thermal Physics/Internal energy.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/The Doppler Effect.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/The Big Bang theory.md",
     "OCR A Level Physics/Specification/Module 5/Cosomology/Hubble's law.md",
@@ -184,10 +226,8 @@
     "OCR A Level Physics/Specification/Module 5/Circular Motion/Centripetal Acceleration.md",
     "OCR A Level Physics/Specification/Module 5/Circular Motion/Angular Velocity and The Radian.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/Half-life and activity.md",
-    "OCR A Level Physics/Resources/ALevelPhysicsForOCRAStudentBook_11zon (2).pdf",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/Radioactive decay calculations.md",
     "OCR A Level Physics/Specification/Module 6/Radioactivity/Radioactive Dating.md",
-    "OCR A Level Physics/Specification/Module 5/Gravatational Fields/Kepler's laws.md",
     "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Iterative Exponential Decay Model.md",
     "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating capacitors in parallel.md",
     "OCR A Level Physics/Specification/Module 6/Practicals/PAG9/Investigating charging and discharging capacitors.md",
@@ -197,10 +237,6 @@
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Electron gun.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Electrical energy and power.md",
     "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/The thermistor.md",
-    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Resistance and resistivity.md",
-    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/Diodes.md",
-    "OCR A Level Physics/Specification/Module 4/Energy, Power And Resistance/I-V Characteristics.md",
-    "OCR A Level Physics/Specification/Module 4/Waves 2/corrected questions/Q. State the phase difference and path difference in terms of wavelength lamba for waves from the two slits meeting at P.md",
     "OCR A Level Physics/Specification/Module 4/Waves 2/corrected questions/attachments/Pasted image 20260526130332.png",
     "OCR A Level Physics/Specification/Module 4/Waves 2/corrected questions/attachments",
     "OCR A Level Physics/Specification/Module 4/Waves 2/corrected questions",
